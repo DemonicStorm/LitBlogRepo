@@ -1,0 +1,392 @@
+5949/11
+
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/1'], (The Roses
+A man lives on regret and rehashed
+spites,
+knowing how foolish and ugly he is.
+, {'language': 'en', 'score': 0.99999790044547}), 23)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/2'], (One day, he finds hmself among yellow
+roses,
+just barely sulphurous, a cloying
+perfume,
+and they prove the coral in oceanic
+deeps
+and that the riddles and myths have all
+been true.
+, {'language': 'en', 'score': 0.9999958336163176}), 45)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/3'], (Only beauty, he discovers,
+has the power to speak, and perfume
+to hold back the rash riposte.
+, {'language': 'en', 'score': 0.9999951561444043}), 24)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/4'], (Paul de Roux
+, {'language': 'fr', 'score': 0.9999949333413389}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/5'], ((my translation)
+, {'language': 'en', 'score': 0.9999954069170955}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/6'], (Les Roses
+Un homme, {'language': 'fr', 'score': 0.9999968022553579}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/7'], (vit de regrets, d'envies
+recuites,
+conscient de sa sottise et de sa
+laideur.
+, {'language': 'fr', 'score': 0.999994987910013}), 20)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/8'], (Un jour il rencontre des roses jaunes,
+à peine souffrées,, {'language': 'fr', 'score': 0.9999973694780123}), 13)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/9'], (au parfum
+insinuant,
+qui prouvent, {'language': 'fr', 'score': 0.9999977243973516}), 8)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/10'], (le corail, {'language': 'fr', 'score': 0.9999958198251898}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/11'], (au fond, {'language': 'cy', 'score': 0.9999951343134823}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/12'], (des
+océans
+, {'language': 'fr', 'score': 0.9999977467221876}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/13'], (et la vérité des énigmes et des
+mythes.
+, {'language': 'fr', 'score': 0.9999973610024399}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/14'], (Seule la beauté, découvre-t-il,
+a le pouvoir de parler, le parfum
+de retenir la réponse imprudente.
+, {'language': 'fr', 'score': 0.9999975215163726}), 27)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/11/extracted.txt/15'], ([these are not roses, of course, mais quand même ...], {'language': 'fr', 'score': 0.7142853915163846}), 14)
+
+
+
+
+5949/12
+
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/1'], (Loblolly Marsh
+Geneva,, {'language': 'en', 'score': 0.9999969890172822}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/2'], (Indiana
+Winter Slips, {'language': 'id', 'score': 0.9999954446068384}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/3'], (Away
+Like a boat that has drifted from its mooring, {'language': 'en', 'score': 0.999997378872404}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/4'], (,
+softly, irresistibly, Winter slips away
+--- already gone or still here?, {'language': 'en', 'score': 0.9999957928975016}), 17)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/5'], (who knows?
+, {'language': 'en', 'score': 0.9999983113834042}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/6'], (In town, one catches mere hints, nothing yet
+of the bursting forth of bloom, of the sweetness
+of a bud that opens and for a moment
+is neither bud nor leaf: birth.
+, {'language': 'en', 'score': 0.9999966720330367}), 41)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/7'], (Clouds come and go, a caravan
+with news of unknown climes,
+of faraway fields and rivers
+--- a caravan that doesn't pause, perhaps
+learns nothing here --- then the sky is blue,
+only the birds are in tune with it
+--- in us there is something that doesn't yet shift
+easily, that stays blockily put
+like an abandoned parcel: this feeling that we
+are the sole thing in the world that isn't new again.
+, {'language': 'en', 'score': 0.9999977151218884}), 94)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/8'], ((my translation)
+, {'language': 'en', 'score': 0.999993478989371}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/9'], (Hiver s'écarte
+Comme un bateau à l'amarre détachée,
+doucement, irrésistiblement,, {'language': 'fr', 'score': 0.9999973024129969}), 15)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/10'], (Hiver s'écarte
+--- déjà absent, encore présent?, {'language': 'fr', 'score': 0.9999979359146958}), 10)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/11'], (qui le sait?
+, {'language': 'fr', 'score': 0.9999977248287939}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/12'], (En ville on ne saisit que des signes, rien encore
+de l'éclat des fleurs,, {'language': 'fr', 'score': 0.9999968634032039}), 17)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/13'], (de la douceur
+du bourgeon, {'language': 'fr', 'score': 0.9999965939258502}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/14'], (qui s'ouvre, {'language': 'fr', 'score': 0.9999971010509009}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/15'], (et un, {'language': 'fr', 'score': 0.9999962345640547}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/16'], (moment
+n'est ni bourgeon ni fleur: naissance.
+, {'language': 'fr', 'score': 0.9999951428732313}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/17'], (Les nuages passent, caravane
+avec ses nouvelles des climats inconnus,
+des campagnes et des fleuves lointains
+--- caravane qui ne s'arrête pas, peut-être
+, {'language': 'fr', 'score': 0.9999959739571465}), 32)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/18'], (n'apprend rien ---, {'language': 'af', 'score': 0.9999986726310177}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/19'], (puis le ciel est bleu,
+seuls les oiseaux sont en accord, {'language': 'fr', 'score': 0.9999963595453863}), 13)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/12/extracted.txt/20'], (avec lui
+--- en nous quelque chose qui ne bouge plus
+facilement, qui reste posé là
+comme un colis abandonné: sentiment
+d'être seul au monde à ne pas reverdir., {'language': 'fr', 'score': 0.9999973515147786}), 36)
+
+
+5949/20
+
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/1'], (Refinement
+, {'language': 'de', 'score': 0.9999955067770789}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/2'], (When, the senses quelled and eyes half-closed,
+, {'language': 'en', 'score': 0.999997837422011}), 12)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/3'], (We feel, beloved, a gentle, animal
+Calm descend, a snow of ash, invincible
+On the bright, impassioned fire that blazed,
+---, {'language': 'en', 'score': 0.9999957313355753}), 31)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/4'], (But when we have resisted such frenzies
+And have held back from quaffing to its lees
+, {'language': 'en', 'score': 0.9999970601508481}), 18)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/5'], (The entire, enervating cup of pleasure,
+What joy to have still the spur of longing
+And to suffer, forever, like moths thronging
+Our darkness, all the gyring birds of desire.
+, {'language': 'en', 'score': 0.9999938917927482}), 40)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/6'], (Albert Dreux
+(my translation)
+Raffinement
+Quand, {'language': 'fr', 'score': 0.9999974213965724}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/7'], (, les sens apaisés et les yeux demi-clos,
+Nous sentons, ô très chère, invincible descendre
+Le beau calme animal neigeant comme une cendre
+, {'language': 'fr', 'score': 0.9999963279116785}), 31)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/8'], (Sur le feu clair, ardent, qui flamboyait tantôt,
+, {'language': 'fr', 'score': 0.9999946407300355}), 12)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/9'], (On est, {'language': 'fr', 'score': 0.9999965724430963}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/10'], (heureux!, {'language': 'fr', 'score': 0.9999973878222163}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/11'], (Le cœur s’endort, tout doucement,
+Sans regret, sans frisson; et l’âme sans pensée,
+On songe vaguement aux forces dépensées,
+Et l’on flotte en, {'language': 'fr', 'score': 0.9999975661652158}), 32)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/12'], (un vague anéantissement.
+, {'language': 'fr', 'score': 0.9999954011426021}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/13'], (Mais, lorsque nous avons refusé, {'language': 'fr', 'score': 0.9999933912806063}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/14'], (la folie
+, {'language': 'ro', 'score': 0.999995667001079}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/15'], (Et que nous, {'language': 'fr', 'score': 0.9999945216724484}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/16'], (n’avons pas voulu jusqu’à la lie
+, {'language': 'fr', 'score': 0.8571407182600372}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/17'], (Boire la coupe, {'language': 'fr', 'score': 0.9999951825000741}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/18'], (entière et fade du plaisir,
+Quel bonheur de garder l’aiguillon dans nos veines
+Et de sentir toujours, comme un vol de phalène,
+Planer, {'language': 'fr', 'score': 0.9999955375312009}), 29)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/20/extracted.txt/19'], (autour de nous les oiseaux du désir., {'language': 'fr', 'score': 0.9999974677367571}), 8)
+
+
+5949/32
+
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/1'], (Gott spricht zu jedem nur, eh er ihn macht,
+dann geht, {'language': 'de', 'score': 0.9999967786005344}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/2'], (er schweigend mit ihm aus, {'language': 'de', 'score': 0.9999977025435837}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/3'], (der Nacht.
+, {'language': 'de', 'score': 0.9999965201026937}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/4'], (Aber die Worte, {'language': 'de', 'score': 0.999997790512263}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/5'], (, eh jeder beginnt,
+diese wolkigen Worte, sind:
+, {'language': 'af', 'score': 0.9999953465628673}), 13)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/6'], (Von deinen Sinnen hinausgesandt,
+geh bis an deiner Sehnsucht Rand;
+gib mir Gewand.
+, {'language': 'de', 'score': 0.999993805042247}), 19)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/7'], (Hinter den, {'language': 'de', 'score': 0.8621815426046046}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/8'], (Dingen wachse als Brand,
+dass ihre Schatten,, {'language': 'de', 'score': 0.9999982565727317}), 10)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/9'], (ausgespannt,
+immer mich ganz bedecken.
+, {'language': 'de', 'score': 0.9999976346613433}), 9)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/10'], (Lass dir Alles geschehn:, {'language': 'de', 'score': 0.9999984556982309}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/11'], (Schönheit und Schrecken.
+, {'language': 'de', 'score': 0.9999959435082816}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/12'], (Man muss nur gehn:, {'language': 'de', 'score': 0.9999954570371333}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/13'], (Kein Gefühl ist das fernste.
+, {'language': 'de', 'score': 0.9999964732179956}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/14'], (Lass dich von mir nicht trennen.
+, {'language': 'de', 'score': 0.99999576416595}), 8)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/15'], (Nah ist das Land,
+das sie das Leben nennen.
+, {'language': 'de', 'score': 0.9999945806686538}), 13)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/16'], (Du wirst, {'language': 'de', 'score': 0.9999966244219782}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/17'], (es, {'language': 'fr', 'score': 0.9999920865036249}), 1)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/18'], (erkennen
+, {'language': 'no', 'score': 0.9999943633123737}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/19'], (an seinem Ernste.
+, {'language': 'de', 'score': 0.9999952290521121}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/20'], (Gib mir die Hand.
+, {'language': 'af', 'score': 0.7142841457887161}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/21'], (God speaks to each creature only before he makes it,
+then walks silently with it out of the night.
+, {'language': 'en', 'score': 0.9999977798307699}), 23)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/22'], (But the words, before each begins,
+those cloud-shrouded words, are:
+Sent outward by your senses,
+, {'language': 'en', 'score': 0.9999968523930871}), 25)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/23'], (go to the limit of your longing;
+and so clothe me.
+, {'language': 'en', 'score': 0.9999977364208255}), 15)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/24'], (Rise behind things like a fire,
+so that their long-drawn shadows
+cover me over.
+, {'language': 'en', 'score': 0.9999960796910348}), 21)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/25'], (Let everything happen to you:, {'language': 'en', 'score': 0.9999972117482936}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/26'], (Beauty and Terror.
+, {'language': 'en', 'score': 0.9999954625437326}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/27'], (One must only keep going: no feeling is final.
+, {'language': 'en', 'score': 0.8571387409138297}), 12)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/28'], (Don't stray far from me.
+, {'language': 'en', 'score': 0.9999969206048345}), 8)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/29'], (Nearby is the land
+that they call life.
+, {'language': 'en', 'score': 0.9999974423898801}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/30'], (You will know it
+by its graveness.
+, {'language': 'en', 'score': 0.9999955357237675}), 10)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/31'], (Give me your hand.
+--, {'language': 'en', 'score': 0.9999961180592498}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/32'], (Rainer Maria Rilke
+, {'language': 'no', 'score': 0.7142835546133579}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/32/extracted.txt/33'], (The Book of Hours
+(my translation, rather literal and quick), {'language': 'en', 'score': 0.9999965645634965}), 14)
+
+
+5949/38
+
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/1'], ((my translations)
+, {'language': 'en', 'score': 0.9999956006392463}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/2'], (Gray
+, {'language': 'tl', 'score': 0.7142836165445055}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/3'], (A wailing of omens against the panes to
+say
+Winter leaden on the world like a
+stone ---
+, {'language': 'en', 'score': 0.9999991919132594}), 22)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/4'], (“Crows!", {'language': 'en', 'score': 0.5714259810496308}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/5'], (I told myself and
+sighed, alone,
+, {'language': 'en', 'score': 0.9999955915105228}), 10)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/6'], (And now on the horizon heavy as lead,
+It snows gray.
+, {'language': 'en', 'score': 0.9999981936259538}), 15)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/7'], (Like the horizon, my mood is dark as
+the day …
+, {'language': 'en', 'score': 0.9999982892887838}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/8'], (The wildest, loneliest of all this
+world.
+, {'language': 'en', 'score': 0.9999979321123453}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/9'], (--- With a feather, I sweep the hearth
+grown cold …
+, {'language': 'en', 'score': 0.9999982871319224}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/10'], (And on the horizon heavy as lead,
+It snows gray.
+, {'language': 'en', 'score': 0.9999983197064457}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/11'], (Gri
+Plâns de cobe pe la geamuri se opri,
+Şi pe lume plumb de iarnă s-a lăsat;
+I-auzi corbii!, {'language': 'ro', 'score': 0.9999973436508651}), 29)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/12'], (― mi-am zis singur...
+şi-am oftat,
+Iar în zarea grea de plumb,
+Ninge gri.
+, {'language': 'ro', 'score': 0.9999968167844255}), 26)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/13'], (Ca şi zarea, gândul meu se înnegri...
+, {'language': 'ro', 'score': 0.9999982220276615}), 10)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/14'], (Şi de lume tot mai singur, mai barbar,
+― Trist,, {'language': 'id', 'score': 0.5714281575294252}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/15'], (cu-o pană mătur vatra,
+solitar...
+Iar în zarea grea de plumb,
+, {'language': 'ro', 'score': 0.9999975767537126}), 19)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/16'], (Ninge gri.
+, {'language': 'nl', 'score': 0.5790097014249184}), 4)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/17'], (Lead
+, {'language': 'en', 'score': 0.8571398260402567}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/18'], (Deeply asleep the coffins of lead,
+And leaden flowers and charnel shroud
+---
+, {'language': 'en', 'score': 0.9999969265722537}), 17)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/19'], (I stood alone in the vault …, {'language': 'en', 'score': 0.9999972384045707}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/20'], (The wind
+was loud,
+Screaking in the wreaths of lead.
+, {'language': 'en', 'score': 0.9999969658721085}), 15)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/21'], (Upturned, slept my beloved of lead,
+On leaden flowers, and I began my
+grief,
+Alone by her corpse, cold without
+relief,
+And the drooping wings wrought in lead.
+, {'language': 'en', 'score': 0.9999954689669257}), 41)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/22'], (Plumb
+Dormeau adânc sicriele de plumb,
+, {'language': 'ro', 'score': 0.9999960239369124}), 9)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/23'], (Şi flori, {'language': 'ro', 'score': 0.9999974083919623}), 2)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/24'], (de plumb şi funerar vestmânt
+― Stam singur în cavou..., {'language': 'ro', 'score': 0.999996960593027}), 12)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/25'], (şi era
+vânt...
+, {'language': 'ro', 'score': 0.9999989646631231}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/26'], (Şi scârţâiau coroanele de plumb.
+, {'language': 'ro', 'score': 0.9999977197858961}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/27'], (Dormea întors amorul, {'language': 'ro', 'score': 0.9999987206699943}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/28'], (meu de plumb
+Pe flori de plumb..., {'language': 'ro', 'score': 0.8571402001888802}), 9)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/29'], (şi-am început
+, {'language': 'ro', 'score': 0.9999990753410771}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/30'], (să-l strig
+, {'language': 'ro', 'score': 0.9999992750669076}), 5)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/31'], (― Stam singur lângă mort..., {'language': 'ro', 'score': 0.9999983578203648}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/32'], (şi era
+frig...
+, {'language': 'ro', 'score': 0.999997010499678}), 6)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/33'], (Şi, {'language': 'tr', 'score': 0.9999974420993043}), 1)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/38/extracted.txt/34'], (-i atârnau aripile de plumb., {'language': 'ro', 'score': 0.9999941175771916}), 7)
+
+
+5949/1387
+
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/1'], (Viaţa mea se iluminează
+Părul tău e mai decolorat de soare,
+regina mea de negru şi de sare.
+, {'language': 'ro', 'score': 0.9999992696193052}), 23)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/2'], (Ţărmul s-a rupt de mare şi te-a urmat
+ca o umbră, ca un şarpe dezarmat.
+, {'language': 'ro', 'score': 0.9999981416716106}), 23)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/3'], (Trec fantome ale verii în declin,
+corăbiile sufletului meu marin.
+, {'language': 'ro', 'score': 0.9999960582908551}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/4'], (Şi viaţa mea se iluminează,
+sub ochiul tău verde la amiază, {'language': 'ro', 'score': 0.9999981721974246}), 13)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/5'], (,
+cenuşiu ca pământul la amurg.
+, {'language': 'ro', 'score': 0.9999993439970989}), 9)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/6'], (Oho, alerg şi salt şi curg.
+, {'language': 'ro', 'score': 0.9999973514660372}), 9)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/7'], (Mai lasă-mă un minut,
+, {'language': 'ro', 'score': 0.9999964239055528}), 8)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/8'], (Mai lasă-mă o secundă,
+, {'language': 'ro', 'score': 0.9999978380129857}), 8)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/9'], (Mai lasă-mă o frunză, un fir de nisip.
+, {'language': 'ro', 'score': 0.9999982049301541}), 13)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/10'], (Mai lasă-mă o briză, o undă.
+, {'language': 'ro', 'score': 0.9999995488829929}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/11'], (Mai lasă-mă un anotimp, un an, un timp.
+, {'language': 'ro', 'score': 0.999999439522234}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/12'], (Nichita Stanescu
+, {'language': 'ro', 'score': 0.9999973025785547}), 3)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/13'], (My Life Is Bright
+Your hair bleaches in the sun,
+my queen, dark and salt-spun.
+, {'language': 'en', 'score': 0.9999962550638879}), 23)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/14'], (The shore broke from the sea and trailed in your wake
+like a shadow, like a fangless snake.
+, {'language': 'en', 'score': 0.9999970169637018}), 22)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/15'], (Ghosts of the ebbing summer tack and roll,
+ships of my marine soul.
+, {'language': 'en', 'score': 0.9999971523930264}), 17)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/16'], (And my life floods with light
+under your eye, green when the sky is bright, {'language': 'en', 'score': 0.9999994428373769}), 17)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/17'], (,
+gray as earth under a setting sun.
+, {'language': 'en', 'score': 0.9999980863859405}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/18'], (Oh, I frisk and flow and run.
+, {'language': 'en', 'score': 0.5714286056091207}), 10)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/19'], (Allow me a minute more.
+, {'language': 'en', 'score': 0.9999952808326281}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/20'], (Allow me a second more.
+, {'language': 'en', 'score': 0.999997498553685}), 7)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/21'], (Allow me a leaf, a grain of sand.
+, {'language': 'en', 'score': 0.9999967370673237}), 11)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/22'], (Allow me a breeze, a wave to the shore.
+, {'language': 'en', 'score': 0.9999963894457059}), 12)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/23'], (Allow me this time of year, a year, a time.
+, {'language': 'en', 'score': 0.9999975667400876}), 14)
+(['/home/mherbert/Desktop/litblogs/Kursmaterial/extraction5/5949/1387/extracted.txt/24'], ((my translation), {'language': 'en', 'score': 0.999994655733114}), 4)

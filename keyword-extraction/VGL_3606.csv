@@ -1,0 +1,800 @@
+dir,common,corpus,blog,com_count
+0,"['singvögel', 'und', 'weiterlesen', 'die', 'sie', 'kleinen', 'lacht']","['fortnahm', 'weggewesen', 'vollmondgeschenk']","['ein', 'meinen', 'wieder']",7
+1,"['web', 'kristin', 'deutschland', 'akalinka', 'de', 'annette', 'kalina']",[],[],7
+2,"['und', 'spaziergang', 'die', 'im', 'der', 'verweilen', 'gedicht', 'einst']","['möwengeschnatter', 'entkeimt']","['nichts', 'sonne']",8
+3,"['singvögel', 'kleinen', 'schnäbel', 'fortnahm', 'sturm', 'obwohl', 'die', 'singen', 'gedanken']",['gedicht'],['meinen'],9
+5,"['singvögel', 'die', 'sie', 'und', 'weiterlesen', 'kleinen']","['lacht', 'fortnahm', 'weggewesen', 'vollmondgeschenk']","['ein', 'als', 'in', 'noch']",6
+6,"['teller', 'klappern', 'sonntagsbraten', 'mägen', 'gekehrt', 'hängen', 'teppich', 'samt', 'sonntag']",['unter'],['werden'],9
+7,"['bieten', 'öl', 'strassen', 'regenbogen', 'plätzen', 'kannen', 'birst', 'spiegelt', 'pfützen']",['tassen'],['uns'],9
+8,"['vollmondgeschenk', 'schimmern', 'mondlicht', 'krone', 'haupte', 'doofen', 'dir', 'simone']","['gewirkt', 'schenk']","['sollst', 'dunklen']",8
+9,"['übermut', 'zapfen', 'weihnachtsgedicht', 'weihnachtsbaum', 'verklungen', 'geläut', 'gazellenhaft', 'betend']","['anhoben', 'glöckchen']","['schlich', 'glocken']",8
+10,"['koralle', 'fino', 'lege', 'hals', 'salz', 'hebe', 'schmecke', 'welle']","['sacht', 'lacht']","['fest', 'wünsche']",8
+12,"['gedichtservice', 'infos', 'täglicher', 'kalinas', 'tage', 'zum']",[],[],6
+13,"['weggewesen', 'vorhänge', 'strolch', 'isser', 'fröstelnd', 'herbstgedicht', 'legen', 'herrn']","['atom', 'ziehen']","['irgendwann', 'wenig']",8
+15,"['schwang', 'fahrrad', 'autofenster', 'deinem', 'herz', 'mein', 'als', 'dem', 'aus', 'sich']",[],[],10
+17,"['teller', 'klappern', 'strassen', 'sonntagsbraten', 'regenbogen', 'mägen', 'kannen', 'gekehrt']","['birst', 'pfützen']","['öl', 'plätzen']",8
+18,"['übermut', 'zapfen', 'weihnachtsgedicht', 'vollmondgeschenk']","['gazellenhaft', 'anhoben', 'betend', 'geläut', 'haupte', 'doofen']","['sie', 'und', 'weihnachtsbaum', 'verklungen', 'sollst', 'schlich']",4
+20,"['weggewesen', 'vorhänge', 'strolch', 'isser', 'fröstelnd', 'herbstgedicht', 'legen']","['atom', 'monat', 'archiv']","['herrn', 'november', 'irgendwann']",7
+21,"['schwang', 'fahrrad', 'autofenster', 'deinem', 'lächelnd', 'frühlingsblütenhaft', 'herz', 'mein']","['monat', 'archiv']","['mai', 'als']",8
+22,"['sonne', 'noch', 'versteckte', 'lichterloh', 'reckte', 'april', 'brannte', 'schlaf']","['monat', 'archiv']","['als', 'fiel']",8
+23,"['spaziergang', 'möwengeschnatter', 'webten', 'verweht', 'stiefeln', 'stapfst', 'schnüren']","['antwortgeber', 'fußabdruck', 'gedicht']","['tage', 'durch', 'schwebten']",7
+24,"['verweilen', 'versiegelt', 'stoppt', 'kuß', 'im', 'die', 'lippen', 'gedanken']","['fluß', 'kuss']","['jetzt', 'februar']",8
+25,"['und', 'nichts', 'sie', 'sturmböe', 'meerjungfrau']","['entkeimt', 'stürmischer', 'gedicht', 'abgrunds', 'prächtiger']","['herum', 'erfasst', 'hab', 'aus', 'nacht']",5
+26,"['warten', 'da', 'überarbeite', 'vielgestalt']","['eventeull', 'weiterlesen', 'versiegen', 'andren', 'fliesst', 'atom']","['wollte', 'ist', 'ich', 'alle', 'version', 'spontane']",4
+27,"['mund', 'zabaionefarbene', 'verschluckt', 'süßem', 'spiralnebeliger', 'serviert', 'geflüstert', 'geatmet', 'filetiert']",['tropfen'],['september'],9
+28,"['dich', 'mein', 'topf', 'gedicht', 'laß', 'du', 'dir']","['einst', 'pferdehimmel', 'eínfach']","['deinen', 'mich', 'ich']",7
+29,"['ufo', 'araltankstelle', 'juli', 'bescheid', 'wusste', 'schlaf', 'gebracht', 'gedacht']","['monat', 'archiv']","['anfang', 'hätte']",8
+30,"['weichgespült', 'und', 'gedicht', 'tag', 'mandala', 'blütenweiss']","['nässer', 'fleucht', 'seelensalbe', 'kreucht']","['abend', 'am', 'welt', 'ich']",6
+31,"['liest', 'evtl', 'weiterlesen', 'ich', 'zurück', 'macht', 'ewigkeit']","['wilber', 'gangaji', 'überrraschungsgast']","['irgendwas', 'zu', 'fahren']",7
+32,"['küssen', 'küsst', 'und', 'thema', 'frühlingswiesen', 'sehnen']","['gedicht', 'küssgemeinschaften', 'fliederblüte', 'lieblingspflanze']","['es', 'zum', 'ist', 'er']",6
+33,"['sie', 'her', 'pumps', 'wo', 'kommt', 'oh']","['gedicht', 'hackenschuh', 'königin', 'sünderinnen']","['es', 'und', 'der', 'auftritt']",6
+34,"['lama', 'hühnersuppe', 'und', 'pommes', 'sie', 'schwarzkehlchen', 'kehligen']","['gedicht', 'alabama', 'harfe']","['ihrem', 'die', 'strophe']",7
+35,"['ich', 'weiterlesen', 'liebster', 'dich', 'weisst']","['kerkeling', 'hape', 'blogg', 'günni', 'pumps']","['abends', 'nah', 'mal', 'und', 'uns']",5
+36,"['die', 'weiterlesen', 'und', 'ich', 'sie', 'pups', 'weihnachtsmarkt', 'sänge']","['glühweinlache', 'manch']","['einer', 'hatte']",8
+37,"['sie', 'und', 'sich', 'hatte', 'volumenwelle', 'weiterlesen', 'pflaster']","['haileder', 'fußmatte', 'herrengedeck']","['dem', 'in', 'richtung']",7
+38,"['mau', 'warum', 'clown', 'treibgut', 'vorbei', 'siehst', 'gedicht', 'fisch']","['einst', 'maulbeerstrauch']","['wir', 'land']",8
+39,"['sie', 'weiterlesen', 'und', 'der', 'in', 'montagsgedanken', 'schlug']","['kalina', 'weiss', 'eure']","['die', 'aber', 'es']",7
+40,['gedicht'],"['rheinbrücken', 'peitschenknallen', 'gerüstbauern', 'schelmischer', 'hähnchenknochen', 'halbmondförmigen', 'friedlichem', 'feilte', 'brieten']","['wir', 'so', 'am', 'sie', 'rheinbrücke', 'illustrierte', 'engel', 'der', 'nicht']",1
+41,"['sabine', 'gedicht', 'stille', 'palmengarten', 'nachgestellt']","['übersiehst', 'staubtrockene', 'gehegen', 'willenlos', 'zahm']","['gedanken', 'handke', 'goethe', 'frankfurter', 'uns']",5
+42,"['angst', 'allein', 'habe', 'ich', 'der', 'rucksack', 'beckham', 'brot', 'gedicht']",['ihr'],['die'],9
+43,"['gut', 'katzen', 'ich', 'sehr', 'war', 'der', 'er', 'horn']","['gedicht', 'einhorn']","['den', 'es']",8
+44,"['eichhörnchenteile', 'verweile', 'ich', 'besen', 'voller', 'frühling', 'komm', 'lieber']","['gedicht', 'oh']","['wohnung', 'die']",8
+45,"['weiterlesen', 'elche', 'sie', 'papst', 'ich']","['schabe', 'primel', 'machete', 'hechte', 'kolibri']","['und', 'auf', 'der', 'er', 'ohren']",5
+46,"['die', 'ich', 'und', 'holz', 'für', 'cha']","['weiterlesen', 'fitness', 'massage', 'euch']","['mir', 'tanzt', 'mit', 'sport']",6
+47,"['chef', 'ich', 'faktor', 'wochen', 'kindesvater', 'arbeitsaufkommens', 'und', 'wegen']","['hohen', 'mir']","['des', 'also']",8
+48,"['frisch', 'infos', 'kalinas', 'täglich', 'tisch', 'gedichte', 'zurück', 'zu', 'auf', 'den']",[],[],10
+49,"['wein', 'sie', 'gedicht', 'da', 'tropfen', 'laß', 'stumm']","['atom', 'zabaionefarbene', 'spiralnebeliger']","['und', 'ich', 'warten']",7
+51,"['sonne', 'noch', 'als', 'versteckte', 'lichterloh', 'reckte', 'brannte', 'schlaf', 'fiel']",['gedicht'],['licht'],9
+52,"['tage', 'webten', 'verweht', 'stiefeln', 'stapfst', 'schwebten', 'schnüren', 'fußabdruck']","['antwortgeber', 'dürren']","['durch', 'fetten']",8
+53,"['tage', 'webten', 'verweht', 'stiefeln', 'stapfst', 'schwebten', 'schnüren', 'fußabdruck']","['antwortgeber', 'dürren']","['durch', 'fetten']",8
+54,"['kleines', 'schweigen', 'dein', 'spaziergang', 'möwengeschnatter', 'streift', 'fliegt', 'davon', 'kurz']",['mich'],['nur'],9
+55,"['verweilen', 'versiegelt', 'stoppt', 'kuß', 'im', 'die', 'lippen', 'gedanken', 'fluß']",['kuss'],['jetzt'],9
+57,"['und', 'nichts', 'hab', 'trunken', 'stürmischer']","['entkeimt', 'abgrunds', 'andren', 'vollbracht', 'drunter']","['aus', 'sorgsam', 'rande', 'nachher', 'geweint']",5
+58,"['und', 'spaziergang', 'die', 'im', 'der', 'verweilen', 'gedicht', 'einst']","['möwengeschnatter', 'entkeimt']","['nichts', 'sonne']",8
+59,"['und', 'weiterlesen', 'der', 'mund', 'nacht', 'schweigen']","['andren', 'sacht', 'verweilen', 'laß']","['ist', 'ich', 'in', 'mein']",6
+63,"['herbstgedicht', 'ein', 'bereiten', 'unheimlich', 'unbedingt', 'anderes', 'einziges', 'freude']","['bitte', 'gerne']","['möchte', 'schreiben']",8
+65,"['sie', 'herum', 'prächtiger', 'kelch', 'berührte', 'ward', 'sassen']","['schranken', 'sacht', 'stumm']","['trank', 'sämtliche', 'fielen']",7
+66,"['vielgestalt', 'quellen', 'fliesst', 'dichters', 'prinzipiell', 'versiegen']","['andren', 'stehn', 'reim', 'fällen']","['alle', 'rum', 'blatt', 'gegend']",6
+67,"['weiterführt', 'hesse', 'gehenals', 'abgeschossen']","['gedicht', 'häng', 'lin', 'fernöstlichen', 'ka', 'weisheiten']","['stehen', 'zu', 'gefährlich', 'dauernd', 'schön', 'wieso']",4
+68,"['warten', 'wollte', 'ich', 'da', 'überarbeite', 'spontane', 'eventeull']","['atom', 'kenn', 'einfällt']","['version', 'gutes', 'erste']",7
+69,"['zabaionefarbene', 'verschluckt', 'süßem', 'spiralnebeliger', 'filetiert', 'mund', 'schweigen', 'worte']","['geatmet', 'geflüstert']","['in', 'serviert']",8
+70,"['laß', 'speise', 'deine', 'mich', 'sein', 'wein', 'adern', 'fliessen', 'tropfen']",['werd'],['blut'],9
+71,"['mein', 'bist', 'du', 'wund', 'umgibst', 'leuchtender', 'stern']","['sacht', 'küsst', 'glanz']","['gehören', 'ufer', 'grund']",7
+72,"['dich', 'variiert', 'vögel', 'flüstert']","['tropft', 'seh', 'inhalt', 'einst', 'sehnsucht', 'singen']","['papier', 'musik', 'film', 'überall', 'geschichten', 'name']",4
+74,"['gülden', 'gestillt', 'manch', 'wort', 'fort', 'bleibt', 'so', 'ist', 'es', 'sie']",[],[],10
+76,"['urplötzlichen', 'supi', 'rechner', 'nachzuschauen', 'folgend', 'erbracht', 'eingebung', 'lebenszeichen']","['raste', 'ward']","['siehe', 'beweis']",8
+77,"['astronauten', 'und', 'ich', 'wohlauf', 'montgomery', 'sehr', 'mal']","['araltankstelle', 'atom', 'sie']","['haben', 'ja', 'ihnen']",7
+78,"['araltankstelle', 'ufo', 'bescheid', 'wusste', 'schlaf', 'gebracht', 'gedacht', 'anfang']","['nacht', 'sei']","['hätte', 'natürlich']",8
+79,"['carolin', 'nr', 'sabine', 'annette', 'wiglaf', 'untermalung']","['häkelanleitung', 'fochard', 'fino', 'gedicht']","['und', 'wurde', 'öffentlich', 'zeichnungen']",6
+80,['welt'],"['wür', 'verschanzung', 'hobbyastronaut', 'bessren', 'xabraxas', 'expeditionen', 'aniston', 'beherzter', 'postmoderner']","['dürfen', 'ob', 'oder', 'gut', 'einer', 'frage', 'wahrheit', 'mal', 'eine']",1
+81,"['und', 'seit', 'tagen', 'weichgespült', 'lache', 'kreucht', 'fleucht', 'gewirkt', 'seelensalbe']",['schranken'],['verteilt'],9
+82,"['spürte', 'plötzlich', 'mag', 'diesem', 'ich', 'dich', 'tag', 'sehr', 'als']",['an'],['wie'],9
+83,"['drohen', 'wir', 'juni', 'rand', 'liebe', 'fallen', 'eins', 'allem']","['archiv', 'gedicht']","['welt', 'den']",8
+84,"['schorsch', 'ich', 'dir']","['kalina', 'scahde', 'randers', 'iĉh', 'gegehen', 'dichhtern', 'demmler']","['für', 'gesagt', 'nie', 'fuß', 'schreiben', 'mich', 'das']",3
+85,"['chapeau', 'wortlosist', 'wortbad', 'unerreichter', 'traumwo', 'poetizität', 'nachtim']","['geistam', 'badetunser', 'abendallein']","['zugleich', 'traumstille', 'reinigenden']",7
+86,"['jäger', 'klingt', 'horn', 'leise', 'garten', 'hört', 'zwergenklein']","['blästs', 'pirscht', 'eingesät']","['und', 'ihn', 'zielt']",7
+87,"['evtl', 'liest', 'irgendwas', 'wilber']","['gangaji', 'überrraschungsgast', 'anmeldefrist', 'heribert', 'teilnehmerliste', 'hurrikans']","['ich', 'oder', 'immer', 'macht', 'spannenden', 'ken']",4
+88,"['frau', 'der', 'und', 'kalinas', 'wg', 'rautenschaum', 'anarchie']","['kalina', 'lesesalon', 'häppchen']","['von', 'las', 'die']",7
+89,"['zurück', 'tortenreich', 'torte', 'rückwärtszauber', 'pforte', 'lieblingssorte', 'einzig', 'verschwand', 'rief', 'orte']",[],[],10
+90,"['quelle', 'planetenkonstellation', 'konzentration', 'kontrollieren', 'inspiration', 'gewisse', 'werds', 'tageszeit', 'zack']",['ritterbach'],['atem'],9
+91,"['lange', 'verhüllt', 'süsse', 'busen', 'verlorn', 'schick']","['füsse', 'bloss', 'ichs', 'po']","['macht', 'kleid', 'dick', 'darin']",6
+92,"['fahrradfahren', 'fahren', 'jahren', 'weiterfahren', 'schnurgerade', 'schlangenlinien', 'offenen', 'haaren', 'freihändig', 'nach']",[],[],10
+93,"['wer', 'stil', 'poststempel', 'experimentiere', 'erbeten', 'kommt', 'schroff', 'anmeldung', 'zählt']",['couch'],['rote'],9
+94,"['ewigkeit', 'raum', 'schlüpfst', 'körperkleid', 'erden', 'leuchten', 'kurze', 'und', 'aus']",['zu'],['werden'],9
+95,"['kammern', 'fensterlosen', 'definieren', 'deren', 'ziel', 'sehnsucht', 'wäre', 'noch', 'zu', 'in']",[],[],10
+96,"['küsst', 'küssen', 'thema', 'je', 'lieblingspflanze']","['küssgemeinschaften', 'fliederblüte', 'frühlingshafte', 'frühlingszeit', 'frönen']","['es', 'ist', 'zum', 'wer', 'partner']",5
+97,"['ich', 'die', 'und', 'es', 'er']","['kalina', 'weiterlesen', 'eure', 'pizzamann', 'ihr']","['ist', 'mit', 'mich', 'sie', 'nicht']",5
+98,"['küsst', 'schön', 'schwanz', 'hörnchwelt', 'eichhornmann', 'eichhornfrau', 'weitergehn', 'ohr', 'er']",['voll'],['müssen'],9
+99,"['küssen', 'sehnen', 'und', 'sitzen', 'vermiesen', 'streben', 'frühlingswiesen', 'frühlingsbänken', 'verschenken', 'nimmer']",[],[],10
+100,"['weiterlesen', 'tunki', 'soppen', 'sonc']","['sacci', 'rümmer', 'pöcki', 'pinki', 'onki', 'möcki']","['herum', 'man', 'du', 'vorsicht', 'umgebracht', 'tiefer']",4
+101,"['türen', 'hinter', 'verschlossenen', 'erlösung', 'mauern', 'sie', 'angst', 'schliessen', 'lauern']",['verharren'],['bauen'],9
+102,"['es', 'sie', 'kurz', 'will', 'vertreiben', 'verschwindets', 'substanz', 'flüchtiger', 'aufgetaucht']",['dichterin'],['erneut'],9
+103,"['zofen', 'rühr', 'räusper', 'reitergilde']","['gruße', 'huldvoll', 'kappen', 'hopp', 'kostbar', 'kleiden']","['blick', 'sie', 'ich', 'wärmen', 'senken', 'schuh']",4
+104,"['pumps', 'her', 'kommt', 'auftritt', 'oh', 'wo', 'gott', 'hackenschuh']","['sünderinnen', 'knappe']","['der', 'heran']",8
+105,"['frühling', 'eich', 'eichhorn', 'schau', 'schmeiß', 'naht']","['hornt', 'blumensaat', 'beet', 'horn']","['und', 'mal', 'ich', 'schwankt']",6
+107,"['simmer', 'prihima', 'dobei', 'dat', 'ultimative', 'impossible', 'hühnchenfilm', 'chicken', 'filme']",['kategorie'],['is'],9
+108,"['starwars', 'sonderbare', 'schlundes', 'scharfen', 'fleischfressenden', 'dreigeteilt', 'dienen']","['abart', 'kalina', 'heisst']","['wozu', 'serie', 'sechs']",7
+109,"['säen', 'hoffnung', 'furchen', 'frühlingskinder', 'frühlingsgestalten', 'zarten', 'älter', 'voran']","['orten', 'taten']","['spiel', 'schnee']",8
+110,"['wehschon', 'verrücktwiderstand', 'teuerund', 'standein', 'spagatda']","['sinkenes', 'seiwie', 'rücktauf', 'nudelsalates', 'nichtdas']","['es', 'ihm', 'seit', 'tagen', 'stinkendes']",5
+111,"['einschüchtern', 'tür', 'verbote', 'uralten', 'spannenderes', 'parabel', 'granatapfelgarten']","['entmündigen', 'liessen', 'aufregend']","['lassen', 'zu', 'verbot']",7
+112,"['lama', 'alabama', 'sause', 'wuppertal', 'einem', 'qual', 'stehn', 'mach', 'ne']",['lass'],['doch'],9
+114,"['hühnersuppe', 'ihrem', 'turmzimmer', 'strophe', 'schwarzkehlchen', 'kehligen', 'harfe']","['zartgliedriges', 'prinzessinnenhafte', 'krächzigen']","['und', 'saß', 'einmal']",7
+115,"['sie', 'dich']","['verschmutzungsrechten', 'verschmutzungsrechte', 'verschmutzungsrecht', 'sezte', 'piroutten', 'hochglanzkatalog', 'emissionsrechtehandel', 'druckpunkt']","['total', 'ihrem', 'liebe', 'sagte', 'sich', 'er', 'ich', 'äußerst']",2
+117,"['karneval', 'traf', 'ihn', 'wal', 'schiff', 'kollision', 'februar', 'ich', 'wars']",['archiv'],['als'],9
+118,"['karneval', 'traf', 'ihn', 'wal', 'schiff', 'kollision', 'ich', 'als', 'wars', 'hatten']",[],[],10
+119,"['feuer', 'und', 'eismann', 'dämmerung', 'weiterlesen']","['atom', 'elefantenhaar', 'elefantenfriedhof', 'verwesungsgeruch', 'härnchen']","['art', 'irgendwie', 'mit', 'sie', 'war']",5
+120,"['vergaßliebster', 'tagals', 'spaßliebsteran', 'pikanterie', 'nochliebsterder']","['gelant', 'arbeitsmorgens', 'durchwirkten', 'grandezza', 'hereinbrechen']","['wahrer', 'tristesse', 'körperlicher', 'hohle', 'hingerissen']",5
+121,"['seelensalbe', 'gib', 'volle', 'portion', 'halbe', 'doppelte', 'ausruf', 'mir', 'die']",['mach'],['nein'],9
+122,"['ich', 'abends', 'kerkeling', 'id', 'hape', 'php', 'häppchen']","['blogg', 'günni', 'tell']","['uns', 'eintrag', 'gewonnen']",7
+123,"['ich', 'wäre', 'gelegentlich', 'frage', 'wo', 'mein', 'mal', 'mich', 'dann', 'nicht']",[],[],10
+124,"['straßenrand', 'lagen', 'pumps', 'würste', 'wirkten', 'gerammt', 'verbrannt', 'pfanne']","['würstchen', 'zack']","['wurst', 'quer']",8
+125,"['nah', 'gestalten', 'so', 'viele', 'verwalten', 'schicksal', 'kaum', 'raum', 'dein']",['sie'],['sieht'],9
+126,"['dich', 'wehn', 'stürme', 'schnappt', 'kneift', 'gevatter', 'gatter', 'heulend']","['zausen', 'brausen']","['sondern', 'gemein']",8
+127,"['gedicht', 'plage', 'er', 'schein', 'heut']","['ersoff', 'jambus', 'printen', 'bonbonpapier', 'zwein']","['ist', 'einen', 'vegas', 'dezember', 'and']",5
+128,"['pups', 'euch', 'verstreicht', 'verkrochen', 'tapfere', 'scherts', 'jahresende']","['ihrs', 'gedichtchen', 'filigrane']","['jahreswechsel', 'gerochen', 'geradezu']",7
+129,"['arschloch', 'wald', 'kleines', 'steht', 'verbleiben', 'friern', 'kalt', 'füsse', 'stirn']",['leiden'],['beginnt'],9
+130,"['dem', 'rüber', 'entspanne', 'leben', 'eignen']","['obs', 'andren', 'frag', 'gehts', 'schau']","['neugierig', 'balkon', 'eben', 'direkt', 'denke']",5
+131,"['knirschten', 'kies', 'stunden', 'hielten', 'erklang', 'drehten', 'runden', 'stille', 'die']",['endlich'],['wie'],9
+132,"['war', 'wohlgemut', 'palmenstrand', 'klinsmann', 'jürgens', 'aufgewacht', 'aufgelacht', 'verrinnt', 'fröhlich']",['heut'],['jürgen'],9
+133,"['die', 'hatte', 'weihnachtsmarkt', 'glühweinlache', 'sie']","['weihnachtsengels', 'reinseidenen', 'ponchohafte', 'ponchoartiges', 'nerzbesatz']","['lassen', 'und', 'den', 'einer', 'dieser']",5
+134,"['lange', 'weihnachtet', 'stube', 'rezitiert', 'peinelig', 'marzipangedichtchen', 'heimelig', 'glänzenden', 'bazar', 'andrer']",[],[],10
+135,"['sänge', 'ach', 'wäre', 'gelänge', 'bang', 'klang', 'selber', 'mir', 'und', 'ich']",[],[],10
+136,"['weiterlesen', 'hieße', 'er', 'sagte', 'sie']","['nervenwiedrahtseilehabenden', 'einbauküchenteilen', 'abgebauten', 'zigarettengeschwängert', 'sommerwegen']","['und', 'an', 'andere', 'regen', 'es']",5
+137,"['leise', 'vereinen', 'säuselt', 'lebensraum', 'kräuselt', 'juckt', 'säge']","['baustaub', 'herne', 'gefieder']","['zuckt', 'mindestens', 'blätter']",7
+138,"['trüffel', 'schwenkt', 'schwanhals', 'rhytmisch', 'klacken', 'erhalts', 'adventsgesteck', 'seidenes']","['nougat', 'eilt']","['versuchung', 'tuch']",8
+139,"['humpelte', 'zurückgeblieben', 'weihnachtslied', 'volumenwellen', 'vielsagenden', 'komponierte']","['haileder', 'fußmatte', 'friseursalons', 'harfe']","['erholt', 'hatte', 'tauschen', 'schloß']",6
+140,"['volumenwelle', 'sie', 'zack']","['rhytmisches', 'leichtfüssig', 'herbstfön', 'haarwaschanlagen', 'pfennigabsatz', 'haileder', 'sprinkleranlage']","['richtung', 'nahm', 'und', 'wankte', 'plötzliche', 'klebte', 'hastete']",3
+141,"['pflaster', 'schnürsenkeln', 'kirchenbesuch', 'gemäldegleich', 'eilend', 'eckkneipe', 'vereinigt']","['gottesverständnis', 'sonntägliche', 'herrengedeck']","['abrupt', 'verschob', 'spuckte']",7
+142,"['sie', 'österlichem', 'zurechtgemachten', 'stromschlaggeschwind', 'selbstgefällig']","['restedeko', 'gemeinschaftsteeküche', 'amazonenhaft', 'abgespreiztem', 'hollunder']","['langsam', 'während', 'in', 'zuckte', 'weihnachtlichen']",5
+143,"['sie', 'weiterlesen', 'kotze', 'floss', 'wo', 'honig']","['vormittagskurs', 'masseure', 'maniküreassistentinnen', 'gesprächsmeister']","['seine', 'daß', 'alte', 'boden']",6
+144,"['schöpfer', 'weltsichten', 'gewidmet', 'geirrt', 'entschuldigte', 'determinist', 'dentisten', 'dentist']","['begriffsverwechselungen', 'marcus']","['haustür', 'entstehen']",8
+145,"['hör', 'vorbei', 'geht', 'sprich', 'breite', 'liebes', 'flügel', 'gebet', 'fisch']",['drum'],['gut'],9
+146,"['clown', 'warum', 'siehst', 'du', 'lachst', 'fühl', 'den', 'späße']","['lacht', 'stein']","['plötzlich', 'gesicht']",8
+147,"['wir', 'zarte', 'wundersame', 'sammelten', 'modernden', 'hoffnungen', 'gesprochene', 'treibgut']","['planken', 'verlorene']","['weiche', 'vergessene']",8
+148,"['land', 'stein', 'einst', 'spülte', 'kanten', 'welle', 'weich', 'rund', 'fremden']",['meer'],['hinein'],9
+149,"['mau', 'maulbeerstrauch', 'unterm', 'sass', 'einst', 'mischt', 'krieger']","['blumenkränze', 'flocht', 'kanns']","['ich', 'plätzchen', 'karten']",7
+150,"['den', 'der', 'frau', 'und', 'kalinas']","['kalina', 'lesesalon', 'rautenschaum', 'gedicht', 'anarchie']","['von', 'die', 'aus', 'schien', 'las']",5
+151,"['gefangen', 'abseitsfalle', 'schwalbe', 'schmoren', 'lattenschuss', 'kalle']","['dankts', 'fallrückzieher', 'gewieher', 'bereut']","['willi', 'tim', 'pflicht', 'letzterer']",6
+152,"['silben', 'trennen', 'wünschen', 'schaun', 'romantisch', 'heike', 'heiko', 'haiku']","['gelingen', 'wär']","['einander', 'traurig']",8
+153,"['liebe', 'weiss', 'eure', 'kalina', 'talkshowsesseln', 'nasenbären', 'harret', 'eifrige']","['behaltet', 'härnchen']","['welt', 'kunst']",8
+154,"['verstümmelte', 'singend', 'kotztüten', 'kotzgeräusche']","['fernsehgeräusche', 'grausamste', 'diskret', 'erstaunlicherweise', 'entferntesten', 'familienmitglieder']","['übertönen', 'zimmern', 'verschwanden', 'verlegenheit', 'lebensmittel', 'laute']",4
+155,"['wehte', 'wind', 'spiegelung', 'mütze', 'pfütze', 'der', 'wahrheit', 'fort', 'nahm']",['gedicht'],['kopf'],9
+156,"['zuweilen', 'vollends', 'religiöser', 'praktiken', 'kapseltierchen', 'kaffeetisch']","['eingedeckten', 'amöbenhafte', 'eifriges', 'diverser']","['hatte', 'verstanden', 'konzentrieren', 'grundsätzlich']",6
+157,"['montagsgedanken', 'vertauschen', 'verlass', 'montagshose', 'freitagsgedanken', 'bügelfalten', 'antifaltencreme', 'überlegte']","['schrank', 'sie']","['wen', 'verschwunden']",8
+158,"['schlug', 'wimpern', 'ungetuschten', 'blickte', 'hoffnungsvoll', 'schaute', 'neuen', 'gesicht', 'noch', 'hoch']",[],[],10
+159,"['er', 'gedicht', 'anfang', 'versendet']","['menscheit', 'fliegenschiss', 'sühnen', 'danieder', 'strengem', 'strumpf']","['sein', 'die', 'organisch', 'dich', 'wichtigkeit', 'verzehren']",4
+160,"['ruht', 'deiner', 'weich', 'seele', 'weit', 'therapeuten', 'schrittst', 'queren', 'aufprall', 'abgrund']",[],[],10
+161,"['rieseln', 'morgen', 'rückzug', 'treten', 'gabs', 'am', 'schranken', 'manche', 'gestern']",['gedanken'],['es'],9
+162,"['geschwader', 'friedlichem', 'information', 'gelaber', 'frisiert', 'formatiert', 'angriff', 'allüberall', 'in', 'zum']",[],[],10
+163,"['verhallen', 'peitschenknallen', 'mauerwerk', 'hissen', 'gängen', 'glatter', 'blütenblatt', 'kleine']","['palast', 'ziellos']","['rennt', 'lehnen']",8
+164,"['vorgezogenen', 'türkischen', 'sichel', 'schelmischer', 'hähnchenknochen', 'halbmondförmigen', 'gerüstbauern', 'feilte']","['abgenagten', 'gardinen']","['vergebens', 'bekannten']",8
+165,"['saßen', 'wir', 'einst', 'rheinbrücken', 'rehrücken', 'pfeil', 'losgezogen', 'lagerfeuer', 'brieten']",['erlegt'],['unter'],9
+166,"['würdest', 'laken', 'hinfort', 'gedicht', 'du']","['geisterhäuschen', 'forthin', 'dazwischenkommt', 'traumresten', 'wasserspeier']","['lag', 'es', 'mal', 'stille', 'ich']",5
+167,"['falls', 'stück', 'her', 'himmel', 'sosein']","['bummerang', 'gedankenmeer', 'hoffend', 'galaxien', 'fokus']","['und', 'diese', 'ich', 'alle', 'richte']",5
+168,"['übersiehst', 'notwendigkeit', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin', 'du', 'aus', 'von']",[],[],10
+169,"['heiko', 'bett', 'sommer', 'morgens', 'eines', 'im', 'noch']",[],[],7
+170,"['zahm', 'willenlos', 'verführen', 'scheitel', 'müttern', 'gehegen']","['lahm', 'eitel', 'sohlen', 'füttern']","['uns', 'vermögen', 'offene', 'künstlichen']",6
+171,"['sabine', 'oh', 'biene', 'tiefe', 'hübsche', 'weite', 'fülle', 'diamanten', 'gefühle']",['schranken'],['schönes'],9
+172,"['vierzig', 'grad', 'stündlich', 'staubtrockene', 'höchstens', 'schweiss', 'tropfen', 'ansonsten']","['tropft', 'stille']","['bei', 'überhaupt']",8
+173,"['weiterlesen', 'traumtanzend', 'zuckerschwein', 'fahnen', 'esel', 'sehn']","['wellengischt', 'inspieriert', 'emporgezogen', 'ballkontakt']","['meisten', 'die', 'mit', 'sprach']",6
+174,"['endlich', 'sinke', 'hymne', 'wo', 'spieler', 'gesang', 'fahne']","['werd', 'ball', 'nieder']","['fängt', 'heute', 'fernseher']",7
+175,"['rucksack', 'brot', 'verspeist', 'tannen', 'karlchens', 'karlchen']","['scharpf', 'dannen', 'frust', 'hüpft']","['zieht', 'umher', 'rückweg', 'trägt']",6
+176,"['schieb', 'metzgermeister', 'krücke', 'knusprig', 'klingelts', 'kaninchenteil']","['festtagsschmaus', 'hackebeil', 'dannn', 'brate']","['verkauft', 'staune', 'ner', 'moral']",6
+177,"['ihr', 'zuträgllich', 'umtriebige', 'nachzusinnen', 'meditiert']","['fanartikel', 'bierkonsum', 'schrumpfmuffen', 'adrett', 'täglicher']","['die', 'sollt', 'sags', 'relativitätstheorie', 'maschine']",5
+178,"['angst', 'allein', 'habe', 'ich']",[],[],4
+179,"['kapitän', 'highlight', 'großformat', 'großbildleinwand', 'fußballrasen']","['beckham', 'bröckchen', 'erbricht', 'vereint', 'übelkeit']","['öffnet', 'verpassen', 'munde', 'kellner', 'kamera']",5
+180,"['gern', 'hätte', 'redet', 'man', 'klaus', 'gabi', 'sie']","['gedicht', 'lin', 'fernöstlichen']","['ich', 'aus', 'lebten']",7
+181,"['fernsehland', 'watzen', 'unverdrossen', 'sofakissen', 'schlagersänger', 'rätselfreund', 'räkelnd']","['stammelt', 'schwatzen', 'zappen']","['urwald', 'stiert', 'preisen']",7
+182,"['morschen', 'kräftigen', 'indem', 'befreit', 'ästen', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen']",['lin'],['den'],9
+183,"['häkelte', 'haiku', 'wand', 'ihr', 'er', 'an', 'ein', 'die']",[],[],8
+184,"['katzen', 'schmatzen', 'tatzen', 'spatzen', 'matratzen', 'kratzen', 'glotzen', 'fratzen', 'fiese', 'kotzen']",[],[],10
+185,"['horn', 'es', 'einhorn', 'ich', 'nun']","['bewerte', 'verlorn', 'märchenland', 'gesenkten', 'leut']","['das', 'zählen', 'werte', 'verlässt', 'verachten']",5
+186,"['gut', 'war', 'der', 'sehr', 'er']","['thorben', 'vergess', 'weitergehn', 'dümmlich', 'sören']","['viel', 'wirklich', 'nur', 'den', 'mir']",5
+187,"['um', 'ich', 'gedicht', 'magnolie']","['lesetreffen', 'zwischendrinn', 'weiterziehn', 'gelesenes', 'gartenzwerg', 'labert']","['was', 'bitte', 'die', 'herum', 'steht', 'schön']",4
+188,"['specht', 'hecht', 'briet', 'schlecht', 'sprach', 'wurde', 'ihm', 'einen', 'dann', 'sich']",[],[],10
+189,"['morgendämmerung', 'einsam', 'ganze', 'lange', 'nacht', 'die']",[],[],6
+190,"['totenschrein', 'seelig', 'schrein', 'herzilein', 'gänseklein', 'schein', 'besen', 'sonnenschein', 'glücklich', 'rein']",[],[],10
+191,"['lauschet', 'besen', 'lesen', 'hört', 'diesem', 'lieber', 'zu', 'auf']",[],[],8
+193,"['kam', 'ich', 'pinkeln', 'müffeligen', 'klotür', 'haminkeln', 'bundesbahn', 'bahnhof']","['drum', 'öffnete']","['sitze', 'sicht']",8
+194,"['eichhörnchenteile', 'verweile', 'wohnung', 'voller', 'frühling', 'komm', 'ist', 'oh', 'lieber']",['wolltens'],['die'],9
+195,"['und', 'die', 'ich', 'mankell', 'afrika', 'er', 'der']","['gewinnerin', 'shanghai', 'wolltest']","['ist', 'noch', 'zu']",7
+196,"['primel', 'machete', 'gärtner', 'beete', 'verliebte', 'trieben', 'pikiert']","['eilends', 'geniert', 'shanghai']","['sie', 'strahlte', 'schauspiel']",7
+197,"['nudeln', 'topfesrand', 'trafen', 'zwei', 'verlangen', 'klebten', 'abscheulich', 'liebten', 'sich', 'verstand']",[],[],10
+198,"['schabe', 'sie', 'tieren', 'gebühren', 'erzähle', 'vom', 'quälen']","['geb', 'drum', 'andern']","['gefällt', 'von', 'lernen']",7
+199,"['elche', 'ihre', 'swimmingpoolen', 'suhlten', 'spuckten']","['poole', 'kurzatmige', 'bridgekränzchen', 'flochten', 'glühten']","['zöpfe', 'zogen', 'wangen', 'verächtlich', 'senkten']",5
+200,"['seemann', 'ozeane', 'kühlregal', 'krabben', 'hering', 'gedenke', 'forellen']","['spür', 'schweiss', 'aldi']","['ich', 'manches', 'fischen']",7
+201,"['papst', 'leberwurst', 'meise', 'überliefert', 'suppenhuhn', 'kartoffelbrei']","['barbiepuppe', 'fütterte', 'vatikan', 'kochte']","['eine', 'zeigte', 'suppe', 'höchst']",6
+202,"['ohren', 'stund', 'ich', 'weitergehen', 'vergibst', 'starren', 'liebst']","['unverfroren', 'verharren', 'du']","['sobald', 'sehe', 'hoffe']",7
+203,"['hechte', 'sternenbeglänzt', 'sommernächte', 'seetang', 'schach', 'lieblichen', 'bekränzt', 'hecht', 'poppen']",['noppen'],['wach'],9
+204,"['kolibri', 'glaubst', 'setzte', 'heut', 'nie', 'spie', 'schoß', 'kollabierte', 'kolibrierte']",['wunderschön'],['ganzes'],9
+205,"['haikus', 'mich', 'dein', 'universelles', 'seelenheil']","['hoffnungin', 'gesammeltdie', 'kränzchen', 'frohlocke', 'euch']","['ich', 'übe', 'woher', 'sorgt', 'schwan']",5
+206,"['strand', 'liebskuss', 'kokoskuss', 'kokosnuss', 'schmeckt', 'am', 'nach', 'mehr', 'und', 'der']",[],[],10
+207,"['mutter', 'und', 'die', 'das', 'ich', 'kind', 'sie', 'freundin', 'du']",['haare'],['zu'],9
+208,"['tanzt', 'cha', 'die', 'ne']","['schmonzetten', 'papaya', 'aprikose', 'apfelsine', 'flummi', 'pirouetten']","['ganzen', 'sie', 'übern', 'zuviel', 'williams', 'tango']",4
+209,"['morgenküsse', 'blubbert', 'kaffee', 'wie', 'warme', 'sonnengrüsse', 'wert', 'füsse', 'herd', 'fast']",[],[],10
+210,"['schlangen', 'als', 'sangen', 'nackt', 'tanzten', 'takt', 'unverfroren', 'ohren', 'die']",['gedicht'],['zwar'],9
+211,"['mir', 'euch', 'annette']","['vorgetragenene', 'trostpreise', 'telinehmerin', 'spontandichten', 'einsenderinnen', 'dichtungsringen', 'lieblingsgedichte']","['oder', 'die', 'zurufen', 'schaffst', 'marathon', 'laufende', 'bisherigen']",3
+212,"['gedichte', 'mir', 'preisausschreiben', 'euch', 'leserschaft', 'gedichtabo']","['gedicht', 'kalina', 'eure', 'abo']","['ich', 'die', 'und', 'mail']",6
+213,"['zwecke', 'sät', 'sortiert', 'schlummert', 'hintersten', 'gerät', 'gelegenheiten']","['gedichtprojekt', 'tüten', 'dichtung']","['gehirn', 'buchstaben', 'steckt']",7
+214,"['still', 'sei', 'endlich', 'nichts', 'doch', 'wagen', 'willst', 'schwören']","['lass', 'schweigen']","['mehr', 'könnte']",8
+215,"['zweiergruppen', 'feiern', 'druckknöpfe', 'cent', 'besoffen', 'alle', 'stücke', 'karneval']","['letztes', 'gingen']","['mittwoch', 'total']",8
+216,"['knarre', 'kauf', 'ich', 'zieh', 'schuss', 'munition', 'kölner']","['karneval', 'qual', 'wars']","['eine', 'ziele', 'strasse']",7
+217,"['quak', 'frosch', 'macht', 'quakt', 'heiser', 'fiept', 'abgibt', 'löffel', 'leiser', 'er']",[],[],10
+218,"['holz', 'sport', 'massage', 'ich', 'fitness', 'die', 'und', 'mit', 'osterzeit', 'hausdiener']",[],[],10
+219,"['holz', 'sport', 'massage', 'ich', 'fitness', 'die', 'und', 'mit', 'osterzeit', 'hausdiener']",[],[],10
+220,"['wahrheit', 'mosaik', 'geburt', 'stückchen', 'bekommen', 'die', 'jeder', 'seiner', 'mensch']",['gedicht'],['ein'],9
+221,"['ich', 'aldi', 'dass', 'angebote', 'immer', 'zahnbürsten', 'spion', 'korma']","['chicken', 'unterhosen']","['ja', 'bedürfnis']",8
+223,"['mensch', 'vase', 'unermesslich', 'optik', 'kacke']","['absaugen', 'abgewandten', 'erträgt', 'häßlich', 'auszuhalten']","['diese', 'schluß', 'norm', 'geruch', 'figur']",5
+224,"['toast', 'er', 'jenes', 'entscheidnen', 'aufgegessen', 'ihn', 'verbrannt', 'toaster']","['igitt', 'drum']","['tat', 'sprang']",8
+225,"['gern', 'ich', 'guter', 'ginge', 'möglichkeit', 'konjunktiv', 'bereit', 'eventuell']","['mal', 'dann']","['dinge', 'fall']",8
+226,"['ich', 'und', 'geburtstag', 'weblog', 'gedichte']","['gedicht', 'eure', 'telefonservice', 'kreativitätsüberschuss', 'entstehungsgründe']","['mir', 'spaß', 'jahr', 'das', 'ganze']",5
+227,"['beten', 'trompeten', 'sonntagsgebet', 'pfannen', 'kneten', 'jäten', 'gräten', 'unkraut']","['würd', 'braten']","['treten', 'fische']",8
+228,"['monaten', 'weiteren', 'termin', 'fall', 'geben', 'jeden']","['koordinieren', 'lesesalon', 'teilzunehmen', 'prinzipiell']","['so', 'ausblick', 'vielleicht', 'texten']",6
+229,"['und', 'yogi', 'vervollständigen', 'teilnehmerinnen']","['anregender', 'nachzuschlagen', 'lustigem', 'ernstem', 'lesesalon', 'interessenten']","['hatten', 'sehr', 'die', 'welche', 'mal', 'wart']",4
+230,"['the', 'of', 'you', 're', 'every', 'science', 'girlfriend', 'fiction']","['rethinking', 'plotting']","['your', 'if']",8
+231,"['unabhängikeit', 'unabhängigkeitstags', 'schicksalen', 'phantasievoller', 'mitternachtsstunde', 'indiens', 'geborenen']","['mitternachtskinder', 'salman', 'rushdie']","['verknüpft', 'kriege', 'roman']",7
+232,"['buch', 'diana', 'stein']","['gabaldon', 'stonehenge', 'aufschlußreich', 'levy', 'groschenroman', 'diane', 'vrai']","['fand', 'ich', 'von', 'als', 'und', 'était', 'äußeren']",3
+234,"['verlieren', 'den', 'eigenen', 'finden', 'aus', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin']",[],[],10
+235,"['klaus', 'gabi', 'sie', 'lebten', 'kinder', 'haus', 'der', 'glotze']","['bischen', 'brauch']","['die', 'legte']",8
+236,"['araltankstelle', 'mein', 'topf', 'gedicht', 'dich', 'du']","['einst', 'pferdehimmel', 'eínfach', 'umgibst']","['ich', 'bist', 'so', 'der']",6
+244,"['wein', 'sie', 'gedicht', 'da', 'tropfen', 'laß', 'stumm']","['atom', 'zabaionefarbene', 'spiralnebeliger']","['und', 'ich', 'warten']",7
+245,"['weiterlesen', 'zurück', 'ich', 'ohne', 'dich', 'nacht']","['sehnsucht', 'tortenreich', 'rückwärtszauber', 'nässer']","['und', 'der', 'am', 'so']",6
+295,"['jäger', 'und', 'leise', 'zwergenklein', 'pirscht']","['blästs', 'eingesät', 'erd', 'eichhorn', 'flinte']","['ihn', 'zielt', 'schubsen', 'käfer', 'knirscht']",5
+297,"['neu', 'zerlegen', 'sägen', 'stückeln', 'schaben', 'raspeln', 'manifestiert', 'erlaben']","['frohlockend', 'gebiert']","['vergänglichkeit', 'farbe']",8
+298,"['liest', 'evtl', 'irgendwas', 'überrraschungsgast', 'vorankündigung']","['anmeldefrist', 'heribert', 'teilnehmerliste', 'regennasse', 'carolin']","['ich', 'oder', 'verstrichen', 'vergebung', 'stephan']",5
+304,"['die', 'ich', 'mal', 'euch', 'eure']","['kalina', 'lesesalon', 'freu', 'tell', 'osterferien']","['und', 'bitte', 'noch', 'termin', 'dank']",5
+305,"['evtl', 'liest', 'atom', 'herr', 'nummerngirl']","['abwechsungsreichen', 'lesefreundinnen', 'thuti', 'euch', 'günni']","['uns', 'auch', 'übersetzt', 'stattfindet', 'passagen']",5
+306,"['lesesalon', 'vorab', 'schmeissen', 'punkig', 'probanden', 'nervenwiedrahtseilehabenden', 'nervenheilanstalt', 'eingeliefert']","['einbauküchenteilen', 'abgebauten']","['teufel', 'eurer']",8
+307,"['frau', 'der', 'und', 'kalinas', 'wg', 'rautenschaum', 'anarchie']","['kalina', 'lesesalon', 'häppchen']","['von', 'las', 'die']",7
+308,"['liest', 'fraukalina', 'tell', 'nikoläuse', 'konstanter']","['rumzeigen', 'couchkissen', 'eigenproduktionen', 'thuti', 'supermarktregal']","['bringt', 'früher', 'besetzung', 'werke', 'schüttel']",5
+309,"['komm', 'dich', 'dann', 'gehen', 'wil', 'umarme', 'kennenlernen']","['liebe', 'darfst', 'entfernen']","['will', 'ich', 'schmerzen']",7
+310,"['tam', 'sömmering', 'atelier', 'eure']","['waslala', 'lieblingsbeschäfitgung', 'hengstenberg', 'giaconda', 'elfengleiche', 'beindruckte']","['von', 'eigenen', 'ich', 'mit', 'heute', 'zwiesprache']",4
+311,"['einsam', 'bin', 'ist', 'allein', 'hochzeitskleid', 'einsamkeit', 'zwein', 'sehr', 'dunkelheit']",['lacht'],['ich'],9
+330,"['küsst', 'küssen', 'thema', 'je', 'zum', 'frühlingszeit', 'frühlingshafte']","['anregungen', 'kalina', 'außerordentlich']","['wer', 'stößt', 'gemeinde']",7
+337,"['pose', 'set', 'und', 'ich', 'die']","['posen', 'weiterlesen', 'aldi', 'kalina', 'ein']","['hier', 'zu', 'über', 'in', 'seite']",5
+338,"['verbarg', 'trocken', 'stickigen', 'sauerstoff', 'mangel', 'alau', 'stuhlhusse', 'wäsche']","['spass', 'heut']","['darunter', 'freunde']",8
+339,"['xabraxas', 'blogg', 'http', 'de']",[],[],4
+340,"['danke', 'ich', 'haben', 'denen', 'mich', 'fotos', 'projekt', 'gehalten']","['gedicht', 'geisteszuständen']","['geworden', 'und']",8
+341,"['anfang', 'ende', 'ist', 'das', 'der']",[],[],5
+342,"['ball', 'rund', 'na', 'schmollt', 'rollt', 'trotzdem', 'grund', 'er', 'der']",['manchmal'],['ist'],9
+343,"['er', 'und', 'sie', 'wärme', 'lammfell', 'krawatte', 'herren', 'gläschen', 'edelstahl']",['teilig'],['mit'],9
+344,"['möhre', 'sie', 'unter', 'zitterte', 'taub', 'linden', 'föhre', 'espenlaub', 'kleine', 'kälte']",[],[],10
+345,"['leere', 'wortgruppen', 'schlechtwettergedanken']","['kopfinneren', 'mitteilungsdrang', 'klitzekleinste', 'nölige', 'finito', 'alltagssorgen', 'niente']","['fällt', 'vielleicht', 'mir', 'wörter', 'wörtchen', 'triviale', 'stricken']",3
+346,"['wollte', 'singen', 'stück', 'lied', 'sie', 'mund', 'zurück', 'kam', 'ihren']",['gedicht'],['für'],9
+347,"['sachen', 'sie', 'die', 'das', 'irgendwelche']","['zimmervermieter', 'kofferrollen', 'majo', 'anglotzt', 'softeis']","['habe', 'gesehen', 'ich', 'sitzen', 'weil']",5
+348,"['pizzamann', 'kindern', 'schmuddelige', 'potpourri', 'pizzeria', 'einzigen', 'ich', 'traurig']","['gäste', 'taime']","['die', 'weiß']",8
+354,"['hast', 'du', 'umgebracht', 'sommernacht', 'seufzer', 'schnurren', 'nachgedacht', 'murren']","['leisen', 'räumen']","['bösen', 'gar']",8
+356,"['soppen', 'sec', 'hrm', 'frmp', 'tunki', 'sonc', 'sacci', 'pöcki', 'pinki', 'onki']",[],[],10
+357,"['nagelbrett', 'fakir', 'tiefer', 'schiebst', 'rostigen', 'nagel', 'baby', 'kiefer', 'nett', 'sprach']",[],[],10
+358,"['herum', 'vorsicht', 'rümmer', 'rotation', 'negativer', 'geflimmer', 'gedreht', 'kreis']","['bunt', 'sag']","['näher', 'falsch']",8
+366,"['film', 'gesehen', 'oft', 'nachdenklich', 'hit', 'empfunden', 'beklemmend', 'absoluter', 'soße']",['nudeln'],['geändert'],9
+367,"['steh', 'herum', 'manchmal', 'zwischen', 'weiss', 'ich', 'zwischenraum', 'nicht']","['doch', 'traum']","['warum', 'und']",8
+370,"['er', 'zukneift', 'gedicht']","['sehnsuchtsfaktor', 'konversiv', 'allzugern', 'verknickt', 'seelensalbe', 'redundant', 'ritterbach']","['bleibt', 'einsteigen', 'nicht', 'kauft', 'wie', 'zwischenraum', 'volle']",3
+371,"['gleich', 'widerstand', 'satinumspannt', 'gerannt', 'schneesturm', 'erreich', 'drängt']","['fühl', 'gipfel', 'rückt']","['verrückt', 'nackten', 'alt']",7
+372,"['gekannt', 'käme', 'frühling', 'hatte', 'ihn', 'ja', 'wenn', 'nähme', 'damals', 'ich']",[],[],10
+373,"['denn', 'schneit', 'schnee', 'bald', 'hinaus', 'trompete', 'schneelied']","['optional', 'gehüpft', 'fürwahr']","['es', 'orgel', 'ham']",7
+374,"['kanapee', 'keller', 'ihm', 'geräkelt', 'gemäkelt', 'fadenscheinig', 'ersehnt', 'einerlei']","['altmodisch', 'blass']","['lange', 'wie']",8
+375,"['spagat', 'nudelsalat', 'übte', 'schüssel', 'salat', 'hörnchens', 'sinken', 'stinken']","['hörnchen', 'gelingen']","['es', 'fing']",8
+394,"['ich', 'danke', 'weiterlesen', 'ist', 'es', 'und', 'ball']","['zeitlang', 'arschloch', 'gedicht']","['haben', 'denen', 'der']",7
+395,"['er', 'frohlocken', 'windböen', 'spreizte']","['diaphragmen', 'alleenartig', 'federnden', 'bäuchlein', 'rasten', 'blähten']","['mit', 'so', 'und', 'welche', 'war', 'zeugen']",4
+396,"['feuer', 'eismann', 'euro', 'härnchen']","['anbrochen', 'aberjahre', 'elefantenfriedhof', 'entgegensetzt', 'verschämter', 'nagten']","['leider', 'die', 'der', 'war', 'lange', 'das']",4
+397,"['art', 'dämmerung', 'irgendwie', 'elefantenhaar']","['verlaufendem', 'senfgelben', 'schlapppen', 'rotbläulich', 'nurhausfrauenfüsschen', 'häkelten']","['sie', 'kam', 'ihr', 'diese', 'ins', 'eine']",4
+398,"['anderes', 'verdinglichte', 'zirn']","['romatizismen', 'romantifizierungen', 'retroversion', 'reifizierten', 'medusenhäuptigkeit', 'kehrseitigkeit', 'janusantlitzes']","['als', 'innerhalb', 'die', 'durch', 'zur', 'vernunft', 'unmöglichkeiten']",3
+399,"['nebelig', 'matt', 'losgegangen', 'voll', 'winterkleider', 'verkrustete', 'sonnengestrahlt', 'matschigen']","['anvertraut', 'würmer']","['schnecken', 'laub']",8
+402,"['ich', 'uns', 'id', 'php', 'häppchen', 'mal', 'blogg']","['günni', 'tell', 'veräterische']","['eintrag', 'abends', 'und']",7
+406,"['weiterlesen', 'weihnachtsgebäumte', 'warnung', 'straßenecken', 'tiefster']","['lamettaahnung', 'kristallene', 'heimeligen', 'karaoke', 'piep']","['letzte', 'von', 'vögelchen', 'vergangen', 'pflücken']",5
+407,"['mann', 'ein', 'printen', 'kippt', 'weihnacht', 'sinkt', 'bier', 'hund', 'runter']",['hinten'],['vier'],9
+408,"['alte', 'strudel', 'pudel', 'hinab', 'ersoff', 'frau', 'schroff', 'recht', 'warf']",['schnell'],['sonst'],9
+409,"['eilt', 'wegs', 'des', 'anfang', 'er', 'sinn', 'ende', 'so', 'hin', 'denn']",[],[],10
+410,"['jambus', 'traf', 'einen', 'heut', 'stieg', 'verschwand', 'auto', 'sonnenschein', 'kuss', 'gab']",[],[],10
+411,"['zuletzt', 'schein', 'allein', 'kreatur', 'hetzt', 'weges', 'zwein', 'denkt', 'wär']",['sie'],['ist'],9
+412,"['bonbonpapier', 'nehm', 'heut', 'naschen', 'taschen', 'deinen', 'mich', 'mach', 'hast']",['dir'],['weg'],9
+413,"['stell', 'frage', 'plage', 'manchmal', 'mir', 'lieber', 'ich', 'wieder', 'die']",['gedicht'],['neue'],9
+414,"['michael', 'blogg', 'wiees', 'wehtdie']","['vergehtein', 'undverstehe', 'stehtauf', 'nieich', 'geschiehtich', 'jahresprojekt']","['funktioniert', 'ich', 'es', 'sie', 'nicht', 'weitem']",4
+416,"['sie', 'tuka', 'taka', 'bügeln', 'gedicht']","['unkrauttage', 'obduktionstisch', 'vielarmig', 'mäuseleichen', 'florale']","['land', 'man', 'hatte', 'alles', 'eine']",5
+417,"['hieße', 'er', 'sagte', 'tafel', 'miese', 'liesse', 'geschwafel', 'flunder']","['hollunder', 'person']","['sowieso', 'kenne']",8
+418,"['zigarettengeschwängert', 'unbeachtet', 'spiralen', 'kübeln', 'immerfort', 'ersehnen']","['abzuprallen', 'zausen', 'dübeln', 'zement']","['vehement', 'schaufeln', 'mischen', 'jenen']",6
+419,"['spät', 'tickt', 'sommerwegen', 'schenkte', 'herbstens', 'bleibst', 'es', 'fahne']","['steh', 'weht']","['zeilen', 'uhr']",8
+420,"['gastdichterin', 'lilly', 'menschen', 'wüste', 'sinds', 'landschaft', 'schuld', 'dumm', 'eigene']",['manche'],['leute'],9
+421,"['kleben', 'gedanken', 'wäscht', 'unrat', 'gullis', 'entschwinden', 'anderem', 'scheiben', 'regen', 'sie']",[],[],10
+422,"['fallend', 'blättertage', 'lallend', 'herbstgedichte', 'november', 'daher', 'kommt', 'er', 'gedicht', 'so']",[],[],10
+423,"['versuchungein', 'umden', 'sinndenkt', 'schwanhalsschwenkt', 'klackeneilt', 'hackenrhytmisch', 'erhaltshat', 'dahinnur', 'adventsgestecktrüffel']",['seidenes'],['tuch'],9
+425,"['sie', 'weiterlesen', 'und', 'die', 'der', 'gruppen', 'in', 'den']","['presslufthammer', 'herd']","['sich', 'vor']",8
+426,"['ihrer', 'sonore', 'schwor', 'masseure', 'maniküreassistentinnen', 'knibbeln', 'gezicke', 'brummen', 'tapete']",['gutaussehenden'],['wänden'],9
+427,"['kotze', 'seine', 'sie', 'er']","['vormittagskurs', 'gesprächsmeister', 'einhandweltumsegelungswettbewerb', 'einhandsegeln', 'tapferer', 'kotzte']","['daß', 'alte', 'boden', 'sagte', 'weg', 'wischen']",4
+428,"['allein', 'warmen', 'lichterschein', 'zurückgelassen', 'nun', 'orten', 'wandern', 'sitzen', 'all']",['dort'],['anderen'],9
+429,"['floss', 'honig', 'wie', 'schenkelklopfend', 'abgehauen', 'dämlich', 'sonnenuntergang', 'schenk']","['sang', 'gelacht']","['selten', 'frauen']",8
+430,"['wo', 'lavaströme', 'erstarren', 'meer', 'sprüht', 'himmeln', 'golden', 'funken']","['verharren', 'blitze']","['im', 'salz']",8
+431,"['liest', 'sum', 'er', 'dann', 'ich', 'weiterlesen', 'komm', 'dich']","['fraukalina', 'tell']","['die', 'sagte']",8
+432,"['mehrere', 'tummelten', 'stiernackig', 'segelohrig', 'schmodder']","['reinemachefrau', 'sahnetorte', 'küchenzeile', 'gekreische', 'härnchen']","['den', 'er', 'zusah', 'zahnbürste', 'verschlang']",5
+433,"['zumindest', 'geraden', 'behält', 'rücken', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin', 'einen']",[],[],10
+434,"['stimmt', 'heiter', 'esel', 'weiter', 'geht', 'immer', 'das', 'der']",[],[],8
+435,"['wars', 'morgens', 'teich', 'schwanenkacke', 'geschissen', 'bleich', 'gerissen', 'backe']","['sonn', 'hats']","['bahn', 'daran']",8
+436,"['jeder', 'hügel', 'erklommen', 'durchschwommen', 'fluß', 'welcher', 'jedes', 'wunderbar', 'spricht']",['gedicht'],['der'],9
+437,"['ich', 'jammerlappen', 'fand', 'knappen', 'schlappen']","['gedicht', 'hiiilfe', 'belchen', 'beschmiegen', 'atrappen']","['leere', 'noch', 'die', 'fällt', 'vielleicht']",5
+438,"['versendet', 'strengem', 'blick', 'unter', 'gedanke', 'voraus', 'samen', 'welchen']","['klein', 'gedicht']","['kennt', 'fällt']",8
+439,"['wichtigkeit', 'universum', 'menscheit', 'fliegenschiss', 'die', 'treibt', 'dabei', 'uns', 'mehr', 'um']",[],[],10
+440,"['dumpf', 'strumpf', 'schuhen', 'ruhen', 'stinkenden', 'plage', 'sehr', 'heutigen', 'fühlt', 'tage']",[],[],10
+441,"['häuser', 'mauern', 'sühnen', 'ruinen', 'fortgang', 'gardinen', 'kreise', 'fuß', 'anfang']",['wandern'],['ihnen'],9
+442,"['er', 'leisen', 'sohlen', 'daher', 'verzehren', 'unverhohlen', 'spreizt']","['danieder', 'liegst', 'verweilen']","['dich', 'kommt', 'verlangt']",7
+443,"['wär', 'und', 'wir', 'gedicht', 'würd', 'lebkuchenherzen', 'csd']","['sommerschwüle', 'geruchsarm', 'blockflötenchor']","['ich', 'mensch', 'den']",7
+444,"['hinfort', 'lag', 'zwickt', 'sommertag', 'räkelt', 'mieder', 'forthin']","['sonn', 'hörnchen', 'ziehn']","['es', 'glieder', 'dummes']",7
+446,"['mal', 'höchstwahrscheinlich', 'heilig', 'felsenfest', 'dazwischenkommt', 'schwör', 'pro', 'möglicherweise']","['werd', 'eventuell']","['ziemlich', 'bestimmt']",8
+447,"['würdest', 'laken', 'wärest', 'windhauch', 'ungeweinte', 'traumresten', 'sehnsuchtsvolle', 'schwül', 'schlaflose']",['getränkt'],['kühler'],9
+448,"['wille', 'froher', 'entsteht', 'eingestellt', 'chancen', 'spür', 'gottes']","['fühl', 'klappe', 'klagen']","['dieser', 'habe', 'viel']",7
+449,"['stille', 'aus', 'raum', 'nimmt', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin', 'seinen']",[],[],10
+454,"['weiterlesen', 'besenrein', 'ein', 'torchance', 'stoßgebet', 'mänchen']","['gleichwärts', 'kinderweinen', 'eigentor', 'entringt']","['ungewollt', 'trainer', 'schwingt', 'ringt']",6
+455,"['traumtanzend', 'sehn', 'zerstäubt', 'wellengischt', 'lachend', 'gleichwohl', 'vergehn', 'aufrecht']","['gehn', 'fort']","['zukunft', 'immer']",8
+456,"['meisten', 'fahnen', 'vermochten', 'trikot']","['ballkontakt', 'eingeflochten', 'gleichtakt', 'geglückt', 'verstehn', 'gebete']","['ist', 'menschen', 'unterscheiden', 'tore', 'mannschaft', 'individuum']",4
+457,"['zuckerschwein', 'esel', 'sprach', 'zwiegespräche', 'macho', 'liebesgedicht', 'inspieriert', 'feinsliebchen']","['scharpf', 'schnösel']","['blöder', 'machs']",8
+458,"['fand', 'woge', 'verwebt', 'schwebend', 'meeresgrund', 'himmelwärts', 'gesandt', 'emporgezogen']","['algen', 'gefaltet']","['jungfrau', 'götter']",8
+459,"['lerne', 'inneren', 'beruht', 'ordnung', 'gehn', 'weisheiten', 'ka', 'gesammelten']","['lin', 'fernöstlichen']","['verstehen', 'kannst']",8
+461,"['weg', 'gedicht', 'haar', 'geh']","['kieloben', 'aldiregal', 'onduliertes', 'mairegen', 'clogs', 'aqua']","['essen', 'ich', 'den', 'verfing', 'treppe', 'seerose']",4
+462,"['hätte', 'gern', 'ich', 'dich', 'weggeräumt', 'vermisst', 'lieblingsplätzen']","['späße', 'leeres', 'dir']","['mitgebracht', 'isst', 'geführt']",7
+463,"['gesät', 'nachdem', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin', 'hast', 'du', 'aus']",[],[],10
+464,"['redet', 'man', 'angst', 'wortlosigkeit', 'umschreibt', 'stuss', 'steuert', 'lamentiert', 'innehalten', 'schwatzt']",[],[],10
+466,"['zeit', 'weiterlesen', 'zu', 'sachen', 'das', 'ich', 'sie', 'irgendwelche']","['zimmervermieter', 'kofferrollen']","['reden', 'die']",8
+467,"['bibel', 'ich', 'habe', 'getauft', 'besserwisser', 'flieder', 'kalina']","['überlliefertes', 'unreflektierter', 'lieberdie']","['interessant', 'auch', 'in']",7
+468,"['bitte', 'zuzuhören', 'vorzutragen', 'vorzulesen', 'sonstwas', 'gelesenes']","['anregenden', 'anmeldung', 'kalina', 'anlauf']","['was', 'wichtiges', 'besprechen', 'beitragen']",6
+469,"['voraus', 'sekunden', 'minuten', 'stunden', 'sind', 'um', 'den', 'die']",[],[],8
+471,"['steht', 'spaten', 'männlein', 'labert', 'verstehn', 'zungen', 'weiterziehn', 'dingen', 'stumm']",['fremden'],['erzählt'],9
+473,"['schön', 'zwischendrinn', 'umzusehen', 'rannte', 'jogger', 'wenns']","['gefieder', 'gibts', 'rennen', 'bunt']","['schönsten', 'fell', 'um', 'gefallen']",6
+479,"['ich', 'die', 'weiterlesen', 'und', 'um']","['eure', 'kalina', 'euch', 'rindes', 'ihr']","['hier', 'das', 'den', 'der', 'über']",5
+480,"['egal', 'eilen', 'stop', 'zeit', 'rennen', 'schnaufen', 'holpern', 'niemals', 'stolpern', 'lieber']",[],[],10
+481,"['mankell', 'afrika', 'verleihliste']","['rassenkonflikte', 'pattison', 'nahebringt', 'lebensbedingungen', 'lebenssinn', 'leoparden', 'tibet']","['von', 'die', 'der', 'er', 'zusammenleben', 'wecken', 'verlorenen']",3
+482,"['mankell', 'afrika', 'verleihliste']","['rassenkonflikte', 'pattison', 'nahebringt', 'lebensbedingungen', 'lebenssinn', 'leoparden', 'tibet']","['von', 'die', 'der', 'er', 'zusammenleben', 'wecken', 'verlorenen']",3
+483,"['regenwurm', 'scheisst', 'reisst', 'oje', 'bänger', 'bang', 'immer', 'seh', 'denk']",['er'],['länger'],9
+484,"['osterglocken', 'klitzekleines', 'rosen', 'tulpen', 'hocken', 'loch', 'sonnenschein', 'socken', 'garten', 'im']",[],[],10
+485,"['und', 'ich', 'er']","['raubritter', 'popeln', 'fahrradanhänger', 'sprintet', 'mittellos', 'mannen', 'hoff']","['zu', 'mir', 'die', 'da', 'gut', 'ein', 'nur']",3
+486,"['wintergarten', 'wolltest', 'du', 'lieber', 'triebe', 'wintergärten', 'kämst', 'betrachteten']","['ruhn', 'sass']","['schwitzen', 'dir']",8
+487,"['shanghai', 'damals', 'sauerei', 'knabberten', 'kai', 'fühlten', 'sassen', 'riesen']","['hai', 'weisst']","['denkst', 'wir']",8
+488,"['große', 'wo', 'verwahrt', 'verlaufen', 'trugbild', 'erinnerungsverdreht', 'wohnte']","['nimmer', 'orten', 'schein']","['innere', 'heimat', 'verkaufen']",7
+489,"['zugabe', 'als', 'nur', 'mal', 'so']",[],[],5
+490,"['gewinnerin', 'hier', 'simone', 'sie', 'caroline']","['preisausschreibens', 'galloppierte', 'gewinnerinnen', 'gedicht', 'amazone']","['ist', 'noch', 'dein', 'schön', 'schneller']",5
+491,"['haarbänder', 'wäscheständer', 'stibitzen', 'räkelten', 'heimlich', 'wonne', 'hingen', 'köpfen']","['dannen', 'trafen']","['konnten', 'sich']",8
+505,"['affen', 'giraffen', 'aua', 'du', 'gedicht', 'mal', 'die', 'doch']","['andern', 'abschied']","['zu', 'dicht']",8
+506,"['du', 'bist', 'wuscheliger', 'sonderling', 'schnurrenden']","['bohrst', 'aquariumsscheiben', 'obs', 'langweiler', 'bewegungsdrang']","['dich', 'wärs', 'stürmt', 'regnet', 'rate']",5
+507,"['als', 'ich', 'waltons', 'verpasst', 'fünkchen', 'daktari', 'chita', 'boy', 'john']",['guckte'],['noch'],9
+508,"['mutter', 'kind', 'die', 'freundin', 'das', 'und', 'haare', 'mädchen', 'sie', 'haar']",[],[],10
+509,"['schrauben', 'manche', 'sie', 'schraubenzieher', 'erliegen', 'biegen', 'anstrengen', 'welchem', 'irrtum']",['mal'],['glauben'],9
+510,"['ketten', 'gelegt', 'verschlossen', 'riegeln', 'eingegossen', 'beton', 'in', 'beschwert', 'musst']",['steinen'],['wirst'],9
+511,"['instant', 'tüten', 'küche']","['inspirationslose', 'energiebällchen', 'meditationshaltung', 'aromastoffen', 'servier', 'käut', 'rettich']","['und', 'ich', 'dann', 'würzen', 'vollmond', 'täuschen', 'stauben']",3
+512,"['verbieten', 'sexistisch', 'religiös', 'pranger', 'karrikaturist', 'gesetzlich', 'diskriminiert', 'beschimpft']","['berufsstand', 'zutiefst']","['lassen', 'privat']",8
+513,"['großen', 'fragen', 'die', 'letztlich', 'entäuschend', 'antworten', 'auf', 'rund']","['klein', 'gedicht']","['erde', 'niemand']",8
+514,"['tränensäcke', 'teebeutel', 'schulzwang']","['hussen', 'geschuppt', 'anzuschreien', 'brötchentüte', 'gären', 'tach', 'aufgedreht']","['zuerst', 'wichtigste', 'tokio', 'song', 'mülleimer', 'lautstark', 'jährigen']",3
+515,"['afrika', 'gestern', 'würdigte', 'tierchen', 'mittagsschmaus', 'kross', 'durchgebraten']","['nähme', 'blickes', 'gewähren']","['ich', 'keines', 'harten']",7
+520,"['schorsch', 'euch', 'vorenhalten', 'liebende', 'geniale', 'blogspot', 'aschermittwoch']","['kalina', 'ausser', 'leserinnen']","['com', 'nette', 'köpfe']",7
+521,"['vorgetragenene', 'trostpreise', 'telinehmerin', 'spontandichten', 'lieblingsgedichte', 'einsendeschluss']","['einsenderinnen', 'dichtungsringen', 'preisausschreiben', 'allgemeines']","['mir', 'live', 'gedichts', 'feier']",6
+528,"['gedichte', 'lest', 'euch', 'übermittelteten', 'schönheitsköniginnen']","['einberufenes', 'legalem', 'auslandsaufenthalt', 'fraukalina', 'behelfen']","['leider', 'jetzt', 'zwingt', 'würfeln', 'mails']",5
+529,"['fan', 'einmal', 'oli', 'luis', 'tschö', 'fernseher', 'wunderschön', 'wandern', 'andern']",['geh'],['sein'],9
+530,"['mail', 'gedichtabo', 'unermüdlich', 'kostenlos', 'dienste', 'betreff', 'mailadresse', 'netcologne']","['leserschaft', 'kalina']","['schreibe', 'möchte']",8
+531,"['voran', 'pferderücken', 'durch', 'wallen', 'taillenlang', 'steppen', 'preschend', 'halse']","['nacht', 'ebenen']","['wild', 'vollem']",8
+532,"['mail', 'gedichtabo', 'unermüdlich', 'kostenlos', 'dienste', 'betreff', 'mailadresse', 'netcologne']","['leserschaft', 'kalina']","['schreibe', 'möchte']",8
+534,"['sieger', 'und', 'rasen', 'gemeinsam', 'schiesst']","['fußballgedicht', 'beizuwohnen', 'gebangt', 'liese', 'tänzeln']","['sie', 'verfolgen', 'nationen', 'grüner', 'gespendet']",5
+535,"['ihr', 'preisfrage', 'mogeln', 'lieblingsgedicht', 'kalinasches']","['hauptgewinner', 'eingentlich', 'einsendefrist', 'beschürzt', 'preisausschreiben']","['essen', 'verlängert', 'scheisse', 'pfeifen', 'mangelnden']",5
+536,"['streitet', 'geflügel', 'garten', 'verdattert', 'geschnattert', 'uriniert', 'rümpft']","['gepiekst', 'eichhorn', 'geniert']","['es', 'wendet', 'igel']",7
+537,"['hatte', 'verging', 'träublein', 'traube', 'rosinentüte', 'pläne', 'güte', 'stolze']","['andren', 'träumte']","['schönheit', 'glatt']",8
+538,"['preisausschreiben', 'vergesst', 'zum', 'gedicht', 'gewinnen', 'nicht', 'das', 'schaut', 'unter', 'gibt']",[],[],10
+539,"['schwäne', 'fliegen', 'tief', 'himmel', 'stutzig', 'putzig', 'pimmellos', 'pimmel', 'luftspiegelung']",['geflügel'],['huch'],9
+549,"['ich', 'was', 'mutter', 'coole', 'sicherlich', 'kinder']","['popken', 'übergewichtigen', 'selbstbwusstsein', 'junggebliebene']","['wurde', 'echt', 'bei', 'gesicht']",6
+550,"['mutter', 'kind', 'ich', 'und', 'das', 'kann', 'lappen']","['küchenbank', 'wegmachen', 'du']","['ja', 'in', 'wasser']",7
+551,"['ich', 'giochi', 'die', 'di', 'und', 'il', 'den', 'kalina']","['frau', 'der']","['jahr', 'bei']",8
+552,"['tag', 'zerfurcht', 'trostlosen', 'stetig', 'sickern', 'neonlichtern', 'nachtcreme', 'gegerbt', 'abzuwehren']",['schmieren'],['unglück'],9
+554,"['topflappen', 'häkeln']","['reimlein', 'häkelrunde', 'hinauspurzelt', 'gelungenens', 'geistschwatzebene', 'ausgewalzt', 'aufgeribbelt', 'kontrollierbaren']","['beschäftigt', 'werden', 'geist', 'ist', 'wird', 'es', 'und', 'überlegen']",2
+555,"['sauwetter', 'nasswerden', 'arbeitsstätte', 'richtig', 'neuen', 'leute', 'so', 'kurz']","['liebe', 'weg']","['also', 'meiner']",8
+556,"['ich', 'ess', 'möhren', 'stifteln', 'schrappen', 'scheiberln', 'kniften']","['beiss', 'reinbeisst', 'betören']","['gerne', 'hab', 'orange']",7
+557,"['günni', 'zugesagt', 'abgesagt', 'hat', 'caroline', 'innen', 'teilnehmer', 'und', 'andrea']",['lesesalon'],['neues'],9
+558,"['zeit', 'oder', 'freizeit', 'freie', 'wie', 'autos', 'auch']","['halbtags', 'reparatur', 'schimpfen']","['mann', 'und', 'ich']",7
+559,"['guten', 'sonntag', 'morgen', 'lieber', 'wochenend', 'könnens', 'drängelt']","['dienstg', 'angeschubst', 'gedränge']","['starten', 'samstag', 'donnerstag']",7
+560,"['voll', 'weia', 'au', 'ankommen', 'abstand', 'dichte', 'wonnen', 'neuer', 'erstmal']",['themen'],['drin'],9
+561,"['hab', 'wie', 'worte', 'ich', 'in', 'lesezeichen', 'innen', 'enkel']","['unkel', 'gedicht']","['einen', 'link']",8
+562,"['tell', 'wellershoff', 'vortrag', 'liebesfluchten', 'dieter', 'internet', 'holzfällen', 'bernhard', 'thomas']",['gedichte'],['dank'],9
+563,"['älterwerdens', 'schmitt', 'noah', 'kürty', 'ildiko', 'frauseins']","['emanuel', 'suter', 'caroline', 'eric']","['witzige', 'schweizer', 'krimis', 'kommissar']",6
+564,"['momente', 'fast', 'ich', 'hätte', 'vorbei', 'streifen', 'schmetterlingsflügel']","['schmecke', 'ahne', 'wehen']","['gibt', 'welten', 'sprachen']",7
+565,"['gefrierbrand', 'kalten', 'ich', 'weiss', 'zugeschweisst']","['tiefkühlgut', 'nachgesehn', 'dubidubidu', 'duuu', 'horte']","['hand', 'ganzen', 'was', 'ein', 'yeah']",5
+566,"['veröffentlicht', 'lieblingsautoren', 'irving', 'gedulden', 'taschenbuch', 'john', 'bis', 'hoffe']","['werk', 'erscheint']","['seiten', 'dass']",8
+568,"['unterschiedlichsten', 'ideen', 'abwechslungsreichen', 'lesefreundinnen', 'freunde', 'freu', 'annette', 'lesesalon']","['eure', 'euch']","['kommen', 'mit']",8
+569,"['heisst', 'nennt', 'sie', 'zurechtkommen', 'sprachkurs', 'kid']","['fat', 'cat', 'child', 'dog']","['schon', 'woman', 'werdet', 'schwerer']",6
+570,"['manchen', 'tagen', 'vollbringen', 'seidig', 'samtweich', 'glücksperlen', 'geschmeidig', 'ertragen']","['fühl', 'schmeckt']","['bauch', 'scheinen']",8
+571,"['chef', 'ich', 'faktor', 'wochen', 'kindesvater', 'arbeitsaufkommens', 'wegen', 'mir']","['hohen', 'probezeit']","['des', 'also']",8
+573,"['zafòn', 'ruiz', 'mitch', 'carlos', 'albom', 'windes']","['mankell', 'leoparden', 'henning', 'lesesalon']","['gekauft', 'fünf', 'begegnen', 'schatten']",6
+591,"['weichgespült', 'und', 'gedicht', 'tag', 'mandala', 'blütenweiss']","['nässer', 'fleucht', 'seelensalbe', 'kreucht']","['abend', 'am', 'welt', 'ich']",6
+592,"['araltankstelle', 'mein', 'topf', 'gedicht', 'dich', 'du']","['einst', 'pferdehimmel', 'eínfach', 'umgibst']","['ich', 'bist', 'so', 'der']",6
+593,"['und', 'weiterlesen', 'es', 'sie', 'küssen', 'küsst', 'jäger', 'erlösung', 'sehnen']",['mauern'],['zu'],9
+604,"['ich', 'zugesagt', 'abgesagt']","['günni', 'lesesalon', 'caroline', 'annette', 'teilnehmer', 'andrea', 'euch']","['gefragt', 'oder', 'hat', 'und', 'jetzt', 'habe', 'innen']",3
+605,"['zahlreich', 'susanne', 'leseratten', 'angemeldet', 'euch', 'teilnehmerliste']","['günni', 'caroline', 'kalina', 'freu']","['liebe', 'dank', 'mai', 'maria']",6
+606,"['kleider', 'ins', 'streifte', 'lehnte', 'gespenster', 'altkleidersack', 'hingen']","['sonnenstrahl', 'andre', 'gehn']","['zwei', 'sahen', 'gespräch']",7
+607,"['eure', 'weitergeben', 'micky', 'lesestoff', 'kurztrip', 'holland', 'büchertips']","['osterferien', 'lesesalon', 'lest']","['verschieben', 'angesprochen', 'hefte']",7
+608,"['die', 'mal', 'verfüge', 'verbindliche']","['tinnen', 'lesebegeisterte', 'gedichtabo', 'netcologne', 'bahnhofsbuchhandlung', 'osterferien']","['seiten', 'kann', 'haben', 'da', 'holen', 'begrenzten']",4
+609,"['sagte', 'er', 'verglich', 'koniferen', 'preise', 'schwören', 'spät', 'bitte', 'lass']",['sie'],['ist'],9
+610,"['schmelzen', 'schlucken', 'worte', 'beim', 'wohlig', 'verbinden', 'sätzen', 'pelzig', 'pelzen']",['wunden'],['zunge'],9
+612,"['überrannt', 'windschutzwände']","['strandpavillons', 'softeisen', 'schleckend', 'pommestüten', 'labyrinthen', 'trampoline', 'fensterlos', 'exklusivität']","['heute', 'und', 'wir', 'am', 'zu', 'etwas', 'uns', 'versteckt']",2
+613,"['pose', 'set', 'posen', 'ein', 'aldi', 'bein']","['wobbler', 'superprodukt', 'posenset', 'playboybunny']","['richtige', 'die', 'lächeln', 'hinten']",6
+614,"['pack', 'tüten', 'tu', 'rosenblüten', 'mögest', 'hundertausend', 'dir', 'meine', 'verwahren', 'liebe']",[],[],10
+615,"['seite', 'gelandet', 'hier', 'weiss']","['wiederlichen', 'schweineseiten', 'leserinnnen', 'laserstrahl', 'rumsurfen', 'entrüstete']","['sehen', 'über', 'ich', 'werden', 'ihr', 'und']",4
+616,"['weltfrauentag', 'verlinkung', 'shtml', 'ordentlichen', 'nachzulesen', 'ksta', 'html', 'gewusst', 'artikel']",['gelernt'],['www'],9
+617,"['danke', 'ich', 'haben', 'denen', 'projekt', 'gehalten', 'mich']","['gedicht', 'reflektionsebene', 'gerührte']","['geworden', 'es', 'jahr']",7
+628,"['jetzt', 'nun', 'nicht', 'aber', 'doch']",[],[],5
+629,"['er', 'umschifften', 'treppenerklimmendes', 'schlafwandlerischer', 'mantelrascheln', 'lichtglanzbeschlagene']","['konkurrierender', 'kanugroßen', 'flaumigweichen', 'hundehaufen']","['windigen', 'resigniert', 'mantelkragen', 'luftschichten']",6
+630,"['vers', 'dieser', 'verzeiht', 'konsum', 'glasesgrund', 'entstand', 'ihn', 'schrieb', 'bier']",['fand'],['na'],9
+631,"['unbefleckt', 'umhüllt', 'schrillt', 'geblendet', 'blinzeln', 'beschmiegen', 'verstellt', 'unverlangten']","['traumesglanz', 'glocke']","['bildern', 'noch']",8
+634,"['krabbenbrötchen', 'füßen', 'breit', 'übelkeit', 'meinen', 'macht', 'vor', 'von', 'sich', 'ein']",[],[],10
+636,"['mögen', 'grunde', 'entlang', 'strand', 'am', 'im', 'das', 'die']",[],[],8
+639,"['ordnet', 'gehüllt', 'gedrückt', 'durchdringende', 'bleischwer', 'befreiend', 'schrei', 'seele']","['schweigen', 'armseliges']","['neu', 'unten']",8
+650,"['reziprok', 'konversiv', 'er', 'bleibt', 'verknickt', 'verkannt', 'sehnsuchtsfaktor', 'redundant', 'allzugern', 'rückt']",[],[],10
+658,"['dannn', 'wirst', 'laß', 'fliegen', 'schranken', 'weisheiten', 'ka', 'gesammelten']","['lin', 'fernöstlichen']","['setzt', 'lieben']",8
+659,"['wesel', 'einst', 'tranken', 'rechter', 'hösel', 'fusel', 'beduselt', 'schnösel', 'esel']",['traf'],['fuhr'],9
+660,"['manchen', 'man', 'wegen', 'gehen', 'zeitlang', 'auf', 'kann', 'stehn', 'richtung']",['bleibt'],['sehen'],9
+661,"['ringend', 'verzweifelt', 'schmerz', 'worte', 'niederzwingend', 'füllt', 'ums', 'ichs']","['andre', 'sag']","['nach', 'eins']",8
+686,"['weiterlesen', 'ich', 'sie', 'heut', 'geh']","['weihenacht', 'trompetengeheul', 'schmatzgeräusche', 'schlafanzughose', 'niedrigflieger']","['sah', 'den', 'einer', 'aus', 'denn']",5
+687,"['weihnachtsgebäumte', 'warnung', 'straßenecken', 'letzte', 'lamettaahnung', 'heimeligen', 'schrecken', 'autobahn', 'erzählen', 'von']",[],[],10
+688,"['kristallene', 'klarheit', 'vergangen', 'tiefster', 'gefühlt', 'erkannt', 'moment', 'wahrheit', 'ein']",[],[],9
+689,"['pflücken', 'bereitet', 'lachen', 'ernsten', 'entzücken', 'dichterin', 'großes', 'lippen', 'zu', 'ein']",[],[],10
+690,"['war', 'karaoke', 'bar', 'fühlten', 'alles', 'einander', 'gedränge', 'wunder', 'nah', 'wunderbar']",[],[],10
+691,"['vögelchen', 'átom', 'ánnette', 'vögelchenlange']","['weiss', 'schonbevor', 'piepsagte', 'mondänität', 'herbstlaubeinfachvon', 'eswie']","['ich', 'das', 'könnte', 'zuversicht', 'verleiht', 'umgibt']",4
+703,"['handschuhe', 'gedicht', 'istanbul', 'sie']","['tupperparty', 'salznasser', 'morgenerrötende', 'hauptstädtern', 'hauptstadtgedanken', 'einhandsegelei']","['lächeln', 'nach', 'er', 'liebe', 'ich', 'zurück']",4
+704,"['wachsen', 'stunden', 'vielarmig', 'umranken', 'florale', 'pickel', 'teppich', 'muster', 'schweigen']",['aus'],['dem'],9
+705,"['siehst', 'ihn', 'schleichen', 'pflastern', 'mäuseleichen', 'lebend', 'gänge', 'beklagen']","['grabe', 'maus']","['tod', 'einzige']",8
+706,"['spriessen', 'tage', 'manchmal', 'vergehen', 'schiessen', 'kraut', 'glaubts', 'geordneten', 'beeten']",['unkraut'],['womöglich'],9
+707,"['ausgeträumten', 'träume', 'grab', 'tuka', 'taka', 'kerze', 'angezündet', 'abgelegt', 'blume', 'land']",[],[],10
+708,"['sie', 'bügeln', 'rauchwölkchen', 'obduktionstisch']","['bügelte', 'nahrungsergänzungsmittel', 'aufstiegen', 'redaktionsleiter', 'bügeleisen', 'gebügelt']","['hatte', 'alles', 'einmal', 'man', 'überdosis', 'unregelmäßigen']",4
+709,"['zierlichen', 'untergehenden', 'schlitternd', 'hustete', 'herbstsonne', 'auswurf', 'sicherheit', 'versuchte', 'füße', 'bringen']",[],[],10
+710,"['stein', 'verklingt', 'lautlos', 'fährmann', 'der', 'ton', 'nebel', 'sinkt', 'ein', 'fern']",[],[],10
+712,"['lesezeichen', 'empfehle', 'bücherleser', 'bookhooks', 'basteln', 'schöne', 'innen', 'ihnen', 'kinder']",['welche'],['keine'],9
+713,"['link', 'tip', 'sibylleberg', 'schicken', 'nich', 'ch', 'klappt', 'newsletter']","['melden', 'lasst']","['et', 'www']",8
+714,"['weiterlesen', 'weckerklingeln', 'brote', 'schmieren', 'dunkelheit']","['tränenschlieren', 'synchronschwimmen', 'dideldei', 'blumenvasen', 'begeneten']","['in', 'den', 'die', 'der', 'sitzen']",5
+715,"['gruppen', 'kleinen', 'verdrängten', 'suppen', 'löffeln', 'kochten', 'sie', 'müssen', 'ende']",['allein'],['wissen'],9
+716,"['überkäme', 'verängstigten', 'solidarität', 'schokokeksessend', 'mienen', 'marsch', 'krümelnderweise', 'praktikantin']","['redaktionsleiter', 'benimmt']","['studieren', 'gilt']",8
+717,"['überkäme', 'verängstigten', 'solidarität', 'schokokeksessend', 'mienen', 'marsch', 'krümelnderweise', 'praktikantin']","['redaktionsleiter', 'benimmt']","['studieren', 'gilt']",8
+718,"['presslufthammer', 'hämmern', 'muss', 'kommt', 'tag', 'der', 'da', 'es']",[],[],8
+719,"['sie', 'auf', 'sachen', 'wandregale']","['runterkrachte', 'beistelltischen', 'schutthaufen', 'schäfchenwolken', 'vereinigte', 'presslufthammer']","['die', 'den', 'zigaretten', 'zerlegt', 'zeitspanne', 'wachte']",4
+720,"['sie', 'herd', 'zubereitete', 'sämige']","['maurern', 'glockenklarer', 'nahrhaftes', 'presslufthämmern', 'ansprechendes', 'schmackhaftes']","['essen', 'und', 'kinder', 'zarter', 'summend', 'standen']",4
+721,"['wetteiferten', 'warben', 'synchronschwimmerweltmeisterschaft', 'rinnsteinpoeten', 'radevormalde']","['grossbildleinwand', 'ereiferten', 'geiferten', 'gebannter', 'endspiel']","['sich', 'versammelt', 'publikums', 'mitteln', 'jährlichen']",5
+722,"['wir', 'rinnsteingestalten', 'koffer', 'hingewand', 'dringt', 'beschlagene', 'bangen', 'ziellos', 'frieren']",['dannen'],['falschen'],9
+723,"['österliche', 'voreilig', 'tannenbaumbekugelte', 'kontingent', 'kantensitzer', 'glockenstimmen', 'ersteigert']","['dekospirenzchen', 'herrengedeck', 'aufsteigenden']","['größeres', 'gehandelt', 'fallenden']",7
+724,"['will', 'butter', 'und', 'gedicht', 'tränen']","['herztür', 'annettchen', 'würstchendose', 'jause', 'tatoo']","['mutter', 'mit', 'sie', 'auf', 'ich']",5
+725,"['ich', 'tausch', 'annettes', 'eilt', 'frag', 'wegs', 'geschwind']","['härnchen', 'seht', 'drum']","['wohin', 'ein', 'scheiben']",7
+726,"['er', 'endlich', 'wanken', 'tönt', 'stilles', 'schallen', 'pudding']","['gerüstbauer', 'planken', 'abstieg']","['weiter', 'steht', 'leiter']",7
+727,"['sum', 'länder', 'lehrer', 'kreisch', 'grossem', 'bienchen', 'beissen']","['mütter', 'wandern', 'hirn']","['filme', 'wände', 'zeigen']",7
+728,"['undenkbar', 'streckte', 'kulturen', 'japanische', 'hingab', 'glücksspiel', 'ehepaar', 'denkbar', 'zustände']",['origami'],['fremde'],9
+729,"['mehr', 'leben', 'schimmelnden', 'verwesen']","['schmerzend', 'tütensuppen', 'fernsehern', 'verrotten', 'angeschwollen', 'versiegen']","['niemand', 'weil', 'in', 'zeitung', 'wohnungen', 'verschollen']",4
+730,"['weiterlesen', 'stein', 'schnetzelt', 'pute', 'ein', 'hätt', 'hausfrau']","['tiefkühlsau', 'abperlten', 'herbstgefühl']","['zeichen', 'der', 'sommer']",7
+731,"['fand', 'ich', 'ging', 'zum', 'zehren', 'vernehmen', 'tiefes']","['sehnend', 'erfühlen', 'fliessen']","['was', 'war', 'doch']",7
+732,"['jammerlappen', 'knappen', 'schlappen', 'ich', 'berappen', 'atrappen', 'einkassiert', 'ausgelatschten']","['zappen', 'wegs']","['strafe', 'diversen']",8
+733,"['kaffekannig', 'begrüßen', 'frohlockend', 'tassen', 'tag', 'den', 'in']",[],[],7
+734,"['in', 'gedicht', 'das', 'ich', 'nimmt', 'stift', 'die', 'schweift']","['stahlgrauen', 'simkarten']","['träumen', 'der']",8
+735,"['wär', 'würd', 'und', 'ich', 'trügen', 'kräftigem', 'kraftvoll', 'erwartungsfroh', 'erhaben']",['hoffnungsvoll'],['schlag'],9
+736,"['verführt', 'sommerschwüle', 'nacht', 'tag', 'wenn', 'den', 'die']",[],[],7
+737,"['zivilisation', 'wir', 'kissen', 'nachts', 'kennen', 'weinen', 'die', 'unsere', 'still']",['gedicht'],['wissen'],9
+738,"['sehnsüchte', 'geruchsarm', 'entsorgt', 'herbst', 'im']",[],[],5
+739,"['zerzaust', 'währt', 'wundersamen', 'schrill', 'götterfunken', 'ertrunken', 'blockflötenchor', 'spieler', 'zerstreut']",['gesang'],['komisch'],9
+742,"['erfrischt', 'wälder', 'wiesen', 'weichgezeichnete', 'sonnenentstrahlte', 'hitzeerstarrung', 'erwacht', 'grün']","['wege', 'ahnung']","['atmen', 'erinnern']",8
+743,"['weiterlesen', 'sonnenklar', 'fallen']","['weibchendüfte', 'fußballgedicht', 'motzen', 'rotzen', 'rupfen', 'eiter', 'foul']","['alte', 'ob', 'beim', 'zäh', 'zupfen', 'zittert', 'wittert']",3
+744,"['besenrein', 'hosenbein', 'fein', 'du', 'nein', 'klein', 'schön', 'leben', 'sein', 'ganz']",[],[],10
+745,"['verletzt', 'kinderweinen', 'erklingt', 'raum', 'weit', 'jetzt', 'durch', 'zeit', 'und']",['mein'],['hier'],9
+746,"['torchance', 'stoßgebet', 'kehlen', 'gleichwärts', 'favoriten', 'entringt']","['lüften', 'münder', 'fahnen', 'atemlos']","['schwingt', 'blicke', 'anhalten', 'knapp']",6
+747,"['blumen', 'spriessen', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin', 'dort', 'aus']",['auf'],['von'],9
+748,"['ein', 'männchen', 'hüpft', 'ungewollt', 'trainer', 'ringt', 'mänchen', 'grollt', 'eigentor']",['andres'],['tor'],9
+750,"['nasen', 'rote', 'auf', 'sonne', 'welken', 'sonnenbaden', 'hirne']","['britzeln', 'brutzeln', 'garen']","['scheint', 'schirm', 'matten']",7
+751,"['tücher', 'die', 'gedicht', 'lappen', 'besen', 'welle']","['stehn', 'stein', 'tuppt', 'traumesland']","['der', 'er', 'stelle', 'und']",6
+752,"['werf', 'sorgfältig', 'onduliertes', 'geputzte', 'blumenkästen', 'arrangierte', 'stolz', 'schweift']","['weiss', 'durchs']","['ich', 'geschafft']",8
+753,"['weg', 'geh', 'dein', 'gehen', 'den']",[],[],5
+754,"['verfing', 'seerose', 'kieloben', 'getrieben', 'haar', 'meinem', 'durch', 'tag', 'bis', 'eine']",[],[],10
+755,"['leinen', 'fröstelt', 'mairegen', 'wäsche', 'worden', 'hängt', 'vergessen', 'einmal', 'wieder', 'im']",[],[],10
+756,"['essen', 'aldiregal', 'werft', 'verbessern', 'getreide', 'aqua', 'ists']","['weide', 'ausser', 'kuh']","['spielzeug', 'die', 'fische']",7
+761,"['dunkeln', 'seltsam', 'wandern', 'wassern', 'umspült', 'hörst', 'wo', 'unbekannten', 'ufern']",['andern'],['beginnen'],9
+762,"['pizzamann', 'die', 'und', 'der', 'kindern', 'den', 'potpourri', 'ich']","['gedicht', 'strand']","['ist', 'es']",8
+763,"['seine', 'zeit', 'hat', 'wegwerfen', 'steine', 'zunähen']","['inetresaanter', 'ajegliches', 'salomo', 'puhdys']","['herzen', 'ab', 'zerreißen', 'weicht']",6
+764,"['verwöhnen', 'speyer', 'nestbau', 'holdes', 'fröhnen', 'flieg', 'entenweib', 'entenmann', 'ente', 'drallen']",[],[],10
+766,"['ende', 'man', 'leer', 'leben', 'zähes', 'wirddas', 'stationdes', 'seelezurückgelassen']","['dvon', 'lausig']","['stirbt', 'physisch']",8
+767,"['sieh', 'läuft', 'osterhase', 'ausgelacht', 'dir', 'dort', 'zeigt', 'gebracht', 'nase']",['dich'],['nichts'],9
+775,"['fliederstrauch', 'unterm', 'lag', 'einst', 'tafelspitz', 'mutterwitz', 'kraulte', 'frieder', 'kochte']",['fürwahr'],['bauch'],9
+776,"['weiterlesen', 'ich', 'und', 'es', 'nicht', 'ihr', 'leuchte']","['preisausschreiben', 'geflügel', 'euch']","['bald', 'auf', 'mit']",7
+777,"['rindes', 'pralinen', 'schokolade', 'freude', 'rind', 'halme', 'geniessen', 'gemüse']","['spriessen', 'wiese']","['gras', 'schade']",8
+778,"['er', 'tier', 'rezitieren', 'lear', 'künstlerisches', 'begabung', 'katerherz', 'hamlet', 'besondres']",['hoff'],['erfahrung'],9
+779,"['ich', 'hut', 'hund', 'zersägt', 'morgenstund']","['jägersfrau', 'pirsche', 'halali', 'öhrchen', 'schwänzchen']","['die', 'sie', 'und', 'das', 'jagd']",5
+780,"['oh', 'blüht', 'jahr', 'monat', 'heu', 'handumdrehn', 'verwehn']","['vergehn', 'bette', 'flieder']","['stunden', 'und', 'duftet']",7
+781,"['fast', 'um', 'weinen', 'ich', 'manchmal', 'sommerwärme', 'frühlingswiese']","['abgezählt', 'blütenblätter', 'erklommen']","['die', 'den', 'muss']",7
+782,"['schritt', 'meiers', 'meier', 'ginster', 'geranien', 'etage', 'landet', 'frau', 'überdrüssig']",['heut'],['tat'],9
+784,"['politischer', 'phantasievoll', 'jugendliche', 'interpretationsansätze', 'geschichtlicher', 'empfehlenswert', 'verrückte', 'salman', 'rushdie']",['autors'],['erwachsene'],9
+798,"['regen', 'wasser', 'rauf', 'lauf', 'gehts', 'runter', 'nimmt', 'seinen', 'welt', 'dieser']",[],[],10
+799,"['mutter', 'kind', 'ich', 'und', 'das', 'die', 'noch']","['küchenbank', 'mal', 'lappen']","['ja', 'nicht', 'kann']",7
+800,"['kaffeekanne', 'tolerant', 'reiste', 'plümerant', 'hoffte', 'geladen', 'anne', 'kleine']","['andren', 'feste']","['bat', 'tee']",8
+801,"['wut', 'vornehme', 'motten', 'gebündelt', 'futter', 'eingenäht', 'frisst']","['beizeiten', 'gewand', 'stiefel']","['meiner', 'spitzen', 'löcher']",7
+802,"['dicht', 'wenn', 'wohlfühlen', 'müssten', 'dichtungsring', 'allle', 'nebel', 'hintereinander', 'dichten', 'sie']",[],[],10
+804,"['aua', 'zischts', 'mauer', 'kiesel', 'erwischt', 'hals', 'lauter', 'hats', 'ohren']",['gedicht'],['kopf'],9
+805,"['du', 'doch', 'halt', 'mal', 'andern']","['böldmann', 'gemecker', 'nervst', 'nörgeln', 'kehr']","['zu', 'hast', 'ob', 'die', 'das']",5
+806,"['abschied', 'dir', 'von', 'er', 'schwer', 'mir', 'der', 'denn', 'viel']",['gedicht'],['war'],9
+807,"['affen', 'giraffen', 'zusammenraffen', 'reimt', 'reimen', 'klaffen', 'gaffen', 'aufzuraffen', 'werds']",['sichs'],['waffen'],9
+808,"['verzeihen', 'tapferen', 'liebelein', 'lesern', 'kommunikation', 'flexibel', 'unheimlich', 'leserinnen']","['eure', 'nett']","['gehe', 'wünsche']",8
+815,"['du', 'sagst', 'dich', 'dinge', 'bist', 'versessen']","['opal', 'verpisst', 'riechst', 'wirds']","['ich', 'zwingen', 'tausend', 'schmutz']",6
+816,"['regenwurm', 'lag', 'sonne', 'vertrocknet', 'aalte', 'wonne', 'voller', 'wollt', 'er', 'gehn']",[],[],10
+817,"['müsste', 'würde', 'man', 'herz', 'wehendem']","['hügelweise', 'gischtnasser', 'beschreibend', 'nachjagt', 'bläht']","['das', 'blick', 'wüsste', 'wohnt', 'weinend']",5
+819,"['früh', 'morgen', 'verschlafen', 'trott', 'jeglichen', 'hetze', 'ganzer', 'alltags']","['schranken', 'birgt']","['setzen', 'grenzen']",8
+822,"['ich', 'boot', 'halte', 'zählt', 'schützend', 'bitterlich']","['brausender', 'schwankendem', 'schmecke', 'schützte']","['auf', 'stärke', 'gefahr', 'deck']",6
+830,"['leute', 'versklavung', 'stutzen', 'stehts', 'lappenaufstand']","['abschaben', 'aufbegehrt', 'beizeiten', 'ists', 'bezahlung']","['endlich', 'uns', 'verkehrt', 'streiten', 'klappen']",5
+832,"['leuchte', 'wurm', 'kleiner', 'bald', 'wohnen', 'verschonen', 'himmelsstaub', 'drunten', 'erden']",['sturm'],['großer'],9
+835,"['wollen', 'rücken', 'riechen', 'nasen', 'gerade', 'erhoben', 'leben', 'köpfe']","['singen', 'lippen']","['hände', 'beine']",8
+836,"['fragen', 'zeitnah', 'hemmungen', 'hallihallo', 'bestem', 'beantworten', 'verständnis', 'rubrik']","['kalina', 'leserinnen']","['weblog', 'sofort']",8
+878,"['titel', 'schreiberin', 'pennt', 'mittel', 'fristig', 'faule', 'dokument', 'ohne', 'leeres']",['werd'],['kriegen'],9
+888,"['ich', 'das', 'und', 'brille', 'konsument', 'wippe', 'steig']","['gedicht', 'stund', 'günni']","['die', 'so', 'hauptsache']",7
+889,"['hab', 'enkel', 'in', 'unkel', 'tante', 'zwitter', 'verwandschaften']","['salzgitter', 'bischofsheim', 'amiland']","['einen', 'ich', 'züchten']",7
+890,"['worte', 'wie', 'verzogne', 'verfärben', 'verdrehen', 'tröpfeln', 'sperrig', 'rosig']","['harfen', 'fiese']","['wirken', 'schläge']",8
+892,"['erfeulicherweise', 'kommentar', 'innen', 'teilnehmer', 'tell', 'kommt', 'melden']","['lesesalon', 'annette', 'heisst']","['auch', 'denke', 'ok']",7
+893,"['leidenschaft', 'träumte', 'heut', 'sickert', 'abgeschafft', 'erinnerung', 'liebe', 'wunsch', 'hinein']",['gedicht'],['mir'],9
+894,"['pferd', 'wilden', 'verschwindet', 'verfällt', 'trab', 'langweilt', 'reinbeisst']","['herd', 'drum', 'fisch']","['trifft', 'brot', 'auf']",7
+896,"['mitternachtskinder', 'salman', 'rushdie', 'von']",[],[],4
+897,"['wörtern', 'vorschiebt', 'riegel', 'plappern', 'fehlen', 'liebes', 'hallo', 'tagebuch', 'schwatzen']",['klappern'],['kann'],9
+900,"['wirkllich', 'wahrlich', 'reissts', 'meckert', 'lichtstrahl', 'hocker', 'beharrlich']","['unkel', 'nehm', 'gehn']","['ich', 'locker', 'glaubt']",7
+901,"['mitch', 'fünf', 'begegnen', 'albom', 'zafòn', 'ruiz', 'carlos']","['mankell', 'leoparden', 'henning']","['himmel', 'menschen', 'dir']",7
+905,"['liest', 'ich', 'evtl', 'carolin', 'weiterlesen', 'sabine', 'zurück']","['annette', 'gedicht', 'kurt']","['und', 'macht', 'jahren']",7
+906,"['weichgespült', 'und', 'gedicht', 'tag', 'mandala', 'blütenweiss']","['nässer', 'fleucht', 'seelensalbe', 'kreucht']","['abend', 'am', 'welt', 'ich']",6
+907,"['und', 'her', 'der', 'pumps', 'wo', 'weiterlesen', 'lama', 'hühnersuppe']","['oh', 'schwarzkehlchen']","['kommt', 'die']",8
+909,"['zugesagt', 'susi', 'abgesagt', 'hat', 'schon', 'andrea', 'waldschrat', 'walde', 'apropos']",['lesesalon'],['schweigt'],9
+910,"['von', 'leben', 'schwüle', 'saum', 'näh', 'mühsamen']","['kleides', 'demütig', 'kummer', 'sehnen']","['wem', 'trage', 'sinnlos', 'nächten']",6
+911,"['dichten', 'oh', 'falt', 'zeilen', 'wochenende', 'gebet', 'wieder', 'schon']","['gibts', 'heut']","['hände', 'man']",8
+912,"['gefragt', 'oder', 'ich', 'habe', 'vorgaben', 'verteile']","['euch', 'lesesalon', 'anregen', 'nachfrage']","['wollte', 'etwas', 'wieviele', 'insgesamt']",6
+915,"['seiten', 'mal', 'die', 'vortragen', 'tinnen', 'lesebegeisterte', 'ausschnitte']","['lesesalon', 'lest', 'kalina']","['haben', 'vorlesen', 'empfehlen']",7
+916,"['löchrigen', 'kalte', 'zehen', 'straße', 'socken', 'sollte', 'sehen', 'gehen', 'wenn', 'man']",[],[],10
+919,"['blau', 'fenster', 'himmel', 'vorbei', 'etwas', 'am', 'nur', 'der']",[],[],8
+922,"['liese', 'flüssig', 'speiste', 'kohle', 'grünt', 'weint', 'überdrüssig', 'liebster']","['shanghai', 'hai']","['verstehen', 'wiese']",8
+925,"['englein', 'weihnachtszeitich', 'tannennadelnmesserwetzen', 'tagan', 'stammbis', 'sinnsie', 'singenund', 'raufenden']","['quieksenspricht', 'punkglanz']","['spaß', 'statt']",8
+926,"['geh', 'gehst', 'bleib', 'dumm', 'stumm', 'schritt', 'kleiner', 'weiter', 'allein']",['ich'],['wäre'],9
+927,"['hand', 'schlendernd', 'unbekannten', 'herbst', 'wegen', 'auf', 'in', 'der']",[],[],8
+928,"['mist', 'kriegt', 'bauchweh', 'lilly', 'man', 'ist', 'das']",[],[],7
+929,"['sie', 'heut', 'ich', 'schlafes', 'jungfäulich', 'eingesponnen', 'weges', 'wonnen']","['hey', 'traf']","['zeit', 'tages']",8
+931,"['urinierte', 'schmatzgeräusche', 'schleckten', 'schlafanzughose', 'nagetiere']","['gemeinschaftsmülltonne', 'fernsehansager', 'fischdose', 'altöl', 'getropft']","['aus', 'vorgarten', 'stapfte', 'seitlich', 'nager']",5
+932,"['woanders', 'vergällen', 'trompetengeheul', 'tagesanfang', 'schrägen', 'ruhigen', 'niedrigflieger', 'irgend']","['harfe', 'nähme']","['bestellt', 'fragt']",8
+933,"['weihenacht', 'kinderträume', 'fette', 'besinnlich', 'ewig', 'lüften', 'ästen', 'wachsen']","['nägel', 'mütter']","['bäume', 'vögel']",8
+939,"['sie', 'er', 'und', 'die', 'ihn', 'aerobicgruppe', 'lammfell']","['gedicht', 'teilig', 'edelstahl']","['mit', 'wärme', 'krawatte']",7
+940,"['schüchtern', 'nirvana', 'leitner', 'herumgedrückt', 'ergeht', 'bonbons', 'anstatt']","['bonbonpapier', 'klingeln', 'kommentaren']","['gegessen', 'erinnere', 'aufgefallen']",7
+941,"['einhandsegelei', 'ganze', 'diese', 'zähneknirschend', 'zuzugreifen', 'festgestellt', 'händen', 'richtige', 'lag']",['gedicht'],['beiden'],9
+942,"['vulkanische', 'küsse', 'ziert', 'salznasser', 'eidechse', 'darum', 'braut', 'verursachen', 'risse']",['lacht'],['haut'],9
+943,"['morgenerrötende', 'wippend', 'verteilte', 'umgerührt', 'tupperparty', 'nächst', 'bedürftige', 'takt', 'topf']",['speise'],['die'],9
+944,"['liebe', 'erwachsene', 'tiere', 'kinder', 'viele', 'schirme', 'hauptstädtern', 'hauptstadt', 'bezauberndes', 'aufspannen']",[],[],10
+945,"['hauptstadtgedanken', 'nach', 'west', 'ost', 'freiheit', 'riechen', 'schmecken', 'ziehen', 'schranken']",['gedicht'],['glück'],9
+946,"['handschuhe', 'er', 'umspielte', 'schaukelstuhl', 'istanbul', 'wippen', 'stuhl', 'trug', 'lächeln']",['lippen'],['ließ'],9
+947,"['er', 'stamm', 'naß', 'biberin', 'tummeln', 'nagt', 'kühlen', 'biberleben', 'biber', 'mehr']",[],[],10
+948,"['schwer', 'manchmal', 'leben', 'untergeht', 'sack', 'fluss', 'so', 'ist', 'zement', 'wunder']",[],[],10
+953,"['gedicht', 'sie', 'sich', 'die', 'in', 'ließen', 'fernsehern', 'ihre']","['runde', 'schimmelnden']","['online', 'mehr']",8
+954,"['weckerklingeln', 'brote', 'schmieren', 'tränenschlieren', 'frösteln', 'ferienzeit', 'dunkelheit', 'ende', 'augen', 'in']",[],[],10
+955,"['hasen', 'lauter', 'gemeinschaftsarbeit', 'blumenvasen', 'kleine', 'kalinas', 'stecken', 'nasen', 'rasen', 'sitzen']",[],[],10
+956,"['weichheit', 'verzehrend', 'kriecht', 'frierend', 'flügellahm', 'fliesen', 'begehrend', 'kalten', 'sinkt', 'ritzen']",[],[],10
+957,"['poseidons', 'arm', 'lag', 'einst', 'umspülten', 'trieb', 'meeresschaum', 'dideldei']","['sang', 'fisch']","['hinweg', 'wellen']",8
+958,"['überreden', 'wiederholten', 'synchronschwimmen', 'sonnenstrahlen', 'feriengäste', 'drängten', 'begeneten', 'bananenstauden', 'aneinander']",['reserviert'],['male'],9
+959,"['liegestühle', 'schlafen', 'schiffe', 'hafen', 'bad', 'die', 'fahren', 'sehnsucht', 'herzen']",['meer'],['wenn'],9
+962,"['gedichte', 'gedicht', 'ich', 'schnäppchen', 'härnchen', 'see', 'hausfrau', 'das']","['reiher', 'sonnenuntergang']","['die', 'zu']",8
+963,"['dein', 'würstchendose', 'verzagen', 'kaugummi', 'jause']","['supermarktregal', 'aschfahl', 'hastet', 'geschwind', 'bauarbeiter']","['blick', 'zuhause', 'pause', 'nähert', 'klebt']",5
+964,"['socken', 'seinen', 'tatoo', 'locken', 'ernie', 'bert', 'befremden', 'verursachen', 'dose']",['hemden'],['fasziniert'],9
+965,"['heike', 'heiko', 'allein', 'leben', 'im', 'die', 'und', 'der']",[],[],8
+966,"['butter', 'verließ', 'mutter', 'uns', 'gestern', 'pfund', 'kutter', 'hinterließ', 'wuchs']",['wunderbar'],['fuhr'],9
+967,"['will', 'tränen', 'ich', 'süßesten', 'schönstem']","['beweint', 'beweinen', 'geschmeide', 'diamanten', 'geheilt']","['mit', 'sie', 'seide', 'schmücken', 'pflegen']",5
+968,"['online', 'shoppen', 'spaß', 'macht', 'viel', 'poppen', 'leer', 'wünscht']","['gedicht', 'euch']","['bett', 'schwer']",8
+969,"['weiterlesen', 'niech', 'armen', 'dose']","['supermarktgedanken', 'schieferdach', 'aufgehender', 'schämst', 'riesengrosser', 'morgenvogel']","['ein', 'buch', 'warum', 'wort', 'müssen', 'manche']",4
+970,"['fiel', 'regen', 'hätt', 'sommer', 'als', 'versäumt', 'herbstgefühl', 'endgültig', 'befiel', 'sonderbar']",[],[],10
+971,"['wassertropfen', 'zeichen', 'muster', 'diesem', 'morgen', 'vernahm', 'enthalten', 'abperlten', 'an', 'im']",[],[],10
+972,"['schnetzelt', 'pute', 'hausfrau', 'die', 'verdient', 'tiefkühlsau', 'freut', 'wieder', 'gute', 'heut']",[],[],10
+973,"['und', 'zinedine', 'zidane', 'gedichte', 'lest', 'klingen', 'euch']","['gedicht', 'leinwandkicker', 'übermittelteten']","['für', 'nach', 'sie']",7
+974,"['zerplatzen', 'tümpeln', 'sinkend', 'simkarten', 'polyphonen', 'luftblasen', 'klingeltönen']","['goldfisch', 'aquarium', 'angefüllt']","['wasseroberfläche', 'traurigen', 'handys']",7
+975,"['träumen', 'selbstverständllich', 'segele', 'schwingen', 'bestimmung']","['aufwind', 'abheben', 'lüfte', 'flügeln', 'hebe']","['in', 'vogel', 'kreisen', 'hinauf', 'breiten']",5
+976,"['schweift', 'blick', 'tal', 'übers', 'weit', 'klitzeklein', 'gartenzwerg', 'der', 'berg', 'hoch']",[],[],10
+977,"['risiken', 'nebenwirkungen', 'flundern', 'eifersucht', 'bedeutungslosikeit', 'bauchweh', 'rühren']","['bügeln', 'frust', 'hemden']","['wundern', 'versinken', 'neid']",7
+978,"['stift', 'das', 'runterfällt', 'lift', 'höchste', 'endete']","['blattpapier', 'wendete', 'fahr', 'augenblicke']","['ich', 'hier', 'notiz', 'hinunter']",6
+979,"['übersichtliche', 'umschlossen', 'tulpe', 'schlackerten', 'ledig', 'halbnackt']","['federhüte', 'bademodentraum', 'bademoden', 'badehosen']","['übel', 'zwiebel', 'tannenzapfen', 'hoden']",6
+980,"['jahren', 'nimmt', 'tagesgericht', 'stiller', 'stahlgrauen', 'kellnerin', 'besteck']","['abschiedsessen', 'herrengedeck', 'kummer']","['seit', 'ihm', 'legt']",7
+984,"['und', 'weiterlesen', 'rasen', 'sieger', 'sie', 'tänzeln', 'jubeln', 'fußballgedicht', 'gedichtabo']",['ball'],['mail'],9
+985,"['sonnenklar', 'unberührt', 'gleiches', 'weint', 'keller', 'gänzlich', 'erscheint', 'spielt', 'glanz']",['seele'],['trotzdem'],9
+986,"['fallen', 'zupfen', 'rupfen', 'rotzen', 'motzen']","['fußballgedicht', 'eiter', 'foul', 'gesellen', 'hemden']","['ob', 'beim', 'qualen', 'oftmals', 'iii']",5
+987,"['zittert', 'männchen', 'wirds', 'frühling', 'wittert', 'weibchendüfte', 'schwillt']","['knackig', 'pose', 'po']","['wirft', 'weib', 'riesig']",7
+989,"['fensterrahmen', 'antwortet', 'ameise', 'meister', 'schau', 'weisheiten', 'ka', 'gesammelten']","['lin', 'fernöstlichen']","['glücklich', 'deinem']",8
+990,"['zäh', 'fliessen', 'alte', 'tränen', 'alten', 'lügen', 'lasten', 'fad', 'mutig']",['schmeckt'],['schlägt'],9
+991,"['einsam', 'die', 'ich', 'tam', 'sömmering', 'atelier', 'gedicht']","['eure', 'waslala', 'lieblingsbeschäfitgung']","['ist', 'von', 'eigenen']",7
+992,"['eingetaucht', 'zwischenräumen', 'ins', 'zeit', 'leben', 'den', 'in', 'der']",[],[],8
+993,"['vollmondnacht', 'traumesland', 'tannenspitzen', 'sternenzeit', 'seelenschrein', 'käuzchen', 'himmelszelt', 'glitzerfeinen']","['blaubesternt', 'aufgespannt']","['silbern', 'jene']",8
+994,"['tücher', 'lappen', 'besen', 'tuppt', 'tupperdose', 'schrubbt']","['abrockt', 'fetzig', 'bassin', 'frühjahrsputz']","['die', 'verwaltet', 'schrubber', 'reih']",6
+995,"['welle', 'er', 'stelle', 'stehn', 'weggerannt', 'riesen']","['weiterziehn', 'hats', 'sehn', 'erkannt']","['trat', 'wird', 'läßt', 'sie']",6
+996,"['schicksals', 'meister', 'deines', 'vom', 'löst', 'leidvolle', 'gefesselt', 'fesseln', 'erkenntnis', 'schwere']",[],[],10
+1000,"['pose', 'ich', 'set', 'die', 'ferien', 'mal', 'aldi']","['gedicht', 'kakerlaken', 'posen']","['ein', 'das', 'nicht']",7
+1008,"['du', 'sagst', 'dich', 'dinge', 'bist', 'versessen']","['opal', 'verpisst', 'riechst', 'wirds']","['ich', 'zwingen', 'tausend', 'schmutz']",6
+1009,"['nachts', 'wintermäntel', 'sommerkleider', 'perlenketten', 'nebelhorn']","['gefädelt', 'blumengestecken', 'leuchtkäfer', 'kaugummis', 'vergehn']","['warnte', 'umarmen', 'taube', 'plan', 'morgentau']",5
+1025,"['kaffee', 'trinken', 'verwittert', 'knittert', 'tageszeit', 'nebel', 'endlos', 'stinken', 'sterne']",['socken'],['spiegel'],9
+1026,"['nebelschwaden', 'dicke', 'wandeln', 'raureifigen', 'helle', 'graue', 'lädt', 'eis', 'seele']",['gedicht'],['frei'],9
+1040,"['schweden', 'italien', 'tor', 'schlusspfiff', 'elfmeterschiessen', 'durften', 'ins']","['fliessen', 'harter', 'ball']","['stoff', 'off', 'erleben']",7
+1042,"['ließ', 'garten', 'verwelken', 'versehen', 'nelken', 'glaubte', 'tulpen', 'sie', 'einem']",['hoffnung'],['warten'],9
+1050,"['mutter', 'coole', 'sicherlich', 'echt']","['selbstbwusstsein', 'junggebliebene', 'gegenteilig', 'fremdwahrnehmung', 'eigenwahrnehmung', 'danas']","['ich', 'was', 'gesicht', 'ja', 'alles', 'wurde']",4
+1058,"['brille', 'täte', 'sprengt', 'nenn', 'lotte', 'laura', 'käthe', 'klamotte', 'doppelnamen', 'sibylle']",[],[],10
+1059,"['heiligen', 'gottes', 'blut', 'maria', 'verschonung', 'reichturm', 'nepomuk']","['weiss', 'blasohemie', 'wallfahrtskirche']","['zweiten', 'sankt', 'pfui']",7
+1060,"['zeit', 'oder', 'ich', 'und', 'die', 'von', 'autos']","['lesesalon', 'halbtags', 'gedicht']","['habe', 'mann', 'auch']",7
+1061,"['ich', 'konsument', 'hauptsache', 'mir', 'stund', 'nix']","['kettenhund', 'bewache', 'interpol', 'lebensziel']","['bin', 'sachen', 'und', 'das']",6
+1062,"['gehts', 'du', 'rutscht', 'andrerseits', 'wippe', 'steig']","['weils', 'wirds', 'weisst', 'andre']","['oder', 'hier', 'blind', 'bewegt']",6
+1066,"['küsst', 'und', 'küssen', 'thema', 'jäger', 'so', 'er', 'gedicht', 'ewigkeit']",['zersägung'],['ist'],9
+1068,"['weiterlesen', 'es', 'ich', 'er', 'und', 'kanapee', 'ihm']","['schneit', 'rückt', 'drängt']","['denn', 'gleich', 'nicht']",7
+1074,"['gemeinsam', 'sehen', 'augenblick', 'folgt', 'deinen', 'blick', 'mein', 'einen', 'dem']",[],[],9
+1075,"['gabs', 'natur', 'immer', 'schon', 'war', 'doch', 'da', 'nicht', 'ich', 'die']",[],[],10
+1076,"['zerstreut', 'freut', 'vergiss', 'sorgen', 'froh', 'deine', 'der', 'nur', 'sich', 'ist']",[],[],10
+1077,"['schälen', 'es', 'musst', 'möhren', 'mal', 'wiederkehrt', 'tumb']","['schäl', 'pell', 'friss']","['haben', 'verspeisen', 'unversehrt']",7
+1078,"['unebetitelten', 'kunstwerkes', 'teil', 'scharpf', 'karl', 'eines', 'inspirierte', 'heutigen', 'welches']",['gedicht'],['von'],9
+1080,"['ferien', 'ich', 'gibt', 'will', 'hier', 'gute', 'drum']","['brauchste', 'furchtbarer', 'ratschlag']","['diesem', 'nicht', 'weg']",7
+1081,"['plötzlich', 'stattfand', 'neugegründete', 'nachbarhaus', 'montags', 'aerobicgruppe', 'won']","['taek', 'sünderinnen', 'crescendo']","['ich', 'kurzem', 'handelte']",7
+1082,"['tannennadeln', 'englein', 'weihnachtszeit', 'versaufen', 'raufen', 'quieksen']","['gänslein', 'pieksen', 'flauschig', 'säuseln']","['statt', 'will', 'wetzen', 'schreien']",6
+1084,"['träumer', 'seid', 'ihr', 'widerspenstig', 'verharrend', 'starrend', 'gezähmt', 'fernsehers']","['vergesst', 'konjunktiv']","['reglos', 'gelähmt']",8
+1088,"['schöpfer', 'weltsichten', 'tannenbaumbekugelte', 'kontingent', 'kantensitzer']","['glockenstimmen', 'dentisten', 'dekospirenzchen', 'begriffsverwechselungen', 'determinist']","['hatte', 'der', 'für', 'österliche', 'voreilig']",5
+1089,"['hatte', 'verrichteten', 'stringtanga', 'sparbüchsen', 'holte', 'herausgefunden', 'aufpreis', 'handwerker', 'sie']",['warf'],['arbeiten'],9
+1094,"['jeder', 'hügel', 'erklommen', 'silben', 'durchschwommen', 'schaun', 'romantisch']","['heike', 'haiku', 'fluß']","['trennen', 'wünschen', 'der']",7
+1095,"['lehrtest', 'fledermäuse', 'schwören', 'hörte', 'küssen', 'du', 'mich', 'leise', 'hören']",['lacht'],['zwei'],9
+1096,"['ließen', 'volllaufen', 'urlaubsreise', 'sandhaufen', 'profane']","['dartpfeilen', 'bereitliegenden', 'abzuschiessen', 'flanierende', 'badesachen']","['sich', 'versuchten', 'verarschen', 'touristen', 'peinlichkeit']",5
+1097,"['blauer', 'himmel', 'ungestört', 'pein', 'kreuzunglücklich', 'deprimierten', 'sein', 'er']","['gedicht', 'doch']","['kann', 'dem']",8
+1098,"['fernsehern', 'abends', 'vor', 'sammeln', 'erscheinen', 'wünsche', 'leer', 'welche', 'tage']",['gedicht'],['lassen'],9
+1099,"['runde', 'zahnputzbecher', 'lockerer', 'lungern', 'langweilen', 'kauwerkzeug', 'gesunde', 'drehn', 'bürsten']",['stund'],['zahn'],9
+1100,"['ikebana', 'trafen', 'beim', 'sie', 'harakiri', 'daraufhin', 'sich', 'origami', 'machte']",['gedicht'],['wollte'],9
+1101,"['poolbar', 'gedicht', 'blumenverkäufer', 'kaffekannig', 'vorzeigbar']","['suppenknochen', 'snackbar', 'schrittst', 'cocktailbar', 'schnitzt']","['den', 'blick', 'weit', 'begrüßen', 'therapeuten']",5
+1102,"['explodieren', 'küsse', 'karl', 'merkst', 'kiss', 'gemälde', 'inspiriert', 'scharpf', 'türen']",['danke'],['gehe'],9
+1103,"['gedichte', 'hausfrau', 'reiher', 'gedicht', 'sonnenuntergang', 'härnchen', 'ã¼bers']","['rnchen', 'entband', 'tã']","['bei', 'ã¼ber', 'zwang']",7
+1104,"['wasser', 'see', 'verlockend', 'schlammiges', 'glänzendem', 'bucht', 'bewege', 'berührst']","['romantisch', 'streift']","['gibt', 'pass']",8
+1105,"['er', 'tätowiert', 'summt', 'brown', 'bobby', 'anvertrauen', 'schenkt', 'heiligenschein']","['gerüstbauer', 'unverfroren']","['begegnung', 'ihm']",8
+1106,"['schnäppchen', 'ich', 'warn', 'verschuldet', 'preiswert', 'möcht', 'bevors', 'verwahren']","['greif', 'andrer']","['gerne', 'offen']",8
+1110,"['mehr', 'fertiggericht', 'und', 'weiterlesen', 'immerdar', 'du']","['sesselpuper', 'beweint', 'bettlerin', 'unersättlich']","['melancholie', 'abenddämmerung', 'virtuell', 'verzichten']",6
+1111,"['armen', 'müssen', 'manche', 'verfügen', 'supermarktgedanken', 'fensterblick', 'darben', 'schick']","['würste', 'andre']","['warum', 'dose']",8
+1112,"['niech', 'würstchen', 'dose', 'schämst', 'schlief', 'rechtschreibreform', 'hemd', 'dichterische', 'aussuchen']",['könnt'],['entweder'],9
+1113,"['schieferdach', 'singt', 'morgenvogel', 'lichtstreifen', 'glänzend', 'aufgehender', 'herbei', 'nieder', 'ein']",['regen'],['dunkel'],9
+1114,"['plötzlich', 'ich', 'kanapée', 'fünfe', 'fun', 'firm', 'fanta', 'trink']","['reh', 'dreh']","['for', 'mich']",8
+1115,"['sommernachtstraum', 'wispernd', 'müde', 'hüpfend', 'gartenzaun', 'überm', 'flattert', 'hängt', 'springt', 'bein']",[],[],10
+1116,"['buch', 'wort', 'nahm', 'riesengrosser', 'niedlich', 'hockte', 'bücherwurm', 'anzusehen']","['brille', 'sturm']","['schloss', 'stören']",8
+1117,"['poolbar', 'minibar', 'cocktailbar', 'vorzeigbar', 'snackbar', 'sonderbar', 'wunderbar']",[],[],7
+1118,"['müsste', 'das', 'man', 'voran', 'würde', 'ball', 'herz', 'auf']","['gedichtabo', 'weiterlesen']","['durch', 'die']",8
+1119,"['wachgeküsst', 'engeln', 'wegzehrung', 'vorabend', 'mückenstiche', 'mückenleutes', 'insektenfamilien', 'geschwollene', 'bistros']",['speise'],['verwandeln'],9
+1120,"['und', 'zinedine', 'zidane', 'klingen', 'zungenrand', 'totti']","['saha', 'metzelder', 'mertesacker', 'makelele']","['unsere', 'nach', 'würzig', 'verwegen']",6
+1121,"['mehr', 'unersättlich', 'undankbar', 'krallt', 'großzügig', 'gibst', 'gabst', 'fordernd', 'bettlerin']",['immerdar'],['fordert'],9
+1122,"['schnell', 'schrumpfmuffe', 'kirmes', 'dunkeln', 'kettenkarussell', 'toaster', 'gedicht']","['wandern', 'verneigend', 'unbestrumpft']","['würde', 'den', 'und']",7
+1123,"['rollen', 'tritte', 'trikots', 'schweissnaß', 'schmollen', 'rängen', 'nachjagen']","['dribbeln', 'fußballgedicht', 'tänzeln']","['spucke', 'purzeln', 'king']",7
+1124,"['weilst', 'unbemerkt', 'tanz', 'tags', 'mancher', 'einlädt', 'anonymität', 'sonnenstrahl', 'orten']",['dich'],['eines'],9
+1131,"['mai', 'kleider', 'deinen', 'schritt', 'gedicht', 'altkleider']","['altkleidersack', 'teilnehmerliste', 'leseratten', 'euch']","['zwei', 'für', 'ins', 'zahlreich']",6
+1132,"['toaster', 'verschnaufen', 'verneigend', 'toasten']","['nöcher', 'krosse', 'prosten', 'sandwich', 'loblied', 'kriegten']","['könnte', 'würde', 'unsern', 'spender', 'schweigend', 'schnitten']",4
+1133,"['besenstiel', 'er', 'wiesetrotzdem', 'vielda', 'verstehenihr', 'shanghaidie', 'liesesie']","['landseid', 'handsolcher', 'flüssigfuhr']","['sah', 'war', 'vieler']",7
+1134,"['ananas', 'verdruss', 'konserven', 'ananassein', 'kommst', 'kokosnuss', 'bloss']","['qual', 'spass', 'wünscht']","['nerven', 'selten', 'egal']",7
+1135,"['kakerlaken', 'verflucht', 'reklamieren', 'malaga', 'hotelzimmer', 'gebucht', 'flamenco', 'tanzten', 'kratzte']",['vieren'],['tanzen'],9
+1139,"['winterabendtraum', 'nähte', 'liebesschwüre', 'kränze', 'kleidersaum', 'frühlingsknospenbaum', 'blütenblattvertraun', 'flocht']","['sass', 'überm']","['zaun', 'hing']",8
+1146,"['wollen', 'ich', 'mutter', 'was', 'fremdwahrnehmung', 'eigenwahrnehmung', 'coole']","['gedicht', 'sicherlich', 'zushe']","['hallo', 'ja', 'alles']",7
+1149,"['hinterm', 'rücken', 'fuß', 'oben', 'po', 'hinten', 'blick']","['dehnen', 'verdreht', 'entzücken']","['auf', 'den', 'yoga']",7
+1150,"['sie', 'und', 'küssen', 'her', 'pumps', 'wo']","['gedicht', 'oh', 'hackenschuh', 'königin']","['es', 'kommt', 'der', 'auftritt']",6
+1151,"['küsst', 'und', 'küssen', 'thema', 'jäger', 'so', 'er', 'gedicht', 'ewigkeit']",['zersägung'],['ist'],9
+1152,"['feuer', 'sie', 'weiterlesen', 'eismann', 'dämmerung', 'liebster']","['weisst', 'elefantenhaar', 'elefantenfriedhof', 'verwesungsgeruch']","['art', 'und', 'so', 'irgendwie']",6
+1153,"['biber', 'träumerei', 'galaktische', 'beutezug', 'weihnachtszeit', 'fotografie', 'kategorie', 'geh']","['archiv', 'weiterlesen']","['finde', 'weiter']",8
+1155,"['besenstiel', 'er', 'sah', 'sandte', 'gebührt', 'folgten', 'erhobnen']","['hauptes', 'ehre', 'jünger']","['solcher', 'friedlich', 'botschaft']",7
+1157,"['hausfrau', 'suppenknochen', 'schnitzt', 'händchen', 'blau', 'männchen', 'kochen', 'statt', 'sie']",['endlich'],['dafür'],9
+1158,"['erfrischt', 'falls', 'stück']","['weichgezeichnete', 'sonnenentstrahlte', 'hitzeerstarrung', 'bummerang', 'gedankenmeer', 'sosein', 'weiterlesen']","['her', 'himmel', 'und', 'diese', 'ich', 'alle', 'wälder']",3
+1159,"['virtuell', 'warst', 'nett', 'gesehen', 'du', 'sportlich', 'sesselpuper', 'langweiliger']","['belesen', 'bischen']","['wirklich', 'schlank']",8
+1160,"['vegetarier', 'sprach', 'verzichten', 'mitnichten', 'lachs', 'kaviar', 'immerdar', 'ess']","['drum', 'heut']","['es', 'frühstück']",8
+1161,"['fertiggericht', 'einfachheit', 'besticht', 'durch', 'dieses', 'das', 'wie', 'gedicht']",[],[],8
+1162,"['melancholie', 'abenddämmerung', 'beweint', 'vereint', 'moment', 'freude', 'herzen', 'tag', 'einen', 'für']",[],[],10
+1166,"['fernsehland', 'watzen', 'unverdrossen', 'sofakissen', 'schlagersänger', 'rätselfreund', 'räkelnd']","['stammelt', 'schwatzen', 'zappen']","['urwald', 'stiert', 'preisen']",7
+1167,"['getrunken', 'solange', 'aus', 'weisheiten', 'ka', 'gesammelten', 'fernöstlichen', 'lin', 'haben', 'ihm']",[],[],10
+1168,"['kirmes', 'schnell', 'boden', 'zwirbelt', 'schnibbeln']","['knutschend', 'rülpser', 'börsen', 'kettenkarussell', 'bäuchen']","['zwiebeln', 'vergnügt', 'ständen', 'schreie', 'schlange']",5
+1169,"['verpuffen', 'unbestrumpft', 'schrumpfmuffe', 'schraubzwingen', 'schraubzwinge', 'ringelsocken', 'muffe', 'geschrumpft']","['schrumpfmuffen', 'frohlocken']","['scheiden', 'hübschen']",8
+1172,"['fliederstrauch', 'unterm', 'lag', 'einst', 'tafelspitz', 'mutterwitz', 'kraulte', 'frieder', 'kochte']",['fürwahr'],['bauch'],9
+1173,"['schritt', 'inne', 'halte', 'bereit', 'wunderschön', 'stein', 'jeder', 'sei', 'geh', 'gehen']",[],[],10
+1174,"['verlorene', 'strahlenden', 'sammelt', 'getragen', 'alles', 'grabe', 'zeiten', 'sucht', 'deinen']",['tränen'],['hinter'],9
+1175,"['schweig', 'wort', 'sagte', 'das', 'fort', 'ging', 'dann', 'gedicht', 'es']",[],[],9
+1176,"['wohlgeklappt', 'hallo', 'soweit', 'bin', 'ja', 'hat', 'da', 'ich']",[],[],8
+1177,"['gedicht', 'du', 'prümzessin', 'affenmenschen', 'abschlussball']","['tunki', 'soppen', 'sonc', 'sacci', 'rümmer']","['herum', 'immer', 'man', 'den', 'in']",5
+1178,"['sie', 'und', 'küssen', 'her', 'pumps', 'wo']","['gedicht', 'oh', 'hackenschuh', 'königin']","['es', 'kommt', 'der', 'auftritt']",6
+1179,"['weiterlesen', 'ist', 'ball', 'pups', 'arschloch', 'ich', 'er', 'nun']","['euch', 'manchen']","['das', 'der']",8
+1189,"['und', 'lama', 'hühnersuppe', 'sie', 'ihrem', 'strophe', 'schwarzkehlchen', 'kehligen']","['alabama', 'harfe']","['die', 'ich']",8
+1190,"['gedicht', 'du', 'prümzessin', 'affenmenschen', 'abschlussball']","['tunki', 'soppen', 'sonc', 'sacci', 'rümmer']","['herum', 'immer', 'man', 'den', 'in']",5
+1191,"['weiterlesen', 'die', 'und', 'er', 'ein', 'sie', 'war', 'weihnachtsmarkt']","['glühweinlache', 'sänge']","['einen', 'hatte']",8
+1192,"['gewollt', 'mitternacht', 'aerobicgruppe', 'istanbul', 'handschuhe', 'fotografie', 'kategorie', 'kommentar', 'hatte', 'archiv']",[],[],10
+1193,"['es', 'denn', 'kanapee', 'ihm', 'drängt', 'keller', 'weh', 'schneit', 'gedicht']",['hühnchenfilm'],['schnee'],9
+1195,"['zuletzt', 'allein', 'weiterlesen', 'plage', 'schein', 'geh', 'weihnachtsgebäumte']","['lamettaahnung', 'kristallene', 'heimeligen']","['von', 'lieber', 'ich']",7
+1196,"['pizzo', 'kalabrien', 'höhlenkirche', 'einhandseglerin', 'abgeknibbelte', 'suppenzutaten', 'treibgut', 'tapete']","['presslufthammer', 'hämmern']","['werkzeug', 'in']",8
+1197,"['ich', 'liebster', 'und', 'id', 'php', 'häppchen']","['gedicht', 'blogg', 'günni', 'tell']","['uns', 'eintrag', 'von', 'die']",6
+1198,"['es', 'denn', 'kanapee', 'ihm', 'drängt', 'keller', 'weh', 'schneit', 'gedicht']",['hühnchenfilm'],['schnee'],9
+1199,"['weiterlesen', 'sie', 'ich', 'der', 'er', 'tannennadeln', 'englein', 'weihnachtszeit', 'den']",['heut'],['und'],9
+1201,"['dich', 'so', 'nah', 'er', 'pumps', 'frohlocken', 'gedicht']","['lesesalon', 'atom', 'evtl']","['und', 'mit', 'ich']",7
+1202,"['ich', 'liebster', 'und', 'id', 'php', 'häppchen']","['gedicht', 'blogg', 'günni', 'tell']","['uns', 'eintrag', 'von', 'die']",6
+1203,"['sie', 'und', 'weiterlesen', 'hatte', 'volumenwelle', 'sich']","['haileder', 'fußmatte', 'hollunder', 'herrengedeck']","['in', 'an', 'dem', 'pflaster']",6
+1205,"['feuer', 'danke', 'ich', 'und', 'eismann', 'dämmerung']","['weiterlesen', 'elefantenhaar', 'elefantenfriedhof', 'verwesungsgeruch']","['art', 'der', 'das', 'die']",6
+1206,"['dich', 'so', 'nah', 'er', 'pumps', 'frohlocken', 'gedicht']","['lesesalon', 'atom', 'evtl']","['und', 'mit', 'ich']",7
+1207,"['sie', 'wachsen', 'hatte', 'weiterlesen', 'alles', 'bügeln', 'ihr']","['tupperparty', 'salznasser', 'obduktionstisch']","['stunden', 'die', 'man']",7
+1209,"['weiterlesen', 'ich', 'pups', 'arschloch', 'ein', 'manchen', 'euch']","['scherts', 'niederzwingend', 'hösel']","['das', 'ihm', 'bald']",7
+1211,"['sie', 'er', 'weiterlesen', 'hauptstadtgedanken', 'hatte', 'schöpfer', 'und', 'handschuhe', 'der']",['treppenerklimmendes'],['trug'],9
+1212,"['blumenverkäufer', 'fotografie', 'kategorie', 'kommentar', 'archiv', 'der']",[],[],6
+1213,"['die', 'und', 'war', 'er', 'sie', 'gedicht', 'weihnachtsmarkt', 'sänge', 'printen']",['glühweinlache'],['hatte'],9
+1215,"['sie', 'mau', 'clown', 'weiterlesen', 'warum', 'siehst', 'ich', 'du', 'kotze']",['lachst'],['er'],9
+1217,"['weiterlesen', 'eilt', 'wegs', 'plage', 'schein', 'heut']","['weihnachtsgebäumte', 'lamettaahnung', 'kristallene', 'heimeligen']","['des', 'er', 'ist', 'lieber']",6
+1218,"['die', 'und', 'war', 'er', 'sie', 'gedicht', 'weihnachtsmarkt', 'sänge', 'printen']",['glühweinlache'],['hatte'],9
+1219,"['sie', 'weiterlesen', 'die', 'den', 'und', 'der', 'in', 'auf', 'sich']",['herd'],['mit'],9
+1221,"['weiterlesen', 'pflücken', 'bereitet', 'lachen', 'geh', 'vögelchen', 'karaoke', 'herbstlaub']","['piep', 'lilly']","['ernsten', 'bar']",8
+1223,"['sie', 'lehrtest', 'sich', 'die', 'jeder', 'ließen', 'fernsehern', 'ihre', 'im']",['leben'],['und'],9
+1224,"['fotografie', 'kategorie', 'kommentar', 'archiv', 'der']",[],[],5
+1225,"['weiterlesen', 'ich', 'sie', 'tannennadeln', 'englein', 'weihnachtszeit', 'der', 'er']","['heut', 'quieksen']","['den', 'und']",8
+1227,"['weiterlesen', 'schlug', 'sie', 'der', 'die', 'in', 'montagsgedanken', 'den']","['sich', 'segelohrig']","['mehrere', 'mit']",8
+1229,"['sie', 'sich', 'hatte', 'volumenwelle', 'fußmatte', 'zack', 'absatz']","['zuckthaut', 'windden', 'weinenlebensraum']","['dem', 'der', 'und']",7
+1231,"['weiterlesen', 'er', 'sum', 'dann', 'uns', 'ein', 'der', 'komm']","['geschwind', 'dich']","['die', 'mich']",8
+1233,"['sie', 'und', 'hollunder', 'gedicht', 'lesesalon']","['nervenwiedrahtseilehabenden', 'einbauküchenteilen', 'abgebauten', 'österlichem', 'zurechtgemachten']","['in', 'langsam', 'die', 'andere', 'an']",5
+1235,"['weiterlesen', 'ich', 'gedichte', 'hausfrau', 'die', 'schnäppchen']","['gedicht', 'härnchen', 'reiher', 'sonnenuntergang']","['zu', 'will', 'das', 'sie']",6
+1237,"['gedicht', 'schweigen', 'florales', 'unkrauttage']","['vielarmig', 'mäuseleichen', 'florale', 'blättertage', 'glaubts', 'umranken']","['sie', 'zwischen', 'tage', 'dahinter', 'wie', 'wäscht']",4
+1238,"['sie', 'und', 'hollunder', 'gedicht', 'lesesalon']","['nervenwiedrahtseilehabenden', 'einbauküchenteilen', 'abgebauten', 'österlichem', 'zurechtgemachten']","['in', 'langsam', 'die', 'andere', 'an']",5
+1239,"['weiterlesen', 'die', 'der', 'am', 'gardinen', 'er']","['rheinbrücken', 'peitschenknallen', 'gerüstbauern', 'schelmischer']","['wer', 'kennt', 'so', 'in']",6
+1240,"['mohn', 'tor', 'fotografie', 'kategorie', 'kommentar', 'publikum', 'archiv', 'das', 'der']",[],[],9
+1241,"['sie', 'ausgeträumten', 'träume', 'grab', 'hatte', 'weiterlesen', 'alles', 'bügeln', 'ihr']",['tupperparty'],['fand'],9
+1242,"['gedicht', 'schweigen', 'florales', 'unkrauttage']","['vielarmig', 'mäuseleichen', 'florale', 'blättertage', 'glaubts', 'umranken']","['sie', 'zwischen', 'tage', 'dahinter', 'wie', 'wäscht']",4
+1243,"['ich', 'weiterlesen', 'die', 'jammerlappen', 'schnetzelt', 'pute']","['niech', 'schlappen', 'hausfrau', 'knappen']","['das', 'der', 'doch', 'fand']",6
+1244,"['talent', 'junges', 'frauenschuh', 'getränke', 'kettenkarussell', 'bunte', 'fotografie', 'kategorie', 'weg']",['archiv'],['kommentar'],9
+1245,"['weiterlesen', 'hauptstadtgedanken', 'sie', 'handschuhe']","['taek', 'sparbüchsen', 'glasesgrund', 'föhre', 'stringtanga', 'espenlaub']","['saß', 'plötzlich', 'er', 'ich', 'und', 'nach']",4
+1247,"['weiterlesen', 'und', 'schieferdach', 'ein', 'ich', 'mehr', 'fertiggericht', 'immerdar']","['du', 'weichgezeichnete']","['das', 'falls']",8
+1248,"['bauarbeiter', 'stiefel', 'fotografie', 'kategorie', 'kommentar', 'kater', 'titel', 'archiv', 'ohne', 'der']",[],[],10
+1249,"['er', 'sie', 'und', 'lammfell', 'kurzarmhemden', 'krawatte', 'gläschen', 'edelstahl']","['teilig', 'trafen']","['wärme', 'herren']",8
+1251,"['weiterlesen', 'du', 'gedanken', 'stille', 'hinfort']","['lin', 'fernöstlichen', 'ka', 'weisheiten', 'gesammelten']","['würdest', 'laken', 'sabine', 'ein', 'und']",5
+1252,"['goldregen', 'treppe', 'pusteblumen', 'clogs', 'lila', 'blume', 'fotografie', 'kategorie', 'socken']",['archiv'],['kommentar'],9
+1253,"['mau', 'clown', 'weiterlesen', 'warum', 'siehst', 'sie', 'du', 'er', 'kotze']",['lachst'],['den'],9
+1255,"['weiterlesen', 'ich', 'und', 'in', 'wär', 'stift', 'ein', 'mensch']","['schweift', 'würd']","['das', 'der']",8
+1256,"['park', 'schienen', 'milchkaffee', 'steine', 'fotografie', 'kategorie', 'tisch', 'stein', 'herz']",['archiv'],['kommentar'],9
+1257,"['kalabrien', 'floss', 'wo', 'honig', 'allein', 'sonnenuntergang']","['gedicht', 'suppenzutaten', 'pizzo', 'höhlenkirche']","['der', 'ich', 'tot', 'wie']",6
+1259,"['müsste', 'und', 'man', 'die', 'weiterlesen', 'voran', 'ball', 'herz']","['zinedine', 'zidane']","['das', 'würde']",8
+1260,"['teller', 'zug', 'roter', 'bücher', 'besen', 'flieder', 'fotografie', 'kategorie', 'kommentar', 'archiv']",[],[],10
+1261,"['sie', 'und', 'die', 'weiterlesen', 'den', 'der', 'auf', 'mit', 'in']",['herd'],['sich'],9
+1262,"['kalabrien', 'floss', 'wo', 'honig', 'allein', 'sonnenuntergang']","['gedicht', 'suppenzutaten', 'pizzo', 'höhlenkirche']","['der', 'ich', 'tot', 'wie']",6
+1263,"['weiterlesen', 'der', 'die', 'zuckerschwein', 'rucksack']","['scharpf', 'esel', 'fahnen', 'sehn', 'karl']","['ist', 'heute', 'von', 'mit', 'meisten']",5
+1264,"['palmen', 'stühle', 'stop', 'ii', 'fotografie', 'kategorie', 'kommentar', 'meer', 'archiv', 'der']",[],[],10
+1265,['weiterlesen'],"['synchronschwimmen', 'dideldei', 'begeneten', 'begehrend', 'meeresschaum', 'umspülten', 'flügellahm', 'bananenstauden', 'verzehrend']","['die', 'leise', 'ein', 'ich', 'nacht', 'in', 'überreden', 'wiederholten', 'weichheit']",1
+1267,"['weiterlesen', 'besenrein', 'ein', 'männchen', 'weisheiten', 'ka']","['lin', 'fernöstlichen', 'gesammelten', 'weibchendüfte']","['die', 'fallen', 'alte', 'den']",6
+1268,"['untitled', 'happiness', 'unebetitelten', 'kunstwerkes']","['icu', 'marmorierten', 'hintergrunds', 'giraffen', 'scharpf', 'inspirierte']","['verspätet', 'part', 'love', 'einordnen', 'bär', 'zugabe']",4
+1269,"['sie', 'sich', 'die', 'fernsehern', 'ihre']","['weiterlesen', 'leben', 'könnennicht', 'inschimmelnden', 'esin']","['jeder', 'ließen', 'im', 'und', 'der']",5
+1271,"['und', 'weiterlesen', 'sie', 'rasen', 'schnell']","['fußballgedicht', 'tänzeln', 'toaster', 'kirmes', 'jubeln']","['die', 'in', 'der', 'auf', 'den']",5
+1272,"['junggesellen', 'fototapete', 'zushe', 'handlinien', 'wallfahrtskirche', 'xxx', 'wippe', 'lila']","['möhre', 'fotografie']","['heiligen', 'heilige']",8
+1273,"['sie', 'weiterlesen', 'und', 'montagsgedanken', 'schlug']","['kalina', 'weiss', 'eure', 'ungetuschten', 'talkshowsesseln']","['die', 'aber', 'dem', 'wieder', 'bringen']",5
+1275,"['gern', 'hätte', 'ich', 'man', 'redet', 'der', 'klaus', 'gabi', 'weiterlesen']",['horn'],['sehr'],9
+1279,"['weiterlesen', 'die', 'tücher', 'lappen', 'besen', 'welle']","['stehn', 'tuppt', 'traumesland', 'tannenspitzen']","['er', 'stelle', 'und', 'der']",6
+1280,"['liest', 'sum', 'er', 'komm', 'dann', 'dich', 'sagte']","['gedicht', 'fraukalina', 'tell']","['die', 'möglichkeiten', 'von']",7
+1282,"['einsam', 'weiterlesen', 'schicksals', 'meister', 'deines', 'kleider', 'deinen']","['altkleidersack', 'leidvolle', 'zwein']","['vom', 'die', 'zwei']",7
+1283,"['will', 'butter', 'und', 'weiterlesen', 'tränen']","['würstchendose', 'jause', 'tatoo', 'beweint', 'süßesten']","['mutter', 'mit', 'sie', 'auf', 'ich']",5
+1284,"['liest', 'sum', 'er', 'komm', 'dann', 'dich', 'sagte']","['gedicht', 'fraukalina', 'tell']","['möglichkeiten', 'von', 'der']",7
+1285,"['weiterlesen', 'eichhörnchenteile', 'ich', 'die', 'verweile', 'lieber']","['specht', 'frühling', 'komm', 'besen']","['ist', 'wohnung', 'und', 'voller']",6
+1286,"['weiterlesen', 'gedichte', 'ich', 'hausfrau', 'schnäppchen', 'explodieren', 'reiher']","['gedicht', 'härnchen', 'sonnenuntergang']","['das', 'die', 'zu']",7
+1288,"['zeit', 'weiterlesen', 'zu', 'strand', 'schweigen']","['heut', 'entenweib', 'entenmann', 'krabbenbrötchen', 'zwischendrinn']","['unten', 'seele', 'ein', 'eine', 'hat']",5
+1289,"['weiterlesen', 'hausfrau', 'vorzeigbar', 'suppenknochen', 'snackbar', 'schrittst']","['poolbar', 'cocktailbar', 'schnitzt', 'minibar']","['weit', 'sie', 'den', 'therapeuten']",6
+1291,"['es', 'nicht', 'ich', 'liese', 'ferien', 'regen']","['kakerlaken', 'ananas', 'schälen', 'möhren']","['das', 'wasser', 'sie', 'die']",6
+1292,"['weiterlesen', 'geschwader', 'friedlichem']","['rheinbrücken', 'peitschenknallen', 'gerüstbauern', 'schelmischer', 'hähnchenknochen', 'halbmondförmigen', 'feilte']","['kennt', 'der', 'wir', 'in', 'so', 'die', 'wer']",3
+1294,"['sie', 'weiterlesen', 'elche', 'und', 'ich', 'auf', 'papst']","['haarbänder', 'schabe', 'primel']","['sich', 'er', 'der']",7
+1295,"['weiterlesen', 'wichtigkeit', 'fand', 'ich', 'er']","['menscheit', 'fliegenschiss', 'zehren', 'sühnen', 'danieder']","['die', 'zu', 'anfang', 'ging', 'zum']",5
+1297,"['egal', 'und', 'ich', 'weiterlesen', 'eilen', 'tagelang', 'gesammelt', 'lieber']","['shanghai', 'stop']","['er', 'niemals']",8
+1298,"['weltnoch', 'unbeflecktvon', 'umhülltbeschmiegen', 'schrilltso', 'schlappenda']","['pappeder', 'knappender', 'klappeich', 'kissenals', 'jammerlappenin']","['leere', 'fällt', 'vielleicht', 'noch', 'ich']",5
+1300,"['ich', 'die', 'und', 'weiterlesen', 'sie', 'um', 'den', 'auf']","['stolze', 'er']","['fast', 'das']",8
+1301,"['schnetzelt', 'pute', 'niech', 'hätt', 'würstchen', 'dose', 'gedicht', 'hausfrau']","['putengeschnetzeltes', 'tiefkühlsau']","['zeichen', 'sommer']",8
+1303,"['die', 'ich', 'weiterlesen', 'tanzt', 'cha', 'du', 'wie', 'dich', 'leuchte']",['wars'],['und'],9
+1304,"['buch', 'ein', 'gedicht', 'schweinebestand']","['sesselpuper', 'schieferdach', 'aufgehender', 'riesengrosser', 'morgenvogel', 'wispernd']","['wort', 'und', 'ich', 'nahm', 'wertvoller', 'reh']",4
+1305,"['schnetzelt', 'pute', 'niech', 'hätt', 'würstchen', 'dose', 'gedicht', 'hausfrau']","['putengeschnetzeltes', 'tiefkühlsau']","['zeichen', 'sommer']",8
+1306,"['quak', 'frosch', 'du', 'und', 'ich', 'dann', 'sie', 'instant']","['tüten', 'beschwert']","['mit', 'die']",8
+1307,"['mehr', 'gedicht', 'fertiggericht', 'und', 'falls', 'hängebär']","['weichgezeichnete', 'sonnenentstrahlte', 'hitzeerstarrung', 'bummerang']","['stück', 'her', 'himmel', 'lichtschein']",6
+1308,"['buch', 'ein', 'gedicht', 'schweinebestand']","['sesselpuper', 'schieferdach', 'aufgehender', 'riesengrosser', 'morgenvogel', 'wispernd']","['wort', 'und', 'ich', 'nahm', 'wertvoller', 'reh']",4
+1309,"['die', 'wut', 'affen', 'aua', 'du', 'doch', 'abschied', 'giraffen']","['andern', 'mal']","['dicht', 'nebel']",8
+1310,"['sabine', 'gedicht', 'stille', 'palmengarten', 'nachgestellt']","['übersiehst', 'staubtrockene', 'gehegen', 'willenlos', 'zahm']","['gedanken', 'handke', 'goethe', 'frankfurter', 'uns']",5
+1311,"['mehr', 'gedicht', 'fertiggericht', 'und', 'falls']","['hängebär', 'weichgezeichnete', 'sonnenentstrahlte', 'hitzeerstarrung', 'bummerang']","['stück', 'her', 'des', 'himmel', 'lichtschein']",5
+1312,"['ich', 'gefrierbrand', 'hab', 'die', 'in', 'und', 'heisst', 'unkel', 'mal']",['beten'],['auch'],9
+1313,"['würdest', 'laken', 'hinfort', 'gedicht', 'du']","['geisterhäuschen', 'forthin', 'dazwischenkommt', 'traumresten', 'wasserspeier']","['lag', 'es', 'mal', 'stille', 'ich']",5
+1314,"['sabine', 'gedicht', 'stille', 'palmengarten', 'nachgestellt']","['übersiehst', 'staubtrockene', 'gehegen', 'willenlos', 'zahm']","['gedanken', 'handke', 'goethe', 'frankfurter', 'uns']",5
+1315,"['ich', 'und', 'das', 'wie', 'worte']","['reinbeisst', 'drum', 'konsument', 'stund', 'steig']","['denn', 'mir', 'die', 'auf', 'sachen']",5
+1316,"['wär', 'und', 'wir', 'gedicht', 'würd', 'lebkuchenherzen', 'csd']","['sommerschwüle', 'geruchsarm', 'blockflötenchor']","['ich', 'mensch', 'nacht']",7
+1317,"['würdest', 'laken', 'hinfort', 'gedicht', 'du']","['geisterhäuschen', 'forthin', 'dazwischenkommt', 'traumresten', 'wasserspeier']","['lag', 'es', 'mal', 'stille', 'ich']",5
+1318,"['wollen', 'von', 'leben', 'rücken']","['vorschiebt', 'näh', 'mühsamen', 'schwatzen', 'plappern', 'dehnen']","['den', 'und', 'der', 'ich', 'yoga', 'wörtern']",4
+1319,"['in', 'gedicht', 'das', 'ich', 'nimmt', 'stift', 'die', 'schweift']","['stahlgrauen', 'simkarten']","['träumen', 'der']",8
+1320,"['wär', 'und', 'wir', 'gedicht', 'würd', 'lebkuchenherzen', 'csd']","['sommerschwüle', 'geruchsarm', 'blockflötenchor']","['ich', 'mensch', 'nacht']",7
+1321,"['und', 'zinedine', 'zidane', 'gedichte', 'lest', 'klingen', 'euch']","['gedicht', 'leinwandkicker', 'übermittelteten']","['nach', 'sie', 'für']",7
+1322,"['in', 'gedicht', 'das', 'ich', 'nimmt', 'stift', 'die', 'schweift']","['stahlgrauen', 'simkarten']","['träumen', 'der']",8
+1324,"['und', 'zinedine', 'zidane', 'gedichte', 'lest', 'klingen', 'euch']","['gedicht', 'leinwandkicker', 'übermittelteten']","['nach', 'sie', 'für']",7
+1325,"['angst', 'allein', 'habe', 'ich', 'der', 'rucksack', 'beckham', 'brot', 'gedicht']",['ihr'],['die'],9
+1328,"['angst', 'allein', 'habe', 'ich', 'der', 'rucksack', 'beckham', 'brot', 'gedicht']",['ihr'],['die'],9
+1335,"['schnell', 'schrumpfmuffe', 'kirmes', 'dunkeln', 'kettenkarussell', 'toaster', 'gedicht']","['wandern', 'verneigend', 'unbestrumpft']","['würde', 'und', 'seltsam']",7
+1337,"['katzen', 'horn', 'es', 'fernsehland', 'einhorn', 'gedicht', 'andre']","['rätselfreund', 'räkelnd', 'häkelte']","['ich', 'den', 'nun']",7
+1338,"['schnell', 'schrumpfmuffe', 'kirmes', 'dunkeln', 'kettenkarussell', 'toaster', 'gedicht']","['wandern', 'verneigend', 'unbestrumpft']","['würde', 'und', 'seltsam']",7
+1339,"['gern', 'hätte', 'redet', 'man', 'klaus', 'gabi', 'der', 'ich', 'sehr']",['gedicht'],['war'],9
+1340,"['katzen', 'horn', 'es', 'fernsehland', 'einhorn', 'gedicht', 'andre']","['rätselfreund', 'räkelnd', 'häkelte']","['ich', 'den', 'nun']",7
+1341,"['weg', 'gedicht', 'den', 'haar', 'geh']","['kieloben', 'onduliertes', 'mairegen', 'clogs', 'geputzte']","['haken', 'verfing', 'treppe', 'seerose', 'leinen']",5
+1342,"['gern', 'hätte', 'redet', 'man', 'klaus', 'gabi', 'der', 'ich', 'sehr']",['gedicht'],['war'],9
+1343,"['die', 'tücher', 'er', 'gedicht', 'lappen', 'besen', 'welle']","['stehn', 'lacht', 'aldiregal']","['stelle', 'und', 'der']",7
+1344,"['weg', 'gedicht', 'den', 'haar', 'geh']","['kieloben', 'onduliertes', 'mairegen', 'clogs', 'geputzte']","['haken', 'verfing', 'treppe', 'seerose', 'leinen']",5
+1345,"['einsam', 'die', 'tam', 'sömmering', 'atelier', 'ich', 'gedicht']","['eure', 'waslala', 'lieblingsbeschäfitgung']","['ist', 'der', 'von']",7
+1346,"['die', 'tücher', 'er', 'gedicht', 'lappen', 'besen', 'welle']","['stehn', 'lacht', 'aldiregal']","['stelle', 'und', 'der']",7
+1347,"['gedicht', 'kleider', 'deinen', 'schritt', 'altkleider']","['altkleidersack', 'sonnenstrahl', 'gabs', 'gespenster', 'grabe']","['zwei', 'ins', 'schienen', 'streifte', 'strahlenden']",5
+1348,"['einsam', 'die', 'tam', 'sömmering', 'atelier', 'ich', 'gedicht']","['eure', 'waslala', 'lieblingsbeschäfitgung']","['ist', 'der', 'von']",7
+1349,"['weiterlesen', 'sonnenschein', 'totenschrein', 'tafelspitz']","['gänseklein', 'fliederstrauch', 'herzilein', 'mutterwitz', 'frieder', 'teilnehmerliste']","['schlecht', 'wacht', 'einsame', 'zahlreich', 'susanne', 'seelig']",4
+1350,"['gedicht', 'kleider', 'deinen', 'schritt', 'altkleider']","['altkleidersack', 'missforty', 'sonnenstrahl', 'gabs', 'gespenster']","['zwei', 'ins', 'schienen', 'streifte', 'strahlenden']",5
+1351,"['eichhörnchenteile', 'ich', 'verweile', 'weiterlesen', 'wohnung', 'voller', 'frühling', 'komm', 'lieber']",['oh'],['die'],9
+1353,"['zeit', 'zu', 'gedicht', 'heut', 'flamingo']","['entenweib', 'entenmann', 'zwischendrinn', 'fröhnen', 'weiterziehn']","['ein', 'herum', 'steht', 'schön', 'ich']",5
+1355,"['sachen', 'die', 'sie', 'irgendwelche', 'gedicht']","['zimmervermieter', 'kofferrollen', 'majo', 'krabbenbrötchen', 'anglotzt']","['das', 'habe', 'gesehen', 'der', 'ich']",5
+1356,"['zeit', 'zu', 'gedicht', 'heut', 'flamingo']","['entenweib', 'entenmann', 'zwischendrinn', 'fröhnen', 'weiterziehn']","['ein', 'herum', 'steht', 'schön', 'ich']",5
+1357,"['es', 'die', 'pizzamann', 'das', 'kindern']","['potpourri', 'kakerlaken', 'ananas', 'schälen', 'möhren']","['nicht', 'und', 'ich', 'sich', 'ist']",5
+1358,"['sachen', 'die', 'sie', 'irgendwelche', 'gedicht']","['zimmervermieter', 'kofferrollen', 'majo', 'krabbenbrötchen', 'anglotzt']","['das', 'habe', 'gesehen', 'der', 'ich']",5
+1359,"['pose', 'set', 'ich', 'die', 'ein', 'besenstiel', 'posen', 'er']","['aldi', 'bein']","['diesem', 'dann']",8
+1361,"['sie', 'elche', 'weiterlesen', 'und', 'papst', 'regen']","['winterabendtraum', 'haarbänder', 'schabe', 'primel']","['sich', 'auf', 'in', 'wasser']",6
+1363,"['egal', 'und', 'er', 'ich', 'weiterlesen', 'eilen', 'mankell', 'afrika']","['stop', 'rennen']","['die', 'der']",8
+1365,"['ich', 'noch', 'die', 'und', 'sie', 'gewinnerin', 'blüht']","['shanghai', 'ihr', 'oh']","['ist', 'wolltest', 'hier']",7
+1367,"['ich', 'die', 'ihr', 'um', 'und', 'weiterlesen', 'euch']","['kalina', 'frau', 'weiss']","['hier', 'nicht', 'über']",7
+1369,"['zählt', 'warmich', 'verdattertein', 'stärkees', 'seeauf', 'schützendin', 'naseso']","['kraftdoch', 'iches', 'geschnattertam']","['halte', 'es', 'nichtund']",7
+1371,"['ich', 'und', 'die', 'holz', 'für', 'auf', 'weiterlesen']","['fitness', 'massage', 'euch']","['mit', 'mir', 'sport']",7
+1375,"['wut', 'affen', 'die', 'aua', 'du', 'doch', 'abschied', 'giraffen']","['andern', 'mal']","['dicht', 'nebel']",8
+1379,"['ich', 'und', 'mal', 'die', 'gedichte', 'beten', 'so', 'jeden']","['interessenten', 'welche']","['mir', 'noch']",8
+1383,"['erfeulicherweise', 'melden', 'ok', 'falls', 'reicht', 'heisst']","['annette', 'teilnehmer', 'tell', 'innen']","['denke', 'sonntag', 'kommentar', 'fall']",6
+1385,"['ich', 'brille', 'wippe', 'neuer', 'gehts']","['gedicht', 'günni', 'teilnehmer', 'geh', 'stifteln']","['oder', 'die', 'das', 'hier', 'zu']",5
+1387,"['zeit', 'oder', 'mann', 'autos', 'ich', 'schimpfen', 'reparatur', 'langeweile', 'halbtags']",['freundinnen'],['allem'],9
+1388,"['ich', 'brille', 'wippe', 'neuer', 'gehts']","['gedicht', 'günni', 'teilnehmer', 'geh', 'stifteln']","['oder', 'die', 'das', 'hier', 'zu']",5

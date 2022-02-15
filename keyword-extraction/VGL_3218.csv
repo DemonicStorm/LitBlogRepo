@@ -1,0 +1,796 @@
+dir,common,corpus,blog,com_count
+0,"['ich', 'euch', 'werde', 'es', 'gedichte', 'texten', 'schließen', 'derzeit']","['lylo', 'autorenexemplare']","['jahren', 'wieder']",8
+1,"['unterhaltung', 'texte', 'gute', 'stimme', 'gesicht', 'kombination', 'buchpräsentation', 'wünsche']","['lylo', 'abgelegt']","['wer', 'aug']",8
+3,"['inhalte', 'werden', 'verlinkten', 'kommerzielle', 'internetseiten', 'blog']","['lylo', 'lyriclove', 'werbelinks', 'nichtgewerbliche']","['autoren', 'links', 'seiten', 'für']",6
+10,"['off', 'texte', 'neuen', 'jan', 'für', 'meine', 'lyric', 'abgelegt']","['lylo', 'in']",[],8
+12,"['ich', 'auch', 'und', 'du', 'liebe']","['dir', 'apr', 'dich', 'lylo', 'grüße']","['aber', 'nicht', 'immer', 'werde', 'für']",5
+14,"['beiträge', 'mund', 'lust', 'neuere', 'ältere', 'okt', 'lyric', 'abgelegt']","['lylo', 'in']","['von', 'zu']",8
+18,"['mutterweib', 'auflage', 'softcover', 'romans', 'lesung', 'klappen', 'anlässlich', 'trailer', 'isbn']",['video'],['zweite'],9
+20,"['und', 'die', 'ich', 'der', 'wir', 'meiner', 'liebe', 'du']","['in', 'dir']","['den', 'will']",8
+22,"['beiträge', 'neuere', 'ältere']",[],[],3
+23,"['findet', 'ihr', 'hier', 'wieder', 'mich']",[],[],5
+24,"['xm', 'verfassen', 'kommentare', 'kommentar', 'dez', 'lyric', 'abgelegt', 'nov']","['lylo', 'in']",[],8
+26,"['hardcover', 'seiten', 'weihnachtsgeschenke', 'weihnachtsbuch', 'unterlegten', 'textproben', 'sucher', 'seitenansichten', 'illustrationen']",['trailer'],['luxus'],9
+29,"['weltkindertag', 'rainier', 'missbrauch', 'kindermisshandlung', 'kinderarmut', 'gemeinsames', 'cavalier', 'motto']","['bedanke', 'bitter']","['verfügung', 'projekt']",8
+33,"['videos', 'beiträge', 'selbstgebastelt', 'video', 'erstes', 'neuere', 'ältere', 'jun', 'lyric', 'abgelegt']",[],[],10
+34,"['videos', 'selbstgebastelt', 'video', 'erstes', 'jun', 'lyric', 'abgelegt', 'mein']","['lylo', 'in']",[],8
+37,"['zeitgründen', 'traue', 'pod', 'monatelanger', 'lyrikpause', 'launischen', 'veröffentliche']","['muse', 'mich', 'ich']","['eingestellt', 'fing', 'sehr']",7
+40,"['wintersonne', 'bitter', 'wrang', 'schweiße', 'lau', 'erkämpfen', 'bleiche']","['lyric', 'lylo', 'abgelegt']","['kochte', 'bohrte', 'blass']",7
+41,"['warte', 'elsa', 'sternenklarer', 'morgenfeuchte', 'mittagsschwüle', 'frühlingserwachens']","['lylo', 'mrz', 'petros', 'ekstasen']","['jahre', 'war', 'wohl', 'wehmütig']",6
+43,"['ich', 'und', 'den', 'euch', 'scheitel', 'letter']","['lylo', 'lyric', 'spurenweise', 'bilderlosen']","['nur', 'wenig', 'sich', 'zeit']",6
+44,"['gnade', 'auch', 'ich', 'für', 'und']","['liebe', 'lylo', 'demut', 'gruß', 'in']","['man', 'ist', 'nicht', 'zu', 'aber']",5
+47,"['aus', 'liebe', 'webt', 'umschwingt', 'umschlingt']","['lyric', 'lylo', 'love', 'abgelegt', 'flutet']","['dieses', 'glück', 'äther', 'demut', 'wilde']",5
+48,"['ich', 'und', 'bon', 'das', 'weinberge']","['liebe', 'lylo', 'gratwanderung', 'weinbergen', 'die']","['ständig', 'aber', 'es', 'auch', 'schreiben']",5
+51,"['umschloss', 'schmückte', 'nachtkleids', 'ermattet', 'purpurn', 'beflügelt']","['lyric', 'lylo', 'abgelegt', 'lust']","['morgenmantel', 'ärmel', 'schritte', 'spitzen']",6
+52,"['flügeln', 'neblichten', 'konkurrieren', 'elfengleich', 'grüße', 'jan', 'helmut']","['wortmeer', 'beflügelt', 'herzliche']","['bestens', 'so', 'leicht']",7
+54,"['gestaut', 'erfeuern', 'dramaturgie', 'spiels', 'entfacht']","['lyric', 'lylo', 'abgelegt', 'lust', 'leiber']","['akt', 'zweiten', 'brand', 'uns', 'vorhang']",5
+56,"['dolch', 'black', 'du', 'umhängt', 'tropftest', 'stießt']","['lyric', 'dolchstoß', 'lylo', 'eigner']","['ihn', 'wieder', 'ungezählten', 'nes']",6
+57,"['uns', 'tietz', 'über', 'liebesdampf', 'fabian', 'rötlicher', 'färben']","['by', 'lylo', 'club']","['hinter', 'bricht', 'das']",7
+58,"['kömmt', 'wintermäntel', 'westens', 'ost', 'ströme', 'sing']","['nordens', 'südens', 'knospen', 'zarte']","['noch', 'des', 'schwach', 'schon']",6
+59,"['teller', 'frivolities', 'und']","['fleischzungen', 'bestecke', 'lylo', 'platzenden', 'gegenübersitzende', 'tagliatelle', 'schmiegten']","['mutter', 'tisch', 'ja', 'meinem', 'alle', 'einmal', 'an']",3
+60,"['provence', 'mauer', 'der', 'freunde', 'bunten']","['schwalbennestern', 'rezitiertest', 'lyrik', 'rhododendron', 'erspüre']","['tisch', 'deren', 'an', 'lachen', 'wir']",5
+62,"['ich', 'wie', 'dich', 'und', 'die', 'sie', 'sprechen', 'mich', 'du']",['an'],['er'],9
+64,"['rückst', 'verrückt', 'mich', 'du', 'experiments', 'verrückst', 'rrückst', 'errückst']","['lyric', 'lylo']","['ve', 'be']",8
+65,"['rot', 'die', 'der', 'markise', 'streifen', 'games', 'trinke']","['lyric', 'triefst', 'hibiskusknospen']","['aus', 'wie', 'auf']",7
+66,"['lebe', 'kisses', 'überstrahlenden', 'überschwemme', 'würme', 'sonnennächte', 'kusssonnen', 'gedankenregen']","['lyric', 'lylo']","['sonnentage', 'kerngehäuse']",8
+67,"['setzen', 'life', 'zeile', 'pinsels', 'losgelassenes', 'hilferufe', 'herzblutroter']","['lyric', 'lylo', 'abgelegt']","['tinte', 'kräftiger', 'handschrift']",7
+68,"['die', 'zerrann', 'sonore']","['dich', 'kündend', 'mandoline', 'züngeln', 'gesagten', 'begehrens', 'schlängeln']","['jahre', 'all', 'werde', 'jetzt', 'zupfen', 'zitternde', 'spülte']",3
+70,"['tears', 'vergangenheiten', 'nachtlichte', 'atemgleichklang', 'gesät']","['lyric', 'lylo', 'abgelegt', 'gaukelt', 'gierigen']","['vater', 'ranken', 'greift', 'erwünscht', 'dämmerung']",5
+72,"['gottfried', 'benn', 'pablo', 'neruda', 'bist', 'du', 'zärtlichkeit']","['dich', 'liebe', 'wortküsse']","['der', 'ich', 'nähe']",7
+73,"['meine', 'nonsense', 'stürmend']","['lyric', 'lichtgelausch', 'klappendeckelnd', 'kätzchens', 'hute', 'lylo', 'himmelt']","['meinem', 'überdreht', 'zuckerbrot', 'wedeln', 'streichelnd', 'stranden', 'sonnen']",3
+75,"['verfassen', 'kommentare', 'kommentar', 'sehnsucht', 'jun', 'abgelegt', 'okt', 'zerbissener']","['lylo', 'in']","['schmerzmund', 'paart']",8
+76,"['shorties', 'verfassen', 'kommentare', 'kommentar', 'lassend', 'umzug', 'nov', 'abgelegt']","['lylo', 'mrz']","['lügen', 'hinter']",8
+80,"['inhalte', 'werden', 'verlinkten', 'kommerzielle', 'internetseiten', 'haftung']","['lylo', 'lyriclove', 'blog', 'werbelinks']","['copyright', 'autoren', 'ist', 'links']",6
+92,"['bitter', 'zerfiel', 'verschwandest', 'verlosch', 'tanzschuhe', 'nahmst']","['lyric', 'hinabspringen', 'lylo', 'abgelegt']","['walzer', 'schlug', 'lachte', 'klebten']",6
+93,"['jedes', 'letter', 'umfing', 'ließest', 'glanze', 'blutrot']","['lyric', 'lylo', 'abgelegt', 'geburtstagsfest']","['jahr', 'erklingt', 'stoße', 'rieseln']",6
+94,"['ich', 'letter', 'streute', 'sonnenaugen', 'fußes']","['lyric', 'lylo', 'nährst', 'aufrichtet', 'abgelegt']","['bin', 'kein', 'wieder', 'taten', 'erlaubt']",5
+98,"['treppe', 'lavendelfelder', 'entflohen', 'duftlos', 'bittend', 'akazien']","['lyric', 'lylo', 'love', 'abgelegt']","['verdorrt', 'pflaster', 'nutzlose', 'das']",6
+99,"['wortesmelodie', 'wallenden', 'lockender', 'glutig', 'gewoben', 'gewands']","['dekollete', 'ritzt', 'busens', 'vergissmeinnicht']","['verlorenen', 'stachel', 'nebelschwaden', 'hefte']",6
+100,"['sauge', 'teller', 'aus', 'und']","['fleischzungen', 'bestecke', 'giere', 'meine', 'taumle', 'platzenden']","['ja', 'mutter', 'tisch', 'auf', 'blut', 'meinem']",4
+101,"['vergangenen', 'strand', 'meer', 'tears', 'spülst', 'korallen', 'brandungen']","['lyric', 'lylo', 'abgelegt']","['schaumkronen', 'gespült', 'brechen']",7
+102,"['erotik', 'gurren', 'wühlen', 'deine', 'rotweinglas', 'eingeweiden', 'lust']","['lyric', 'lylo', 'abgelegt']","['schleichen', 'verstehe', 'wahrscheinlich']",7
+103,"['morgensterne', 'lust', 'säe', 'gaukle', 'flügle', 'erdringe', 'acker']","['lyric', 'lylo', 'abgelegt']","['engel', 'den', 'traum']",7
+105,"['punsch', 'kassettenrecorder', 'und', 'süß']","['schlürftest', 'plärrender', 'mandarinenduft', 'lustgesüßt', 'lichtergirlande', 'karitative']","['keinen', 'der', 'meine', 'zucker', 'wärmte', 'versteckte']",4
+106,"['weinrot', 'bitter', 'weinendes', 'mundwinkeln', 'lecktest', 'funkelte', 'blutete']","['lyric', 'lylo', 'abgelegt']","['war', 'taumelte', 'glänzte']",7
+107,"['triefend', 'nebelkleids', 'milchigweißer', 'brünstigkeit', 'nebelfrau']","['lyric', 'lylo', 'rötlicher', 'umschmeichelt', 'abgelegt']","['sieben', 'feuchtes', 'klarheit', 'herbstes', 'glitzernd']",5
+108,"['nah', 'nähe', 'letter', 'haucht', 'duftend', 'leckt']","['lyric', 'lylo', 'abgelegt', 'erblühen']","['so', 'selig', 'erzählt', 'geschichten']",6
+109,"['quell', 'brückenschlag', 'traumbrücken', 'seufzern', 'fluten']","['vorspiel', 'nachzulesen', 'durst', 'gier', 'brücke']","['reichte', 'geträumt', 'tal', 'geschlagen', 'erinnern']",5
+110,"['letter', 'verklingst', 'schwillst', 'lechzende', 'erfüllst']","['lyric', 'dringst', 'befruchtest', 'bittersüße', 'lylo']","['winkel', 'schwärmerei', 'köstlichkeit', 'kahlen', 'furioso']",5
+111,"['land', 'heimat', 'willkomm', 'tränkt', 'schoße', 'entbindet', 'endlichen']","['lyric', 'lylo', 'love']","['das', 'lässt', 'felde']",7
+112,"['sternenumglänzt', 'seidenflügel', 'schwelenden', 'samtener', 'himmelschöre', 'funkenbesprüht', 'enthüllenden']","['lyric', 'lylo', 'love']","['erfrischt', 'brustton', 'atmet']",7
+113,"['mondlicht', 'sternenwärts', 'silberbechern', 'mondlichttänze', 'kussbetrunken', 'geküssten']","['lyric', 'lylo', 'love', 'abgelegt']","['trink', 'silbern', 'schwebe', 'tanzt']",6
+114,"['mir', 'es', 'sich', 'frühlingt', 'nonsense', 'sinnt', 'buntet', 'bläut']","['lyric', 'lylo']","['zwitschert', 'wellt']",8
+115,"['deines', 'südens', 'wärme', 'wellenkräuseln', 'schmücktest', 'mondumspült', 'lippensalz']","['lyric', 'fülltest', 'lylo']","['traums', 'schattens', 'haares']",7
+116,"['berühren', 'gelungen', 'seele', 'bitter', 'verehrerinnenschar']","['lyric', 'lylo', 'eitles', 'handtüchern', 'abgelegt']","['wimmelt', 'vorhof', 'schüttete', 'obersten', 'nassen']",5
+117,"['advent', 'lust', 'tannenduft', 'rösten', 'kerzlein', 'geschmolzenes', 'ergieß']","['lyric', 'lylo', 'füllst']","['wachs', 'pflücken', 'kochst']",7
+118,"['geliebt', 'wortmeeren', 'umspüle', 'thymians', 'steinhäuschen', 'winkeligen']","['lyric', 'lylo', 'love', 'gässchen']","['den', 'oleander', 'einzusammeln', 'gegriffen']",6
+119,"['die', 'black', 'unecht', 'ruhegaukler', 'peitschenschlägen', 'kinderglücks', 'entmutigung']","['lyric', 'lylo', 'speit']","['sprachlosigkeit', 'gräbt', 'faltet']",7
+120,"['langsam', 'tears', 'frieren', 'zehen', 'kriecht', 'wärmt', 'sep']","['lyric', 'lylo', 'abgelegt']","['führt', 'träumen', 'sonne']",7
+121,"['verlassenheit', 'vergangenes', 'stöhnt', 'purzelbäume', 'musenlos', 'klammern']","['wortlosigkeit', 'durstig', 'winde', 'seufzer']","['wüste', 'verzweifelt', 'magen', 'streichen']",6
+122,"['verfassen', 'kommentare', 'jul', 'kommentar', 'abgelegt', 'lyric', 'love']","['lylo', 'in', 'lust']","['lügen', 'lassend', 'umzug']",7
+123,"['blüht', 'an', 'zärtlichkeit']","['morgenblassen', 'blütenkörbe', 'lyric', 'streuend', 'sonnenkinder', 'knospet', 'lylo']","['sie', 'meinem', 'üppige', 'unerschöpflich', 'umschweben', 'teppiche', 'suchenden']",3
+124,"['mir', 'freundin', 'ich', 'mich', 'und', 'die', 'deiner']","['prosy', 'dich', 'du']","['nach', 'sprechen', 'wie']",7
+125,"['würmchen', 'nächtens', 'lindholzbalkon', 'knabbern', 'julia', 'steffen', 'erwarte', 'eile', 'bleibst']",['friends'],['nichts'],9
+126,"['topf', 'inspired', 'zahllos', 'streicheltopf']","['lyric', 'gedankenwünsche', 'flanier', 'lylo', 'schmelzend', 'ergründe']","['ich', 'schöpfe', 'löffelchen', 'hol', 'gesäß', 'gefäß']",4
+127,"['der', 'die', 'und', 'rot', 'wir', 'ich', 'du']","['in', 'dich', 'liebe']","['wie', 'er', 'auf']",7
+128,"['letter', 'trommelst', 'ringes', 'mutterinstinkt', 'kinderscharmützel']","['deine', 'lyric', 'lylo', 'gedankenbilder', 'liebe']","['wenn', 'unsicher', 'stillem', 'sichersten', 'nahebringt']",5
+129,"['seither', 'sangst', 'hieltst', 'herztöne', 'herzkonzert', 'feuerzeug']","['lyric', 'lylo', 'love', 'abgelegt']","['konzert', 'erkannte', 'dämmerung', 'treten']",6
+130,"['taufkleid', 'tangokleid', 'lasziver', 'kompression', 'bewahrst', 'schlägst']","['lyric', 'lylo', 'abgelegt', 'lust']","['dort', 'wiedergeburt', 'gefrieren', 'anzieht']",6
+131,"['herbst', 'schmetterling', 'vertöntes', 'herzblüte', 'farbentiefe', 'erzittert', 'ergaukle']","['lyric', 'lylo', 'love']","['spätsommer', 'flügelschlag', 'sanftem']",7
+132,"['dich', 'sep', 'meinen', 'worten', 'liebe']","['lylo', 'sehnsucht', 'abgelegt', 'by', 'du']","['zu', 'ich', 'nicht', 'mich', 'nur']",5
+133,"['term', 'search', 'enter', 'to', 'lyriclove']",['in'],[],5
+134,"['lyric', 'love', 'xm', 'shorties', 'games']","['frivolities', 'nonsense', 'kisses', 'experiments', 'inspired']","['videos', 'tagebuch', 'life', 'off', 'voice']",5
+136,"['ich', 'auch', 'nicht', 'die', 'flamme']","['lylo', 'verdichten', 'deine', 'du', 'liebe']","['aber', 'was', 'für', 'ist', 'schon']",5
+137,"['ich', 'oder', 'nicht', 'auch', 'verdichten', 'versuch']","['lylo', 'in', 'meinem', 'grobe']","['will', 'eigentlich', 'aber', 'was']",6
+139,"['verfassen', 'beiträge', 'kommentar', 'dez', 'neuere', 'letters']","['lylo', 'abgelegt', 'lyriclove', 'letter']","['kommentare', 'ältere', 'anmelden', 'anlegen']",6
+140,"['christkindl', 'off', 'anmelden', 'anlegen', 'weblog', 'nächstes', 'twoday', 'lyriclove']","['lyric', 'lylo']","['net', 'neues']",8
+142,"['vorratsaufsitzenden', 'unermesslicher', 'tränengerührten', 'stolzgebläht', 'schlafaugen', 'prot']","['gestrengen', 'fäkaldichtkunst', 'erintrigieren', 'auswahlkommission']","['zielstrebiger', 'proudly', 'presents', 'herumgehen']",6
+143,"['korsett', 'herzlichste', 'gratulation', 'xxx', 'gratulisierende']","['vorratsaufsitzenden', 'tränengerührten', 'stolzgebläht', 'schlafaugen', 'prot']","['nun', 'natürlich', 'und', 'mitgekriegt', 'auch']",5
+145,"['es', 'nicht', 'oder', 'euch', 'virtuellen', 'und']","['lylo', 'ich', 'abschied', 'pailo']","['aber', 'vielleicht', 'zeit', 'ein']",6
+146,"['ich', 'aber', 'und', 'auch', 'es', 'mich', 'danke']","['lylo', 'du', 'liebe']","['nicht', 'oder', 'wieder']",7
+148,"['xxxxxx', 'dankt', 'beiträge', 'küsst', 'neuere', 'ältere']","['lylo', 'lyriclove', 'anmelden', 'anlegen']","['verfassen', 'wieder', 'kommentare', 'kommentar']",6
+149,"['xxxxxx', 'dankt', 'küsst', 'sylvia', 'glückwunsch', 'herzlichen']","['lylo', 'lyriclove', 'jun', 'anmelden']","['jetzt', 'maria', 'off', 'wieder']",6
+150,"['xxxxxx', 'dankt', 'küsst', 'off', 'anmelden', 'anlegen']","['lylo', 'lyriclove', 'nächstes', 'lyric']","['jetzt', 'wieder', 'und', 'weblog']",6
+151,"['danke', 'mai', 'dreistellig', 'besucherzahl', 'hohnumlachten', 'gestaunte']","['lylo', 'lyric', 'abgelegt', 'bussi']","['besucher', 'verstummen', 'ohrfeigen', 'klatschen']",6
+152,"['danke', 'gerade', 'dreistellig', 'besucherzahl', 'besucher', 'dickes', 'erste', 'da', 'bussi']",['lylo'],['wurde'],9
+154,"['computer', 'ich', 'zerschossen']","['verlagsdaten', 'entschlüpfen', 'dreifachnull', 'lylo', 'daumendrücker', 'grimmiges', 'schmökern']","['hier', 'ja', 'nicht', 'anderen', 'bis', 'vorhandenen', 'virus']",3
+155,"['daumendrück', 'nicht', 'ich', 'daumen', 'noch', 'computer', 'immer', 'ein']","['lylo', 'die']","['aber', 'irgendetwas']",8
+157,"['wiederkäuen', 'unterschiedliches', 'anregungen', 'neues', 'loszulassen', 'speziell', 'besuche']","['miro', 'deine', 'schreibst']","['bleibe', 'merke', 'und']",7
+165,"['du', 'warst', 'ich']","['zänkereien', 'herumversuchte', 'evelylo', 'dss', 'bezwecktest', 'durchblickt', 'konstruktives']","['schon', 'nicht', 'aber', 'es', 'möchte', 'denn', 'auch']",3
+166,"['identität', 'halb', 'immer', 'blog', 'ich']","['unverbunden', 'grinsendes', 'geschart', 'verschleiern', 'versessen']","['war', 'gern', 'ein', 'aber', 'etwas']",5
+167,"['vorausgeahnt', 'servus', 'neuem', 'ganzer', 'entschluss', 'widmen', 'tust']","['tragisch', 'beinah', 'kommentaren']","['mal', 'gelegentlich', 'beendet']",7
+170,"['vorhaben', 'umschwenken', 'kleidetest', 'ding', 'anspringt', 'hp', 'erfolg', 'schade']","['deine', 'wunderbar']","['jedes', 'doch']",8
+171,"['einfach', 'erhalten', 'hier', 'schauen', 'bleibst', 'erscheinen', 'okay', 'verstanden']","['schreibst', 'du']","['bisher', 'vorbei']",8
+172,"['auch', 'stopp', 'revival', 'mittzwanziger', 'weisheit', 'themen', 'gespannt', 'traurig']","['club', 'neues']","['irgendwann', 'sage']",8
+174,"['jan', 'vorhang', 'zugabe', 'erfeuern', 'petros', 'helmut', 'applaus']","['lylo', 'gruß', 'gast']","['solange', 'solche', 'lange']",7
+176,"['heiß', 'tropfgesteintem', 'schmelztiegel', 'geschäum', 'gelebter', 'brodelndem']","['lyric', 'lylo', 'arabesken', 'abgelegt']","['glück', 'laben', 'kühler', 'hohe']",6
+177,"['nov', 'ich', 'tropfgesteintem', 'schmelztiegel', 'laben', 'höhlen']","['gruß', 'uta', 'petros', 'neobazi']","['ist', 'kühler', 'das', 'heiß']",6
+179,"['verstromt', 'lippenstrom', 'flutlicht', 'erquellt', 'drähten', 'pulsieren']","['lyric', 'lylo', 'deinen', 'abgelegt']","['bebt', 'name', 'glüht', 'lust']",6
+180,"['nov', 'gruß', 'beben', 'schlaf', 'david', 'jimi']","['lylo', 'abstrakteres', 'lieben', 'britta']","['berlin', 'name', 'spannendes', 'from']",6
+182,"['er', 'streichholz', 'die', 'und', 'licht', 'ich', 'blick', 'saugte']","['in', 'erotik']","['seiner', 'seines']",8
+183,"['erotik', 'und', 'es', 'ist', 'gelungen', 'ich']","['lylo', 'gruß', 'du', 'erotisch']","['er', 'thema', 'seiner', 'der']",6
+185,"['reib', 'mauerblümchen', 'mauer', 'lust', 'muschelkalkstein']","['lyric', 'abendsonnenblick', 'dich', 'feuermauer', 'lylo']","['unserer', 'bis', 'die', 'ziegeln', 'polierter']",5
+186,"['mauer', 'mauern', 'jul', 'gruß', 'reib', 'mauerblümchen', 'sinnlich', 'uta']","['petros', 'bon']","['anderem', 'betrachten']",8
+188,"['lebensgalerie', 'tupft', 'silberrahmen', 'loderndes']","['lyric', 'lylo', 'abgelegt', 'netzt', 'röte', 'lust']","['schütten', 'begehren', 'abstrakt', 'sprüht', 'blenden', 'gehirn']",4
+189,"['uns', 'das', 'mrz', 'färben', 'tupft', 'loderndes', 'begehren']","['petros', 'lg', 'fabian']","['hinter', 'vor', 'über']",7
+192,"['erotik', 'fragen', 'öfter', 'gedicht', 'ich']","['lylo', 'gruß', 'strophe', 'stolperschwelle', 'gefiels']","['leute', 'wahrscheinlich', 'deshalb', 'besser', 'wende']",5
+195,"['strophe', 'sprachlich', 'gesamteindruck', 'echter', 'morgensterne', 'höhepunkt', 'abbruch']","['feb', 'lylo', 'kathrin']","['schluß', 'schlimm', 'allzu']",7
+197,"['röcke', 'die', 'wehen', 'nacht', 'lust', 'verschütteter', 'musenküssen']","['lyric', 'morgenaugen', 'froststarren']","['unter', 'der', 'über']",7
+198,"['kömmt', 'er', 'seligkeit', 'seelentüren', 'fruchtbarkeitstanz', 'flutender', 'entfaltung', 'beschwörende', 'aufbrechender']",['ergießen'],['schon'],9
+199,"['kömmt', 'er', 'petros', 'schon', 'vorfrühlingsgrüße']","['lg', 'feb', 'knospen', 'lyloknickstartig', 'liebe']","['drängen', 'und', 'sehr', 'noch', 'des']",5
+201,"['wir', 'die', 'hand', 'wienerwaldes', 'eisblumenmuster', 'bizarre', 'wienerin']","['liebe', 'in', 'lass']","['der', 'und', 'wie']",7
+204,"['weihnachtslieder', 'weihnachtskuss', 'vertrauensvoll', 'sternenklar', 'spült', 'heiland']","['hauche', 'weihnachtsfest', 'wunderschönes', 'meine']","['glückliches', 'zweifel', 'und', 'leisen']",6
+205,"['und', 'sie', 'tag', 'die', 'herübergebracht', 'gehütet']","['weihnachtskuss', 'lylo', 'sternenklar', 'hauche']","['einen', 'verschiedensten', 'gezählt', 'der']",6
+207,"['du', 'zugesperrt', 'wortrose', 'weihnachtsbotschaft', 'verließt']","['türmatte', 'gedankenmantel', 'schleichst', 'klopfst', 'klebst']","['manchmal', 'ihn', 'zugeworfen', 'vorraum', 'unbeschriebenes']",5
+208,"['mantel', 'weiterspinne', 'seufz', 'ich', 'du']","['lylo', 'wortrose', 'verließt', 'türmatte', 'gedankenmantel']","['geschichte', 'ohne', 'manchmal', 'ihn', 'die']",5
+210,"['jubelnde', 'rauschgoldengel', 'weihnacht', 'wegschlecken', 'umwinde']","['lustgeglitzer', 'gesternt', 'erfließt', 'beflittertes', 'adventkalender']","['kleine', 'ich', 'zuckerwerk', 'weihnachtsmannes', 'stimmen']",5
+213,"['umspielte', 'umnetzte', 'kussfantasie', 'bitter', 'blutroten']","['lyric', 'holtest', 'lylo', 'lippen', 'meinen']","['lag', 'ihn', 'speichel', 'silbernen', 'bändern']",5
+214,"['will', 'tanzen', 'ich', 'tanz', 'stolzes', 'schwitzend', 'raffen', 'hineinwippen', 'gefecht', 'fußballen']",[],[],10
+216,"['und', 'die', 'ich', 'feuchten', 'augen', 'meine', 'meiner']","['lylo', 'in', 'okt']","['den', 'der', 'er']",7
+217,"['und', 'die', 'feuchten', 'ich', 'augen', 'meiner']","['zusammenpackte', 'zugefächelt', 'tätschelnden', 'tangoschritt']","['den', 'er', 'der', 'kleinen']",6
+220,"['beiträge', 'neuere', 'ältere', 'anmelden', 'anlegen', 'weblog', 'nächstes', 'twoday', 'net', 'lyriclove']",[],[],10
+221,"['weihnachtsfest', 'conny', 'lieben', 'íns', 'wundervolles', 'gruß', 'wünsche', 'dez']","['wortmeer', 'martina']","['gesund', 'frohe']",8
+222,"['xm', 'anmelden', 'anlegen', 'weblog', 'nächstes', 'twoday', 'net', 'lyriclove']","['lyric', 'neues']","['jahre', 'alle']",8
+223,"['ankommen', 'ankunft', 'geboren', 'bei', 'advent', 'anzuhören', 'geburt']","['dir', 'erwartung', 'herzens']","['wartet', 'warten', 'öffnen']",7
+224,"['laut', 'liebe', 'wortmeer', 'advent', 'schönen', 'nikolaustag']","['lylo', 'grüße', 'dir', 'helmut']","['geboren', 'das', 'stärker', 'mode']",6
+226,"['stern', 'euch', 'weihnachtshimmel', 'erhobene', 'schmiegen', 'umarmungen', 'liebevolle', 'weihnacht']","['lylo', 'zeichnen']","['siehst', 'bereit']",8
+227,"['ich', 'weihnachten', 'nicht', 'und', 'auch', 'das', 'bon', 'stern']","['lylo', 'liebe']","['scheiße', 'alles']",8
+229,"['herzschlag', 'hand', 'weihnachtsengel', 'segnenden', 'glanze', 'krippe']","['streut', 'weihnacht', 'anzuhören', 'breitet']","['gaben', 'flug', 'blicken', 'reise']",6
+230,"['elke', 'gesegnete', 'herzschlag', 'weihnachten', 'wünscht', 'wunschgedicht']","['segnenden', 'lylo', 'weihnachtsengel', 'glanze']","['berlin', 'genau', 'soll', 'aus']",6
+232,"['zungenzärtlichkeiten', 'weihnachtssüß', 'leck', 'gereimt', 'blinken', 'augengirlanden', 'weihnachtsfest', 'glitzert', 'anzuhören']",['süß'],['weihnachten'],9
+233,"['dez', 'bonanzamargot', 'unentgeltlich', 'mafia', 'weihnachten', 'ich', 'weihnachtsmafia', 'weihnachtsgeschäft', 'dienlich']",['uta'],['liste'],9
+235,"['punsch', 'kassettenrecorder', 'christmas', 'und', 'süß']","['schlürftest', 'plärrender', 'mandarinenduft', 'lustgesüßt', 'lichtergirlande']","['keinen', 'der', 'meine', 'lost', 'zucker']",5
+236,"['punsch', 'dez', 'liebe', 'vergnügt', 'elsa', 'mehralszuckersüße']","['lylo', 'lg', 'petros', 'hutziehgrüße']","['und', 'hoffe', 'weihnachtszeit', 'prost']",6
+239,"['jahr', 'neue', 'hoffe', 'tickt', 'garantie', 'helmut']","['lylo', 'uta', 'liebe', 'dir']","['und', 'für', 'es', 'auch']",6
+241,"['apfel', 'bitter', 'schlangenbiss', 'rotglühenden', 'dunken', 'blicketauchers']","['lyric', 'lylo', 'abendstern', 'abgelegt']","['der', 'silberne', 'schlamm', 'leuchtete']",6
+242,"['helmut', 'poetische', 'mai', 'elsa']","['lylo', 'liebe', 'uta', 'liebesland', 'blicketaucher', 'grüße']","['sehr', 'der', 'teppich', 'weißer', 'stimmung', 'stark']",4
+244,"['harre', 'nacht', 'bitter', 'fahler', 'erblasst']","['lyric', 'lylo', 'silberflüssigen', 'sternenglanz', 'abgelegt']","['der', 'vergebens', 'starre', 'scham', 'bleichen']",5
+245,"['scham', 'was', 'die', 'viel', 'der', 'nacht', 'ich']","['feb', 'liebe', 'grüße']","['man', 'text', 'zu']",7
+248,"['und', 'ich', 'sie', 'metaphern', 'körperliche', 'blut']","['deskriptive', 'selbstverletzung', 'alois', 'leidenschaft']","['gewalt', 'aber', 'hat', 'es']",6
+250,"['bitter', 'starres', 'spotten', 'speiender', 'höhnen']","['lyric', 'lylo', 'speit', 'abgelegt', 'by']","['morgen', 'hungrige', 'fratzen', 'endlosen', 'würgen']",5
+251,"['bricht', 'lg', 'aug', 'zieht', 'iaago', 'helmut', 'gruß', 'starres']","['lylo', 'speit']","['sich', 'morgen']",8
+253,"['vertrieben', 'pflückte', 'lauer', 'adams', 'bitter', 'apfel']","['lyric', 'lylo', 'abgelegt', 'eitelkeit']","['baum', 'schlange', 'ans', 'paradies']",6
+256,"['besen', 'niemand', 'bitter', 'zauberlehrling', 'schranke', 'poliert']","['lyric', 'lylo', 'rotweinglas', 'abgelegt']","['so', 'wie', 'kehrt', 'blank']",6
+257,"['so', 'nun', 'ich', 'vorangehenden', 'versteh', 'versen', 'solls', 'nichtsdestotrotz']","['lylo', 'besen']","['aber', 'verzichtet']",8
+259,"['bitter', 'verzittert', 'verbissenem', 'saxophon', 'brünstig', 'sternenblues']","['lyric', 'lylo', 'sternennacht', 'abgelegt']","['schleppt', 'flache', 'rieselt', 'kreise']",6
+260,"['trösterchen', 'launische', 'gedankenbild', 'voriges', 'gehts', 'schick']","['bussi', 'malst', 'muse', 'wolf']","['mehr', 'lange', 'schon', 'papier']",6
+269,"['jahre', 'verschoben', 'passierte', 'ausbeute', 'prioritäten', 'enorm', 'ausgezeichnet', 'projekte']","['werd', 'schließen']","['mal', 'war']",8
+270,"['auch', 'es', 'ist', 'aber', 'so', 'schätzenswert']","['hineinversetzten', 'dauerts', 'augenlicht', 'du']","['was', 'wenig', 'nichts', 'schreckliche']",6
+273,"['auch', 'wenn', 'hintergrund', 'licht', 'leidensvollen', 'heraustreten']","['leidenden', 'konntest', 'führung', 'begrüßung']","['man', 'weg', 'unterstützung', 'tunnel']",6
+274,"['stunden', 'kraftquellen', 'lyrische', 'alltäglichen', 'solchen', 'situationen', 'gebären', 'trost', 'erkennen']",['dunklen'],['tatsächlich'],9
+275,"['man', 'gnade', 'ich']","['sehvermögens', 'blickfelds', 'liebe', 'beeinträchtigung', 'wünsche', 'hadern', 'lektionen']","['konnte', 'auch', 'genau', 'aber', 'dass', 'natürlich', 'haben']",3
+276,"['gnade', 'demut', 'nicht', 'für', 'ist', 'ich', 'mich', 'zu']","['in', 'rast']","['man', 'auch']",8
+277,"['süddeutschen', 'neuhochdeutsche', 'mundarten', 'hochsprache', 'ausführliche', 'mittelhochdeutschen', 'beigetragen', 'verständigung']","['erwiderung', 'helmut']","['viel', 'österreichischen']",8
+281,"['ich', 'nov', 'wieder', 'streute', 'grüße', 'liebe']","['lylo', 'dir', 'gruß', 'uta']","['auch', 'november', 'und', 'dunkel']",6
+283,"['stern', 'letter', 'satin', 'krallenrot', 'kleide', 'gedankenglanz', 'geburtstagstango']","['lyric', 'lylo', 'abgelegt']","['nägel', 'schmiegen', 'geburtstag']",7
+286,"['nah', 'sep', 'bonanzamargot', 'herraermel', 'küssen', 'dez', 'verwöhnst']","['gruß', 'uta', 'begehrliches']","['nähe', 'ausklingen', 'so']",7
+289,"['schwärmerei', 'sprichst', 'samen', 'letter', 'verklingst', 'lechzende']","['lyric', 'dringst', 'befruchtest', 'erfüllst']","['wahrhaftig', 'winkel', 'schwillst', 'köstlichkeit']",6
+291,"['jahr', 'letter', 'strümpfen', 'rutscht', 'aufzustehen']","['lylo', 'lyric', 'blütenweißen', 'abgelegt', 'jahreswechsel']","['stiefel', 'hinüber', 'gelebt', 'das', 'lehne']",5
+292,"['jahr', 'lg', 'neuen', 'das', 'und', 'euch']","['lylo', 'jan', 'letter', 'liebe']","['für', 'neue', 'auch', 'beste']",6
+294,"['letter', 'weihnachtsgeschenk', 'minutenkurz', 'hl', 'friedliche', 'besinnung']","['lyric', 'lylo', 'abgelegt', 'liebevolle']","['nehmt', 'riecht', 'schmücken', 'streift']",6
+296,"['seelenjung', 'letter', 'streck', 'morgenwinde', 'unerfüllter', 'grünt']","['lyric', 'lylo', 'abgelegt', 'erwachens']","['flattert', 'bedeckte', 'morgen', 'schüttle']",6
+299,"['tage', 'schale', 'ich', 'tropfen', 'letter', 'deiner']","['regenbogenlicht', 'erglühten', 'lyric', 'amüsierst']","['die', 'ärgerst', 'zusehen', 'weltliteratur']",6
+302,"['dschungel', 'schläft', 'dunkelgrün', 'heut', 'letter', 'rotglühender']","['lyric', 'gezählter', 'lylo', 'mitternachtsblau']","['wildbahn', 'violetter', 'sonnenuntergang', 'schattiger']",6
+305,"['ich', 'und', 'weinberge', 'weinbergen', 'das']","['lylo', 'diktaphone', 'liebe', 'gratwanderung', 'die']","['aber', 'es', 'ständig', 'nicht', 'schon']",5
+307,"['gezeichnet', 'umschwingt', 'regt', 'formuliert', 'aussage', 'treffend', 'äther', 'begeistert']","['sanfte', 'mut']","['nachdenken', 'geworden']",8
+308,"['verknüpft', 'knüpft', 'erlieben', 'gießt', 'geborgenheit']","['lyric', 'lylo', 'love', 'abgelegt', 'in']","['band', 'blaue', 'alltag', 'mir', 'steigt']",5
+309,"['leben', 'menschen', 'gut', 'deren', 'ich', 'ausgesprochen', 'monika', 'grüßt']","['lylo', 'herzlich']","['tun', 'dass']",8
+311,"['dir', 'zerschneiden', 'verstreuen', 'nähen', 'flicken', 'zerreißen']","['lyric', 'lylo', 'love', 'abgelegt']","['möchte', 'stücke', 'mit', 'teilen']",6
+312,"['lege', 'kusshandzuwerf', 'grüße', 'ich', 'und', 'den', 'feb', 'elsa']","['dir', 'gast']","['wohnen', 'immer']",8
+314,"['spüren', 'schwenken', 'prickeln', 'kitzeln']","['lyric', 'lylo', 'love', 'abgelegt', 'eingeweiden', 'deine']","['will', 'gaumen', 'for', 'dinner', 'berührung', 'two']",4
+315,"['voilè', 'wellenritt', 'verstrickte', 'sommerfenster', 'bittersüß', 'bauscht', 'atemgleich', 'uta']","['lylo', 'jan']","['zuvor', 'nachher']",8
+317,"['möchte', 'deiner', 'kampfe', 'entgegennehmen', 'aufbäumen']","['lyric', 'lylo', 'love', 'in', 'abgelegt']","['kleiden', 'helle', 'fäden', 'spinnen', 'netze']",5
+318,"['mich', 'delalune', 'claire', 'seufz', 'ich', 'entblättern', 'deiner']","['jan', 'in', 'lylo']","['ergeben', 'und', 'kleiden']",7
+320,"['späten', 'vollen', 'rosen', 'samtig', 'fallender']","['lyric', 'lylo', 'love', 'sattem', 'abgelegt']","['letztem', 'wiegt', 'ahnen', 'schmückt', 'dunkler']",5
+321,"['späten', 'vollen', 'rosen', 'herbst', 'rosengedicht', 'fallender']","['lyric', 'lylo', 'rosenlust', 'love']","['es', 'samtig', 'letztem', 'wiegt']",6
+323,"['verwahre', 'tageslichts', 'silberflüssigen', 'pflücke', 'hauchen']","['lyric', 'lylo', 'love', 'mitlichem', 'abgelegt']","['vom', 'schlafend', 'kissen', 'geküsst', 'jugend']",5
+324,"['jul', 'kathrin', 'verträumten', 'uta', 'beali', 'lg', 'gruß']","['lylo', 'gast', 'lyric']","['träumen', 'frivol', 'vom']",7
+326,"['wird', 'duft', 'lebensduft']","['lyric', 'lylo', 'love', 'abgelegt', 'vorspiel', 'nachzulesen', 'süßen']","['einzig', 'es', 'dach', 'unter', 'grünen', 'mir', 'dunkel']",3
+328,"['wird', 'duft', 'welt', 'einzig', 'blätter', 'dir', 'club']","['by', 'lylo', 'lyric']","['jedem', 'es', 'dunkel']",7
+330,"['jun', 'duft', 'mitmiro', 'murmelndes']","['lylo', 'abgelegt', 'by', 'lyric', 'sonnenhauch', 'sehnsucht']","['ton', 'welt', 'rosenkranz', 'gewunden', 'geflecht', 'gebet']",4
+331,"['duft', 'welt', 'sonnenhauch', 'seifenblasen', 'gestanks']","['lyric', 'lylo', 'love', 'abgelegt', 'umfängt']","['der', 'färbt', 'zweigen', 'löst', 'senkt']",5
+334,"['heimat', 'ungebunden', 'jun', 'worte']","['lg', 'melanchlisch', 'in', 'lyric', 'fruchtbares', 'willkomm']","['das', 'land', 'ein', 'mich', 'lässt', 'weites']",4
+341,"['so', 'angehaucht', 'beschreibt', 'anregt', 'interpretieren', 'erotisch', 'einiges', 'nachdenken']","['zärtlich', 'gedicht']","['denken', 'richtig']",8
+344,"['jahr', 'ich', 'ein', 'vorsatz', 'zeile', 'losgelassenes', 'liebe']","['lylo', 'dir', 'jan']","['das', 'setzen', 'so']",7
+347,"['life', 'lebensreise', 'gelebten', 'clowns', 'blattgold']","['lyric', 'lylo', 'rauschgoldengel', 'abgelegt', 'sanduhr']","['möchte', 'schuhen', 'füttern', 'bissen', 'augenwinkel']",5
+348,"['clown', 'blattgold', 'und', 'engel', 'dez', 'monika', 'wegküssen']","['grüße', 'lylo', 'gelebten']","['auch', 'lernen', 'man']",7
+350,"['tage', 'moder', 'erküsst', 'austreibendem', 'ranken', 'flechten']","['lyric', 'lylo', 'love', 'abgelegt']","['scheiben', 'räumen', 'tageslicht', 'blinde']",6
+351,"['erküsst', 'austreibendem', 'ranken', 'zeilen', 'tor', 'hoffnungsfroh']","['grüße', 'helmut', 'ausdrucksstark', 'liebe']","['tage', 'entlang', 'sie', 'bann']",6
+358,"['ich', 'es', 'und', 'teenagerhaft', 'familiären', 'bon']","['sep', 'dolch', 'dir', 'kraftvoll']","['aber', 'nicht', 'man', 'finde']",6
+362,"['sauge', 'black', 'blut', 'wundgelebt', 'taumle', 'schweigsamkeit']","['lyric', 'lylo', 'giere', 'deinem']","['aus', 'vieren', 'neige', 'lecke']",6
+363,"['sauge', 'narben', 'umärmel', 'raussteigen', 'herzensdingen', 'herzensdinge']","['lylo', 'frauu', 'liebe', 'frauunvernunft']","['bilden', 'stern', 'wunden', 'durcheinander']",6
+365,"['black', 'lebensbaum', 'angstatems', 'bunteste', 'lieblosigkeit', 'novembermorgen']","['lyric', 'lylo', 'abgelegt', 'erwachens']","['kahl', 'einsames', 'gelbes', 'äste']",6
+366,"['grau', 'erde', 'nov', 'und', 'farben', 'ich', 'himmel', 'bon', 'die']",['bunteste'],['ist'],9
+370,"['versöhnung', 'schwindelerregenden', 'leb', 'wünsche', 'traut']","['lylo', 'gestehe', 'höhen', 'mai', 'liebes']","['ist', 'mal', 'wann', 'herbei', 'hinunter']",5
+371,"['black', 'geköpft', 'ohrfeigen', 'hohnumlachten', 'gestaunte', 'achsel', 'wirfst']","['lyric', 'lylo', 'abgelegt']","['verstummen', 'klatschen', 'blinder']",7
+372,"['nächten', 'diesen', 'black', 'verstummung', 'torkelnd', 'geschwüre']","['lyric', 'abschält', 'lylo', 'in']","['wo', 'fasern', 'entblößen', 'bordell']",6
+373,"['puppies', 'man', 'wird', 'davon', 'nächten', 'diesen', 'wertvoller', 'klüger', 'entspannter']",['black'],['blind'],9
+375,"['erde', 'mutter', 'black', 'atem', 'vorticken', 'verrätst']","['lyric', 'lylo', 'poche', 'opferst']","['fehlt', 'wölfen', 'uhren', 'sauerstoff']",6
+376,"['erde', 'mutter', 'schwarze', 'ich', 'tausend', 'deiner', 'david']","['liebe', 'gedeih', 'deinem']","['wohne', 'wachse', 'version']",7
+378,"['netz', 'black', 'vertropfen', 'spinnennetze', 'spinnenküsse', 'donnernd']","['küsse', 'lyric', 'lylo', 'abgelegt']","['umnachtung', 'spinne', 'erschlagen', 'zucken']",6
+379,"['ich', 'schmerz', 'auch', 'und', 'murakami', 'lindert', 'worte']","['dir', 'meine', 'kreativität']","['nicht', 'aber', 'ist']",7
+382,"['uns', 'über', 'miro', 'ich', 'und']","['lylo', 'tietz', 'danke', 'by', 'fabian']","['nicht', 'das', 'auch', 'hier', 'kommentare']",5
+385,"['röcke', 'die', 'wehen', 'kühl', 'fabian', 'sturm', 'tietz', 'club']","['by', 'lylo']","['den', 'uns']",8
+388,"['nah', 'geschichten', 'tietz', 'fabian', 'bänder', 'club']","['by', 'lylo', 'in', 'dir']","['so', 'zukunft', 'nähe', 'traum']",6
+390,"['verträumte', 'luftzug', 'tietz', 'club', 'fabian']","['by', 'lylo', 'küsse', 'traumbruecken', 'samttuch']","['mir', 'von', 'den', 'die', 'aus']",5
+392,"['gestern', 'zukunftsweisend', 'vergangenheit', 'club']","['lyric', 'senktest', 'kerkermauern', 'lylo', 'verbirgst', 'hisst']","['hört', 'zukunft', 'was', 'heute', 'rational', 'leiten']",4
+394,"['kinder', 'ufern', 'tietz', 'ufer', 'club', 'fabian']","['by', 'lylo', 'lyric', 'erwachsenenstrom']","['trinken', 'wir', 'unserer', 'wandert']",6
+396,"['insel', 'rosa', 'früchte', 'tietz', 'club', 'fabian']","['by', 'lylo', 'in', 'weichend']","['see', 'schnee', 'das', 'decke']",6
+399,"['sturm', 'tietz', 'fabian', 'träumelang']","['by', 'lylo', 'vergessnen', 'durchbebst', 'funkenflug', 'purpurn']","['stetig', 'ballast', 'wird', 'heftiger', 'erschüttert', 'durchzieht']",4
+401,"['femme', 'fatale', 'erweckt', 'muscheln', 'miro', 'tanze', 'club']","['by', 'lylo', 'in']","['auf', 'ich', 'seinen']",7
+403,"['regen', 'tietz', 'feuer', 'irrend', 'fabian', 'glut']","['by', 'lylo', 'deines', 'kleid']","['im', 'bloß', 'die', 'der']",6
+404,"['friends', 'wortmeer', 'gedankenschweben', 'gedankenhimmel', 'ganzlich', 'schweben', 'bedanke', 'jul']","['lyric', 'abgelegt']","['antwort', 'geschenk']",8
+405,"['lesen', 'und', 'danke', 'träumen', 'schreibdoch', 'gruß', 'jul']","['uta', 'lylo', 'friendslyrik']","['sommerabend', 'schwebend', 'exil']",7
+408,"['kömmt', 'schon', 'ahnung', 'friends', 'petros']","['lyric', 'ganzlich', 'wintermäntel', 'abgelegt', 'nordens']","['als', 'er', 'mehr', 'noch', 'des']",5
+410,"['voller', 'blickt', 'nacht', 'friends', 'wortmeer', 'ergraut', 'harre']","['lyric', 'ganzlich', 'abgelegt']","['grenzenlos', 'der', 'zauber']",7
+412,"['lege', 'wohnen', 'friends', 'trinket', 'scheinender']","['lyric', 'ganzlich', 'abgelegt', 'in', 'kommet']","['soll', 'zeit', 'dort', 'ich', 'mc']",5
+414,"['rieger', 'elsa', 'friends', 'voile', 'wellenritt', 'verstrickte', 'sommerfenster', 'bittersüß']","['lyric', 'atemgleich']","['zuvor', 'bauscht']",8
+417,"['entblättern', 'delalune', 'claire', 'nächte', 'friends', 'daslichste']","['lyric', 'abschiedsnah', 'umwebt', 'zartem']","['kein', 'und', 'alle', 'mich']",6
+419,"['fiel', 'dichterhimmel', 'langsam', 'frau', 'kirschblüte', 'die']","['friends', 'schaumgekrönten', 'lyric', 'lylo']","['eines', 'tages', 'einer', 'das']",6
+421,"['friends', 'petros', 'wachstum', 'nebelfrau', 'klarheit']","['lyric', 'abgelegt', 'nackter', 'bedanke', 'erfüllung']","['das', 'ziel', 'schönheit', 'es', 'wir']",5
+422,"['das', 'virago', 'mel', 'petros', 'eigenes']","['liebe', 'lg', 'erfüllung', 'okt', 'grüße']","['ziel', 'schönheit', 'es', 'wir', 'ein']",5
+424,"['friends', 'immer', 'petros', 'wieder', 'anfängergeist', 'enden', 'bedanke']","['lyric', 'abgelegt', 'jun']","['natur', 'antwort', 'geschenk']",7
+425,"['petros', 'lg', 'vergänglichkeit', 'schmucklos', 'mimosen', 'knicken', 'anfängergeist', 'streuen']","['by', 'düfte']","['saft', 'äste']",8
+427,"['miro', 'friends', 'perlenbestickt', 'gewässern', 'ansässig', 'femme', 'fatale', 'erweckt']","['lyric', 'abgelegt']","['zahlreichen', 'muscheln']",8
+428,"['miro', 'zahlreichen', 'perlenbestickt', 'gewässern', 'ansässig', 'erweckt', 'arten', 'jun']","['by', 'in']","['see', 'traumüber']",8
+430,"['aufgetragen', 'stein', 'ich', 'sie', 'getragen', 'fester', 'und', 'morgengrauen']","['dich', 'sternen']","['haus', 'weiß']",8
+432,"['gedichtekarussell', 'geht', 'magen', 'und', 'teller', 'poetisch', 'martina']","['frivolities', 'lg', 'den']","['ähnlich', 'ja', 'mutter']",7
+435,"['anstrengend', 'siesta', 'frivolities', 'sightseeing', 'massiertest', 'legtest']","['blütenkranz', 'lylo', 'campari', 'abgelegt']","['wirt', 'nahmen', 'lächelte', 'duftenden']",6
+438,"['spanisch', 'geburtstagsfest', 'frivolities', 'du']","['manchega', 'klatschtest', 'camarero', 'lylo', 'rioja', 'reichtest']","['glas', 'leer', 'tisch', 'da', 'es', 'mir']",4
+439,"['mai', 'spanisch', 'geburtstagsfest', 'frivolities', 'ich']","['lylo', 'sensatione', 'emotione', 'gast', 'du']","['glas', 'leer', 'zu', 'wochenende', 'tisch']",5
+441,"['frivolities', 'frühling', 'straßencafe', 'grauhaarige']","['begreifende', 'lylo', 'cremefarbenen', 'aufblitzt', 'führst', 'abgelegt']","['scheint', 'endlich', 'wundern', 'nebentisch', 'kaffeetasse', 'gewartet']",4
+444,"['öl', 'zitronensaft', 'träufelte', 'branzino', 'meinen', 'feb']","['lylo', 'abgelegt', 'by', 'in']","['und', 'darauf', 'knoblauch', 'ab']",6
+445,"['öl', 'darauf', 'zitronensaft', 'träufelte', 'knoblauch', 'branzino', 'sorgfältig', 'frivolities']","['sonnenpünktchen', 'fischlokal']","['seine', 'und']",8
+447,"['inspired', 'neste', 'morgentrost', 'morgenrad', 'morgenpuls', 'schoßes']","['lyric', 'lylo', 'mitlichem', 'abgelegt']","['den', 'dreht', 'durch', 'gebiert']",6
+448,"['es', 'gell', 'grüße', 'den', 'wortmeer', 'inspired', 'liebe']","['lylo', 'lyric', 'neste']","['hinein', 'alltag', 'kennen']",7
+449,"['grüße', 'mai', 'liebe', 'hammerburner', 'antwortgedicht', 'altaa']","['lylo', 'fabian', 'uta', 'petros']","['ursprüngliche', 'rockt', 'ma', 'bude']",6
+452,"['berührt', 'erde', 'himmel', 'inspired', 'sehnsuchtsaugen', 'nebelfingern', 'leibesfrucht']","['lyric', 'abgeernteter', 'lylo']","['die', 'verheißen', 'lichen']",7
+453,"['leibesfrucht', 'frucht', 'worte', 'dass', 'dh', 'usw', 'auslösen', 'wort']","['gedichte', 'die']","['reaktionen', 'ist']",8
+455,"['erde', 'himmel', 'inspired', 'rohe', 'feuerzungen']","['lyric', 'lylo', 'novembermorgen', 'mitlichem', 'abgelegt']","['pochen', 'schlund', 'blutes', 'saugt', 'windet']",5
+456,"['tod', 'bon', 'natur', 'fulminant', 'der', 'abgenutzt']","['nov', 'bonanzamargot', 'naturgewalt', 'gruß']","['aber', 'ist', 'nicht', 'sonntag']",6
+458,"['diesen', 'morgen', 'inspired', 'verflimmert']","['lyric', 'sommerrosen', 'lylo', 'nachtgedanken', 'mitlichem', 'abgelegt']","['wenn', 'an', 'säuseln', 'strecken', 'punkte', 'lichte']",4
+459,"['aug', 'morgen', 'berührt', 'angelface', 'herraermel', 'gast', 'flügel', 'vorging']","['maier', 'helmut']","['die', 'kurzem']",8
+461,"['ton', 'inspired', 'murmelndes', 'gewunden', 'geflecht', 'wortverliebt']","['lyric', 'lylo', 'mitlichem', 'abgelegt']","['rosenkranz', 'gebet', 'entrinnen', 'stilles']",6
+463,"['musik', 'inspired', 'lyrik', 'beatmet', 'erahne', 'jubilieren']","['lyric', 'lylo', 'mitlichem', 'abgelegt']","['summen', 'seufzt', 'und', 'liedern']",6
+464,"['musik', 'gedicht', 'jun', 'uta', 'kompliment', 'inspired']","['lylo', 'gruß', 'wortrn', 'königindernacht']","['erneut', 'und', 'lyrik', 'ein']",6
+466,"['inspired', 'äcker', 'verspreche', 'neugierigen', 'barfuss', 'erfülle']","['lyric', 'lylo', 'abgelegt', 'vorspiel']","['rund', 'blühenden', 'landschaft', 'gleicher']",6
+467,"['miro', 'ich', 'jun', 'einnisten', 'unterlandes', 'seidenweichen']","['friendslyrik', 'ansteigende', 'bewässern', 'grins']","['bei', 'aufgenommen', 'leicht', 'werken']",6
+469,"['spürte', 'inspired', 'nacht', 'haar', 'süßte', 'wallen', 'undercover']","['lyric', 'lylo', 'abgelegt']","['die', 'ich', 'bedingung']",7
+470,"['spürte', 'inspired', 'ich', 'nacht', 'haar', 'mrz', 'süßte', 'schmelz']","['lyric', 'lylo']","['die', 'norden']",8
+473,"['kost', 'kocherei', 'topf', 'lebe', 'inspired', 'mrz']","['lyric', 'streicheltopf', 'gedankenwünsche', 'flanier']","['hoch', 'ich', 'schmackhafte', 'zahllos']",6
+476,"['provence', 'der', 'mauer', 'bauche', 'bunten', 'inspired']","['lyric', 'schwalbennestern', 'rezitiertest', 'lylo']","['tisch', 'freunde', 'deren', 'für']",6
+478,"['schlaflos', 'bedeutet', 'schreilos', 'farblos', 'inspired', 'versuchtes', 'schattenbilder', 'blutarm']","['lyric', 'lylo']","['trostpflaster', 'blutet']",8
+479,"['letters', 'weihnachtsnah', 'warmem', 'sternenbestickt', 'glöckchenklang', 'flockenweise']","['lylo', 'samtet', 'love', 'abgelegt']","['dunkelblau', 'christkinds', 'denk', 'wiegt']",6
+482,"['er', 'signora', 'tischchen', 'pippo', 'kleinen', 'letters']","['lylo', 'vorbeiflaniert', 'linksschwung', 'leuchtendrotes']","['ja', 'auf', 'die', 'hier']",6
+483,"['erinnerungen', 'luna', 'ich', 'jun']","['lylo', 'lg', 'weinig', 'lieblingscousine', 'alltagsgefühl', 'alltagsform']","['es', 'auch', 'ja', 'ort', 'zu', 'der']",4
+485,"['dich', 'egal', 'sehe', 'ich', 'bist', 'du', 'denke', 'letters']","['deine', 'spüre']","['wo', 'neben']",8
+488,"['freundin', 'und', 'prosy', 'mich', 'weiche']","['letters', 'meine', 'lylo', 'nerzchen', 'lichterchen']","['nie', 'er', 'roman', 'seiner', 'sagte']",5
+489,"['freundin', 'und', 'prosy', 'mich', 'weiche']","['meine', 'nerzchen', 'lichterchen', 'kohlestückchen', 'goldpünktchen']","['nie', 'er', 'roman', 'seiner', 'sagte']",5
+491,"['sprechen', 'dich', 'will', 'wie', 'ich', 'legst', 'deiner', 'letters', 'du']",['deines'],['sie'],9
+492,"['sprechen', 'ich', 'dich', 'will', 'wie']","['gefühlsausdruck', 'blumiges', 'liebeslyrik', 'deiner', 'du']","['wochenende', 'schweigen', 'was', 'bei', 'wiederhole']",5
+494,"['flügel', 'bist', 'mrz']","['lylo', 'liebesflug', 'entschwebt', 'frühlingshauch', 'traumtänzer', 'pirouetten', 'abgelegt']","['lässt', 'doch', 'ich', 'wirbeln', 'tönt', 'lädt', 'leiser']",3
+495,"['flügel', 'xxx', 'sprachlos', 'letters', 'wunderbar', 'sparchlos']","['lg', 'dir', 'liebesflug', 'lylo']","['zu', 'es', 'macht', 'verleiht']",6
+496,"['flügel', 'letters', 'schnallen', 'liebesflug', 'torkeln']","['lylo', 'love', 'abgelegt', 'neidisch', 'lenken']","['weiß', 'jetzt', 'machten', 'zuviel', 'gewollt']",5
+497,"['hast', 'du', 'bist', 'mich', 'feb']","['lylo', 'stürzest', 'hinaufgestürmt', 'einundzwanzigster', 'hochseil']","['februar', 'und', 'die', 'der', 'überschwemmt']",5
+498,"['februar', 'und', 'wohlverdienten', 'ungeahnten', 'gratuliere', 'liepste']","['einundzwanzigster', 'lylo', 'du', 'hast']","['manchmal', 'dem', 'schwerlich', 'feuchter']",6
+499,"['februar', 'hast', 'einundzwanzigster', 'du', 'bist', 'letters', 'mich']","['stürzest', 'hinaufgestürmt', 'lylo']","['und', 'die', 'der']",7
+500,"['letters', 'sieger', 'reiseproviant', 'verlässt', 'erwünscht', 'verständnis']","['lylo', 'love', 'abgelegt', 'feb']","['bleiben', 'wirst', 'kraft', 'kommentare']",6
+501,"['wohnst', 'letters', 'köcheln', 'du', 'erwünscht']","['lylo', 'liebe', 'love', 'abgelegt', 'in']","['stets', 'gebaut', 'sorgsam', 'gewiss', 'herd']",5
+502,"['glg', 'paulchen', 'leg', 'gib', 'letters', 'spüren', 'deine', 'schoß']","['in', 'dich']","['lass', 'kopf']",8
+503,"['leg', 'gib', 'letters', 'spüren', 'deine', 'schoß']","['in', 'dich', 'lylo', 'love']","['lass', 'kopf', 'möchte', 'diesen']",6
+504,"['bin', 'der', 'die', 'ich', 'dich', 'das', 'liebt', 'letters', 'deine']",['erkämpfst'],['über'],9
+505,"['heut', 'blut', 'meinem', 'wegemale', 'sieges', 'hautfetzen', 'errungen']","['lyric', 'lylo', 'abgelegt']","['zeichnungen', 'gebissen', 'fahnen']",7
+506,"['rückt', 'ver', 'rückst', 'starr', 'verrückt', 'mich', 'verrücken']","['du', 'lylo', 'gleichzusetzen']","['sich', 'unverrückbar', 'philosophien']",7
+509,"['sei', 'frei', 'vorbei', 'unfrei', 'experiments', 'gefühlsduselei', 'duselei']","['lyric', 'lylo', 'abgelegt']","['was', 'niemals', 'hinter']",7
+510,"['sei', 'frei', 'vorbei', 'unfrei', 'gefühlsduselei', 'duselei', 'experiments']","['liebe', 'lyric', 'lylo']","['was', 'niemals', 'hinter']",7
+512,"['ketten', 'kettenliebe', 'experiments', 'kettenleben', 'gekettetes', 'gekettete', 'liebe']","['lyric', 'lylo', 'abgelegt']","['geliebte', 'okt', 'leben']",7
+515,"['möchte', 'sternenfrühstück', 'morgenauferstehung', 'liebestode']","['lyric', 'nächtigung', 'herzensreste', 'dich', 'lylo', 'love']","['mit', 'zerzausten', 'vererben', 'sollst', 'schliefe', 'kaufen']",4
+516,"['scheue', 'kamera', 'gemerkt', 'fabulös', 'experiments', 'schrei', 'okt', 'kamerascheu']","['lyric', 'lylo']","['kein', 'sieht']",8
+517,"['kein', 'experiments', 'schrei', 'hoffnungslos', 'blicklos', 'wortlos', 'wfschmid']","['lyric', 'lylo', 'abgelegt']","['wut', 'los', 'hoffnung']",7
+518,"['experiments', 'wortklingender', 'tonsinn', 'stimmenklang', 'sinnklänge', 'schreibklang', 'ohrschmeichelnder', 'lesenssinn', 'lesensklang']",['lyric'],['wortklang'],9
+519,"['wfschmid', 'experiments', 'wortklingender', 'tonsinn', 'stimmenklang', 'sinnklänge', 'schreibklang', 'ohrschmeichelnder', 'lesenssinn']",['lyric'],['wortklang'],9
+521,"['zauberern', 'vorschiebst', 'stampfst', 'seiltänzern', 'schaukle']","['lyric', 'kinderwiege', 'ballst', 'lylo', 'love']","['unterlippe', 'ungerechtigkeiten', 'trotzig', 'tigern', 'manne']",5
+522,"['rot', 'der', 'die', 'openbook', 'mitschreiben', 'kuß', 'explodieren', 'bluts', 'markise']",['games'],['wundert'],9
+525,"['bin', 'der', 'rot', 'die', 'das', 'dich', 'ich', 'feb']","['lylo', 'in']","['sorglos', 'und']",8
+526,"['rot', 'games', 'schlägt', 'umhülle']","['lyric', 'fieberschauern', 'lylo', 'krustet', 'spielbrett', 'grobes']","['das', 'qual', 'näht', 'krallen', 'kampfes', 'höllenfeuer']",4
+528,"['weiß', 'will', 'games', 'dich', 'ich']","['deiner', 'in', 'du', 'lyric', 'wolkenbett']","['sollen', 'das', 'wie', 'händen', 'die']",5
+529,"['weiß', 'morgen', 'freue', 'ich', 'kommentierst', 'bie', 'dir']","['lylo', 'vorbeischaust', 'vorbeizuschauen']","['jeden', 'beider', 'will']",7
+531,"['schwarz', 'spüren', 'will', 'die', 'du', 'lerne', 'maske', 'games']","['deinen', 'deine']","['fliegen', 'wie']",8
+532,"['schwarz', 'spüren', 'will', 'die', 'stolzer', 'schwarzträger', 'du', 'schattenwolf']","['deinen', 'games']","['lerne', 'ich']",8
+535,"['würme', 'highlight', 'formulierungen', 'aug', 'uta', 'betrifft', 'mich', 'kisses']","['lylo', 'gruß']","['lebe', 'ich']",8
+538,"['kisses', 'wolkenküsse', 'nachtkleides', 'gedankenhimmel', 'liebesflüstern', 'ergießen']","['lyric', 'lylo', 'abgelegt', 'in']","['breiten', 'zaubern', 'schweben', 'schwarzen']",6
+540,"['beiträge', 'aug', 'bemoost', 'lust', 'flutet']","['lyric', 'lylo', 'abgelegt', 'verlangens', 'kisses']","['streicht', 'moos', 'verfassen', 'quelle', 'neuere']",5
+541,"['verträumte', 'kisses', 'küsse', 'traumbrücken', 'nischen', 'schmelzen']","['lyric', 'lylo', 'abgelegt', 'vorspiel']","['spur', 'köstlich', 'morgens', 'hals']",6
+543,"['kisses', 'sternenregen', 'sternenküsse', 'samtet', 'mantel', 'flügel']","['lyric', 'lylo', 'abgelegt', 'jun']","['dunklen', 'tragen', 'wachsen', 'fallen']",6
+546,"['suchen', 'deinen', 'meine', 'sehnsuchtsworte', 'morgensonnennacktheit', 'morgendämmerung', 'geflüster', 'torkeln']","['erwachens', 'deine']","['finden', 'tasten']",8
+547,"['unser', 'kisses', 'dein', 'bein', 'umschlingt', 'umfängt', 'nacht']","['lyric', 'lylo', 'abgelegt']","['schlägt', 'arm', 'ist']",7
+549,"['kirschblüte', 'kisses', 'verliebte', 'schneeweiß', 'küsstest', 'frühlingshänden', 'bedecktest']","['lyric', 'lylo', 'abgelegt']","['erwachte', 'träume', 'meine']",7
+550,"['kirschblüte', 'währt', 'wenigste', 'immerwiederkehr', 'lyrikerin']","['lylo', 'donnavivace', 'kisses', 'drück', 'angenehmes']","['ist', 'kurz', 'was', 'zeitlos', 'tausende']",5
+552,"['kisses', 'traumbrücke', 'plätschern', 'baust', 'springe']","['lyric', 'lylo', 'abgelegt', 'glücks', 'in']","['mitten', 'leise', 'brücke', 'schlaf', 'wellen']",5
+554,"['kisses', 'verblassen', 'morgenküssen', 'liebevoll', 'hellen', 'schmiegt', 'weich']","['lyric', 'lylo', 'abgelegt']","['the', 'day', 'after']",7
+557,"['rufen', 'kisses', 'wölbt', 'küsse', 'lider', 'glühen']","['lyric', 'lylo', 'abgelegt', 'deine']","['brennen', 'engel', 'bild', 'traum']",6
+558,"['rufen', 'kisses', 'mai', 'wölbt', 'küsse', 'deine']","['lyric', 'lylo', 'abgelegt', 'caliente_in_berlin']","['flüchten', 'seufz', 'lider', 'werd']",6
+560,"['kisses', 'schürze', 'märchenmorgen', 'fange', 'reitet', 'prinz']","['lyric', 'lylo', 'abgelegt', 'prinzessin']","['pferd', 'regnet', 'offenen', 'hebt']",6
+561,"['maria', 'antwort', 'sylvia', 'maiensonne', 'maienmorgen', 'betreffend']","['dir', 'lylo', 'kisses', 'ich']","['bernhard', 'thomas', 'entdeckt', 'eintrag']",6
+563,"['nachtkuss', 'kisses', 'himmelsbrücken', 'begibt', 'schwimmt', 'zärtlicher']","['lyric', 'lylo', 'abgelegt', 'ufern']","['atemlos', 'strom', 'reitet', 'läuft']",6
+564,"['träume', 'linnen', 'lavendels', 'gemildert', 'chilischoten']","['lyric', 'lylo', 'winkeligen', 'love', 'sträuße']","['zopf', 'schlendern', 'marktplatz', 'kühles', 'einlädt']",5
+565,"['traumhaft', 'aug', 'wunderschöne', 'wahrlich', 'fankurve', 'bummel', 'riechen', 'helmut', 'uta', 'träume']",[],[],10
+567,"['stammes', 'seidnen', 'seelenstammbaum', 'paukenwirbel', 'baumelt', 'ritzt']","['lyric', 'lylo', 'love', 'abgelegt']","['rinde', 'muschel', 'rauschen', 'ihres']",6
+568,"['muschel', 'rauschen', 'seins', 'bonbon', 'aug', 'uta', 'paradies', 'malen']","['meines', 'gruß']","['das', 'ohr']",8
+571,"['ist', 'jul', 'gruß', 'künstlich', 'gast']","['lylo', 'petros', 'herzureißen', 'grüße', 'rüberschick']","['das', 'nicht', 'kunst', 'hin', 'simpel']",5
+573,"['nach', 'wälzten', 'versprühte', 'verschlingend', 'talfahrt', 'mäander']","['lyric', 'lylo', 'love', 'abgelegt']","['stürzten', 'bliebe', 'wänden', 'steinen']",6
+574,"['petros', 'talfahrt', 'mai', 'erinnerung', 'ruhende', 'eilende', 'grüße']","['uta', 'helmut', 'liebe']","['schaufeln', 'ganzes', 'nach']",7
+576,"['flieder', 'zweisamkeit', 'traume', 'sanftem']","['lyric', 'lylo', 'love', 'abgelegt', 'lenden', 'schmiegt']","['zögernd', 'weißem', 'insel', 'vertrautheit', 'neigt', 'während']",4
+577,"['flieder', 'wälzt', 'worten', 'mai', 'traume', 'sanftem']","['lyric', 'lylo', 'love', 'abgelegt']","['sich', 'zweisamkeit', 'zögernd', 'weißem']",6
+579,"['die', 'unerwarteter', 'zerrann']","['lyric', 'dich', 'kündend', 'lylo', 'love', 'in', 'mandoline']","['jahre', 'all', 'werde', 'jetzt', 'zupfen', 'zitternde', 'spülte']",3
+580,"['melancholisch', 'uta', 'hell', 'die']","['grüße', 'lyric', 'dich', 'kündend', 'lylo', 'liebe']","['jahre', 'trotzdem', 'all', 'werde', 'niederknien', 'mai']",4
+582,"['nährte', 'ergoss', 'erbleichte', 'morgenpuls', 'hellen', 'puls']","['lyric', 'lylo', 'love', 'abgelegt']","['legte', 'morgens', 'neuen', 'hitze']",6
+584,"['wattig', 'unaufgeregtheit', 'gleichförmigkeit', 'novembergrau']","['lyric', 'lylo', 'love', 'umschmeichelt', 'abgelegt', 'nebeln']","['seiner', 'lassen', 'ähnelt', 'wesens', 'herde', 'tröstend']",4
+585,"['regenbogen', 'grau', 'gleichförmigkeit', 'buntheit', 'das', 'nov']","['helmut', 'petros', 'regenbogenbunte', 'grüße']","['trug', 'man', 'auch', 'und']",6
+587,"['träumebetrunken', 'regengeküsst', 'nebelumflossen', 'kahlschwarz', 'herbstzeitgelöst', 'gestraucht']","['lyric', 'gebauscht', 'behaucht', 'gebäumt']","['rotgelb', 'herbstzeit', 'gereckt', 'gerauscht']",6
+588,"['herbst', 'okt', 'elsa', 'quadratur', 'kreises', 'graulen', 'chapeau', 'helmut']","['uta', 'gast']","['man', 'spürt']",8
+590,"['stumm', 'geliebter', 'worte', 'liebe']","['lyric', 'lylo', 'love', 'abgelegt', 'by', 'dich']","['meinem', 'schweigen', 'braucht', 'denken', 'warum', 'tanzen']",4
+592,"['apr', 'salz', 'wangen', 'strand', 'meeresrauschend', 'berauschte', 'lg', 'wortmeer']","['caliente_in_berlin', 'rieselt']","['irgendwie', 'vergangenen']",8
+594,"['tears', 'schmucklos', 'mimosen', 'knicken', 'streuen', 'düfte']","['lyric', 'lylo', 'abgelegt', 'by']","['vergänglichkeit', 'saft', 'äste', 'grün']",6
+596,"['tears', 'wortgefühl', 'stimmenstreicheln', 'pferden', 'memoriam', 'danzer']","['lyric', 'lylo', 'abgelegt', 'by']","['poet', 'georg', 'blieb', 'nahm']",6
+597,"['hochsensibel', 'derb', 'wieviele', 'facetten', 'ah', 'poetisch', 'hobo']","['tears', 'jun', 'ps']","['nummer', 'werk', 'unglaublich']",7
+599,"['närrin', 'tears', 'rotfunkelndem', 'kussesmund', 'hüpfenden']","['lyric', 'colombine', 'lylo', 'demaskierung', 'bommeln']","['wippend', 'vorüber', 'takt', 'röcken', 'grausamen']",5
+602,"['tears', 'verglänzt', 'tränenasche', 'pflückst', 'stürme', 'trugst']","['lyric', 'lylo', 'abgelegt', 'glücks']","['träne', 'scheitel', 'asche', 'als']",6
+605,"['den', 'suche', 'tears', 'tränenklang', 'teichen', 'abschiedsliedes', 'meiner']","['lyric', 'lylo', 'deinen']","['wäldern', 'städte', 'fluren']",7
+606,"['wäldern', 'den', 'tears', 'glücks', 'tränenklang', 'abschiedsliedes']","['deines', 'jan', 'lyric', 'lylo']","['suche', 'teichen', 'städte', 'fluren']",6
+608,"['herbst', 'tears', 'schemengleich', 'raureif', 'krächzt']","['lyric', 'lylo', 'abgelegt', 'dein', 'bist']","['verweht', 'unsre', 'krähe', 'heiterkeit', 'bunter']",5
+609,"['herbst', 'kerzen', 'trübsal', 'winterspeisen', 'vortragsweise', 'vernaschen']","['herbsternten', 'anspült', 'labe', 'furchtlosigkeit']","['sommer', 'und', 'zünd', 'vermisst']",6
+612,"['sep', 'langsam', 'kathrin', 'innig', 'gegriffen', 'zehen', 'liebes', 'tears']","['lylo', 'hervokriechen']","['alltag', 'richtig']",8
+614,"['tears', 'deiner', 'sternenlosen', 'nascht', 'datteln', 'stränden']","['lyric', 'lylo', 'deinen', 'abgelegt']","['glück', 'cocktails', 'räkelt', 'sinnlichkeit']",6
+615,"['plastiklichterkette', 'arrangiert', 'sehnt', 'sternen', 'tears', 'deiner']","['lyric', 'lylo', 'nascht', 'sternenlosen']","['dessen', 'wer', 'sich', 'glück']",6
+617,"['tears', 'mutlos', 'frierend', 'ertränken', 'nachtgedanken', 'ungewissheit']","['lyric', 'lylo', 'abgelegt', 'zittert']","['endlose', 'kreis', 'loch', 'frisst']",6
+619,"['friends', 'zerschrammen', 'tropfnasen']","['stinketuch', 'rumhexen', 'klieren', 'insbettgehn', 'blogchef', 'anzukotzen', 'lyric']","['zu', 'überhören', 'zerstampfen', 'zahnpasta', 'wöchentlich', 'wände', 'vorm']",3
+621,"['letter', 'winteräpfeln', 'heranreift', 'frühlingssehnsucht', 'züngelt', 'verschwenderisch']","['lyric', 'lylo', 'abgelegt', 'apfelbaum']","['übersät', 'unschuldigen', 'harten', 'fuße']",6
+622,"['start', 'xxx', 'hörst', 'voice', 'opa']","['lg', 'mrz', 'soundmäßig', 'grandy', 'lyric']","['gleiche', 'einmal', 'gut', 'frage', 'am']",5
+623,"['start', 'hörst', 'gleiche', 'voice', 'einmal', 'opa']","['lyric', 'rot', 'soundkarte', 'abgelegt']","['frage', 'am', 'natürlich', 'bitte']",6
+624,"['wohnst', 'meiner', 'du', 'buntheit']","['lyric', 'dir', 'lylo', 'love', 'in', 'liebkosung']","['entladen', 'eiseskälte', 'welt', 'stürme', 'rütteln', 'iss']",4
+625,"['voice', 'games', 'lyric', 'anmelden', 'anlegen', 'nächstes', 'lyriclove']","['abgelegt', 'feb', 'lylo']","['weblog', 'twoday', 'net']",7
+627,"['voice', 'beiträge', 'feb', 'neuere']","['lyric', 'abgelegt', 'lylo', 'lyriclove', 'anmelden', 'anlegen']","['verfassen', 'kleines', 'geschenk', 'ältere', 'kommentare', 'kommentar']",4
+628,"['wechselstrombrummen', 'nachlassenden', 'hörvermögens', 'aussteuern', 'umher', 'aufgrund', 'voice']","['feb', 'opa', 'gast']","['muß', 'mach', 'höre']",7
+629,"['voice', 'kleines', 'geschenk', 'anmelden', 'anlegen', 'lyric', 'nächstes']","['abgelegt', 'lyriclove', 'feb']","['weblog', 'twoday', 'net']",7
+630,"['rubrik', 'euch', 'ich', 'zischfrei', 'tonqualität', 'einzurichten', 'aufzusprechen']","['schattenwolf', 'lyric', 'lylo']","['es', 'eine', 'kopfhörer']",7
+631,"['ja', 'ich', 'es', 'ist', 'erotisch', 'stimme', 'gedichte']","['lylo', 'bussi', 'tonqualität']","['jetzt', 'aber', 'auch']",7
+634,"['tour', 'wolkenloses', 'mitkamst', 'gehimmelte', 'lustvolles', 'entfesselt', 'petros', 'helmut']","['nonsense', 'jan']","['nochmal', 'meine']",8
+640,"['vibriert', 'nonsense', 'meinem', 'tralalala', 'libretto', 'geigt', 'flötet']","['lyric', 'lylo', 'einprägsam']","['trällert', 'jubelt', 'höchsten']",7
+641,"['vibriert', 'nonsense', 'meinem', 'tralala', 'mrz', 'tralalala', 'libretto']","['lylo', 'lyric', 'geigt']","['es', 'auch', 'trällert']",7
+643,"['pfefferstreuer', 'nonsense', 'brennt', 'verschwenderischen', 'unlöschbar', 'köchelndes']","['lyric', 'bratspieß', 'lylo', 'abgelegt']","['mann', 'ein', 'scharfer', 'grill']",6
+644,"['widerstehen', 'lohn', 'üblicherweise', 'veröffentliche', 'pfefferstreuer', 'ich']","['nonsense', 'opa', 'brennt', 'jan']","['verdammt', 'guter', 'ein', 'diesmal']",6
+646,"['henne', 'erpel', 'nonsense', 'plustert']","['lyric', 'livian', 'lylo', 'gackert', 'trippelt', 'abgelegt']","['bitte', 'der', 'übermut', 'wahn', 'schönstes', 'nervös']",4
+647,"['henn', 'ich', 'opa', 'die', 'stiefschwiegermutter', 'brenne', 'der', 'und', 'cd']",['zerstritten'],['das'],9
+649,"['soll', 'brennen', 'herzen', 'deinem', 'liebe', 'meine', 'fingerkuppenflügeln']","['in', 'lyric', 'atemgeflüster']","['liebesbrand', 'brandblasen', 'bewachen']",7
+650,"['fenster', 'schlimme', 'inkonkret', 'bratenduft', 'anbrate', 'öffnest', 'flüchtig', 'öffne', 'nonsense']",['lylo'],['das'],9
+652,"['beiträge', 'zerbissener', 'schmerzmund', 'paart', 'feuermeer', 'abortus', 'gebiert', 'neuere']","['lyriclove', 'anmelden']","['ältere', 'voll']",8
+653,"['liebe', 'die', 'ist', 'der', 'und', 'nicht', 'auch', 'ich']","['leidenschaft', 'abortus']","['man', 'aber']",8
+654,"['verfassen', 'kommentare', 'kommentar', 'sehnsucht', 'jun', 'abgelegt', 'okt', 'zerbissener']","['lylo', 'in']","['schmerzmund', 'paart']",8
+655,"['abortus', 'zerbissener', 'schmerzmund', 'paart', 'feuermeer', 'sehnsucht', 'gebiert', 'leidenschaft', 'anmelden']",['lyriclove'],['voll'],9
+656,"['kochen', 'beiträge', 'tage', 'schwitze', 'zäh', 'wälzt', 'adern', 'neuere']","['lyriclove', 'anmelden']","['ältere', 'wenn']",8
+657,"['kantz', 'bruni', 'vulkans']","['lg', 'uta', 'grüße', 'reh', 'hineinklicken', 'herausgepickt', 'helmut']","['kochen', 'tage', 'überzeugend', 'wortbehagen', 'transportieren', 'kammern', 'kalte']",3
+658,"['kochen', 'tage', 'wenn', 'schwitze', 'zäh', 'sehnsucht', 'wälzt', 'adern', 'anmelden']",['lyriclove'],['die'],9
+660,"['lop', 'unglaublich', 'stachel', 'jun', 'ritzt', 'wop']","['fabian', 'grüße', 'boo', 'lylo']","['tanzes', 'realitätsnah', 'loo', 'bop']",6
+662,"['herbstrotes', 'scheitel', 'haar', 'umarmten', 'sonnengespinste']","['nachtgrünem', 'herbstroten', 'dunstiger', 'blattgoldgesprenkel', 'aufließ']","['der', 'morgen', 'zeichnete', 'trieb', 'taube']",5
+663,"['helmut', 'grüße', 'liebe']","['spamvermeider', 'plauder', 'fachtrottel', 'entspamen', 'herbstrotes', 'lylo', 'maier']","['nicht', 'gerne', 'kommentar', 'der', 'er', 'ich', 'ihn']",3
+666,"['kathrin', 'träumend', 'lächelnden', 'traumgeschenk', 'liebereien', 'inspirierend', 'erfreue', 'sanftes']","['deinen', 'lidern']","['von', 'hindurch']",8
+668,"['ille', 'gelenkt', 'kochen', 'kennt', 'sehnsucht', 'lg']","['lylo', 'worte', 'wälzt', 'schwitze']","['tage', 'wohl', 'gekonnt', 'die']",6
+669,"['kochen', 'tage', 'wenn', 'schwitze', 'zäh', 'sehnsucht', 'wälzt', 'adern', 'anmelden']",['lyriclove'],['die'],9
+670,"['die', 'deiner', 'glühten', 'glockenläuten', 'geseufzt', 'gedankengut', 'gebaren', 'gemeinsamkeiten']","['lenden', 'gedanken']","['wiederkehr', 'geweint']",8
+671,"['wer', 'leben', 'hinauf', 'bewahren', 'kann', 'positive', 'hinunter']","['deiner', 'glockenläuten', 'an']","['das', 'vorbei', 'auch']",7
+673,"['beiträge', 'kondensiert', 'flugzeug', 'sattem', 'streifen', 'weißer']","['lyriclove', 'neuere', 'anmelden', 'anlegen']","['fliegt', 'richtung', 'blau', 'schreibt']",6
+674,"['kondensiert', 'flugzeug', 'fliegt', 'sattem', 'sehnsucht', 'streifen', 'weißer']","['lyriclove', 'anmelden', 'anlegen']","['richtung', 'blau', 'schreibt']",7
+676,"['vergessenseins', 'paradieses', 'naschen', 'nabel', 'gedankenparadies', 'strome', 'hissen']","['deinen', 'schmeicheln', 'deiner']","['versenken', 'mast', 'boot']",7
+677,"['texten', 'begeistert', 'deinen', 'wolf', 'schöne', 'wünsche', 'vergessenseins']","['grüße', 'gedankenparadies', 'strome']","['früher', 'schon', 'zeit']",7
+679,"['weinlaub', 'staunenaugen', 'kindergroß', 'herbstgedicht', 'herbstumspült', 'milden', 'umspült', 'stilles']","['träne', 'sommers']","['summen', 'gefüllt']",8
+682,"['beiträge', 'lügen', 'lassend', 'umzug', 'neuere', 'ältere', 'anmelden', 'anlegen']","['lyriclove', 'nächstes']","['hinter', 'weblog']",8
+683,"['traurigkeit', 'schwermut', 'ist', 'ein', 'für', 'gefühle', 'ich']","['positives', 'leichtigkeit', 'mich']","['aber', 'das', 'nicht']",7
+684,"['shorties', 'verfassen', 'kommentare', 'kommentar', 'lassend', 'umzug']","['lylo', 'abgelegt', 'lyriclove', 'nov']","['lügen', 'hinter', 'anmelden', 'anlegen']",6
+685,"['umzug', 'lügen', 'lassend', 'shorties', 'anmelden', 'anlegen', 'weblog', 'nächstes']","['lyriclove', 'lylo']","['hinter', 'twoday']",8
+686,"['beiträge', 'muss', 'philosophisch', 'arschlöcher', 'anscheißen', 'neuere']","['lylo', 'lyriclove', 'letter', 'mrz']","['verfassen', 'ältere', 'kommentare', 'kommentar']",6
+687,"['emma', 'anscheißen', 'unrationell', 'viel', 'oft', 'sie', 'sinnlos', 'läßt']","['gruß', 'lylo']","['völlig', 'lange']",8
+688,"['philosophisch', 'heute', 'muss', 'arschlöcher', 'anscheißen', 'shorties', 'anmelden', 'anlegen']","['lylo', 'lyriclove']","['weblog', 'nächstes']",8
+689,"['die', 'feb', 'dich', 'meine']","['lylo', 'abgelegt', 'by', 'lyric', 'traumtänzen', 'festkleben']","['wenn', 'händen', 'der', 'weil', 'meinen', 'wertlos']",4
+690,"['es', 'verstehen', 'man', 'kann', 'ich', 'meinte', 'stumme']","['liebe', 'und', 'worte']","['nicht', 'oder', 'ist']",7
+691,"['verstehen', 'verstand', 'ohne', 'stummes', 'größten', 'shorties', 'anmelden', 'anlegen', 'nächstes']",['lyriclove'],['weblog'],9
+692,"['deinen', 'umkreisen', 'lidvorhänge', 'augenküsse', 'küsse', 'purzeln']","['lyric', 'lylo', 'love', 'abgelegt']","['öffentlichkeit', 'ausschluss', 'verteilen', 'schließe']",6
+693,"['arbeit', 'glückliche', 'harte', 'belohnt', 'shorties', 'anmelden', 'anlegen', 'nächstes']","['lyriclove', 'lylo']","['manchmal', 'weblog']",8
+698,"['sehnens', 'schlingt', 'funkenregen', 'dichtes', 'begehrlichkeit', 'sprühend']","['lyric', 'lylo', 'love', 'abgelegt']","['traum', 'umschlungen', 'luftig', 'kocht']",6
+699,"['sep', 'dichtes', 'begehrlichkeit', 'voyeure']","['uta', 'petros', 'reitender', 'anheizende', 'wolkiger', 'helmut']","['nebeneinander', 'wusch', 'windstille', 'wassern', 'vorbeiziehende', 'verstoßen']",4
+701,"['schweig', 'mir', 'verträumen', 'verschwiegen', 'rufst', 'sternenglanz']","['lyric', 'lylo', 'love', 'abgelegt']","['schweige', 'süßer', 'schweigen', 'schlaf']",6
+702,"['schweig', 'schweigen', 'sep', 'schweigenden', 'verträumen']","['lyric', 'lylo', 'love', 'sternenglanz', 'abgelegt']","['wem', 'vergönnt', 'mir', 'verschwiegen', 'rufst']",5
+704,"['lust', 'säumst', 'sonnengelbe', 'reifst', 'herbstlich', 'herbstkuss']","['lyric', 'lylo', 'abgelegt', 'by']","['ränder', 'glühend', 'bunt', 'trauben']",6
+705,"['rotleuchtenden', 'blättern', 'sonnengelb', 'wortmeer', 'lust', 'säumst', 'reifst']","['grüße', 'lyric', 'herbstkuss']","['vom', 'sonnengelbe', 'ränder']",7
+708,"['sep', 'worte', 'stumm', 'benutzte', 'ich', 'geliebter', 'liebe']","['reh', 'lylo', 'herzlichst']","['berlin', 'aussuchen', 'zauberhaft']",7
+710,"['züngelst', 'traumohr', 'kosung', 'goldgestäubte', 'wehst']","['lyric', 'lylo', 'love', 'traumbrücken', 'wimpernkranz']","['heisser', 'windest', 'streust', 'lispeln', 'vertrautes']",5
+711,"['bewegt', 'aug', 'nachgefühlt', 'züngelst', 'traumohr']","['lyric', 'kosung', 'goldgestäubte', 'lylo', 'love']","['gestern', 'wind', 'heisser', 'windest', 'streust']",5
+713,"['aug', 'sinnlich', 'flutet', 'ansprechend', 'lg', 'virago', 'mel', 'bemoost']","['fabian', 'lylo']","['erotische', 'fantasie']",8
+714,"['bemoost', 'lust', 'moos', 'flutet', 'lenden', 'verlangens']","['lyric', 'lylo', 'abgelegt', 'lyriclove']","['streicht', 'quelle', 'grün', 'aug']",6
+715,"['zukunftsweisend', 'verbirgst', 'senktest', 'morsezeichen', 'kerkermauern']","['lyric', 'lylo', 'hisst', 'love', 'tropfst']","['hört', 'zäune', 'wässrig', 'wink', 'lanzen']",5
+716,"['jul', 'suchtgefahr', 'verlangens', 'zukunftsweisend', 'kerkermauern']","['lylo', 'fabian', 'uta', 'deinen', 'liebe']","['davon', 'verehrung', 'maya', 'fliegender', 'federn']",5
+718,"['tanzen', 'tangowiege', 'schleiern', 'nächtlich', 'kapriolen', 'meines']","['lyric', 'lylo', 'abgelegt', 'lust']","['will', 'verschmelzen', 'schlagen', 'schwingen']",6
+719,"['ich', 'und', 'schreibforen', 'auch', 'wechselseitig', 'resonanz']","['grauwolfzauberer', 'verlinkung', 'mich', 'lylo']","['mail', 'viel', 'so', 'web']",6
+721,"['erweckt', 'traumüber', 'lippenspitzen', 'leuchtturm', 'erklimme']","['lyric', 'lylo', 'abgelegt', 'lust', 'vorspiel']","['meere', 'südlichen', 'gischt', 'erden', 'wogen']",5
+723,"['nebenan', 'die', 'ich', 'blindflug', 'aufrufen', 'ineinander']","['lylo', 'worte', 'herzlichst', 'bedanke']","['technik', 'klappt', 'kommentar', 'halb']",6
+725,"['seepferdchen', 'meerestiefen', 'flüssigem', 'spiralt', 'reite', 'morgenröte']","['lyric', 'lylo', 'abgelegt', 'lust']","['seinen', 'richtet', 'muscheln', 'neigt']",6
+726,"['bloß', 'nackt', 'vorspiel', 'nachzulesen', 'gleicher', 'jun', 'glut']","['lylo', 'lyric', 'abgelegt']","['regen', 'unter', 'lust']",7
+727,"['stürmische', 'zeiten', 'vergessnen', 'durchbebst', 'funkenflug', 'purpurn', 'lust']","['lyric', 'lylo', 'abgelegt']","['sturm', 'glänzt', 'legst']",7
+729,"['kathrin', 'jun', 'club', 'petros', 'lg', 'miroslav']","['grüße', 'lyric', 'dusanic', 'lylo']","['trio', 'vergnügen', 'inspirierend', 'flotter']",6
+730,"['club', 'flotter', 'dreier', 'lyriclove', 'miroslav', 'dusanic', 'tietz']","['lyric', 'lylo', 'abgelegt']","['eröffneten', 'männer', 'neu']",7
+731,"['bloß', 'nackt', 'flieg', 'wäscht']","['lyric', 'lylo', 'love', 'abgelegt', 'vorspiel', 'glücks']","['steh', 'gleicher', 'hängen', 'mitte', 'rändern', 'schweren']",4
+732,"['miro', 'und', 'fabian', 'glut', 'gedicht', 'entgleist']","['jun', 'by', 'deine', 'tietz']","['ich', 'bitte', 'es', 'ein']",6
+734,"['lust', 'regenlust', 'zischt', 'irrenden', 'blicks', 'schwinge']","['lyric', 'lylo', 'abgelegt', 'vorspiel']","['im', 'klebt', 'gleicher', 'erkenntnis']",6
+736,"['träumelang', 'stetig', 'stürmische', 'hüllt']","['lyric', 'lylo', 'love', 'abgelegt', 'vorspiel', 'nachzulesen']","['fließt', 'zeiten', 'honig', 'süß', 'still', 'trägt']",4
+739,"['see', 'steuere', 'ruders', 'delphingesangs', 'süßem']","['lyric', 'lylo', 'abgelegt', 'lust', 'in']","['schwellen', 'schlag', 'bug', 'wispern', 'ruf']",5
+742,"['beflügelt', 'ungeduld', 'fabelwesen', 'reite', 'lust', 'vorspiel']","['lyric', 'lylo', 'abgelegt', 'nachzulesen']","['erwache', 'armen', 'schrei', 'flügeln']",6
+744,"['rötlich', 'beflügelt', 'schmelzen', 'lust', 'glühen']","['lyric', 'lylo', 'abgelegt', 'vorspiel', 'nacktheit']","['wir', 'rosa', 'schimmer', 'eis', 'schnee']",5
+745,"['wein', 'gläschen', 'wärmenden', 'genehmigen', 'prösterchen', 'uta']","['jun', 'wortmeer', 'beflügelt', 'lylo']","['dazu', 'vorstellen', 'passen', 'werd']",6
+747,"['kinder', 'strauch', 'annette', 'ufer', 'wales', 'gb', 'schmaler', 'kinderspiele']","['jun', 'gast']","['durch', 'geworden']",8
+748,"['kinderspiele', 'feuchten', 'bunten', 'vorspiel']","['lyric', 'lylo', 'love', 'abgelegt', 'nachzulesen', 'jun']","['spielen', 'kinder', 'ufer', 'wächst', 'trinken', 'unseren']",4
+749,"['vertont', 'strumpfbändern', 'literaturfreundin', 'knabbere', 'flegeln', 'rieger']","['lyric', 'lylo', 'love', 'abgelegt']","['griff', 'gitarre', 'gesungen', 'schüttle']",6
+750,"['elsa', 'denschie', 'deine', 'schmunzelgrüße', 'verlinkst']","['lylo', 'uta', 'petros', 'grüße', 'jul']","['verregneten', 'neugierige', 'must', 'bielefeld', 'mitreißend']",5
+752,"['kinder', 'träume', 'erwachsenenstrom', 'kinderspiele', 'ufern', 'vorspiel', 'love']","['lyric', 'lylo', 'abgelegt']","['schwimmen', 'greifen', 'wachsen']",7
+755,"['seidenflügel', 'samtener', 'erfrischt', 'brustton', 'tag', 'mai', 'sternenumglänzt', 'schwelenden']","['lylo', 'lyric']","['und', 'umbenennen']",8
+757,"['lust', 'unterzündet', 'stauseen', 'silberflüsse', 'schlecktest']","['du', 'lyric', 'fandango', 'badest', 'erdbeereis']","['zitroneneis', 'zitrone', 'weckst', 'träumte', 'sprühende']",5
+761,"['herzgeflimmer', 'ostern', 'schwarzes', 'mondlicht', 'loch', 'apr', 'sternenschimmer']","['musenmond', 'lichtstraßenmusikant', 'lyric']","['wein', 'noch', 'schoen']",7
+763,"['komm', 'fluten', 'tauchen', 'lust', 'koste', 'sinke', 'schmecke']","['lyric', 'lylo', 'abgelegt']","['eintauchen', 'schenke', 'und']",7
+764,"['komm', 'fluten', 'tauchen', 'lust', 'apr', 'mitschwingt']","['lyric', 'lylo', 'abgelegt', 'schmecke']","['und', 'koste', 'eintauchen', 'sinke']",6
+766,"['kein', 'die', 'spiegelglatt', 'horizonts']","['lyric', 'lylo', 'love', 'sonnengelb', 'abgelegt', 'meines']","['seit', 'nicht', 'nen', 'möwen', 'kreischen', 'himmels']",4
+767,"['oma', 'einmal', 'wie', 'elke', 'ich', 'hopefulwoman']","['dir', 'mrz', 'lylo', 'liebe']","['mehr', 'nichts', 'war', 'es']",6
+770,"['singst', 'schönsten', 'lieder', 'mitreißenden', 'flute', 'ertränke', 'du', 'deines']","['schmückst', 'malst']","['peter', 'südens']",8
+772,"['tiger', 'beute', 'treibt', 'lust', 'fährte']","['lyric', 'lylo', 'bleckt', 'abgelegt', 'keucht']","['jagen', 'hinterhalt', 'dunkles', 'tode', 'gierig']",5
+775,"['zauberwald', 'seliges', 'magier', 'jubelnder', 'elfen', 'umfangen']","['lyric', 'lylo', 'love', 'abgelegt']","['kilometer', 'hexen', 'böse', 'berge']",6
+776,"['zauberwald', 'feb', 'seliges', 'jubelnder']","['lylo', 'lyric', 'dalass', 'love', 'bazi', 'abgelegt']","['nehmt', 'magier', 'kilometer', 'hexen', 'elfen', 'böse']",4
+778,"['tageserwachen', 'sonnenschoß', 'schweigetod', 'schimmels', 'rotgoldenem', 'nächtelanger', 'kussgemundet', 'galoppierend']","['lyric', 'lylo']","['taumeln', 'entfliehen']",8
+781,"['worthaut', 'trinkenden', 'samtene', 'ohrmuscheln', 'liebesflut', 'angstlosigkeit']","['lyric', 'lylo', 'love', 'geflutet']","['strudel', 'drehe', 'strome', 'schwimme']",6
+784,"['glas', 'vernatsch', 'wohle', 'rubin', 'liebesmahl', 'samtet']","['lyric', 'lylo', 'abgelegt', 'lust']","['ein', 'kerzenlicht', 'gläser', 'schwimmt']",6
+787,"['blau', 'himmelblau', 'wolkenschimmels', 'winterkleider', 'unverhüllten', 'himmelweit']","['lyric', 'lylo', 'love', 'blütenduft']","['sich', 'ihre', 'naht', 'lustvoll']",6
+791,"['bea', 'berühren', 'gelungen', 'seele', 'bitter', 'verehrerinnenschar']","['grüße', 'lyric', 'lylo', 'eitles']","['zufall', 'wimmelt', 'vorhof', 'schüttete']",6
+793,"['lichter', 'laken', 'unseren', 'lust', 'schwängert', 'leibern', 'augenblickes']","['lyric', 'atemschwüle', 'lylo']","['summt', 'heitere', 'flackern']",7
+794,"['nicolina', 'fallen', 'pflückenden', 'herbstbaum', 'berauschender', 'reife', 'saftig', 'pralle']","['lylo', 'laken']","['entziehen', 'lichter']",8
+796,"['abendherz', 'sonnenball', 'knistert', 'verlöscht', 'speien', 'keucht']","['lyric', 'lylo', 'love', 'abgelegt']","['geheimnisvoll', 'funken', 'flammen', 'glüht']",6
+797,"['abendherz', 'sonnenball', 'knistert', 'geheimnisvoll', 'verlöscht', 'speien', 'keucht', 'funken', 'flammen', 'glüht']",[],[],10
+799,"['stundenschuhe', 'offenes', 'juwelen', 'schält', 'schimmert', 'flicht']","['lyric', 'lylo', 'love', 'abgelegt']","['weil', 'wiesen', 'spielt', 'schwarzen']",6
+800,"['frauu', 'flicht', 'wunderschönen', 'liebe', 'stundenschuhe']","['lylo', 'jan', 'lyric', 'love', 'frauunvernunft']","['tag', 'wünsche', 'offenes', 'juwelen', 'weil']",5
+805,"['geburtstag', 'meine', 'strumpfbänder', 'ranke', 'glühe', 'duftendem']","['lyric', 'sommerrosen', 'lylo', 'love']","['zärtlichem', 'binde', 'glückwünsche', 'füttere']",6
+807,"['zehenspitzen', 'schluchten', 'feuersprung']","['lyric', 'lylo', 'abgelegt', 'lodert', 'lust', 'verlangens', 'beben']","['abgrund', 'springe', 'schleicht', 'breite', 'vorhang', 'schiebt', 'schenkel']",3
+808,"['gefühlsintensität', 'bewahre', 'ausdruckskraft', 'schluchten', 'feuersprung']","['knuddler', 'cousinchen', 'lodert', 'verlangens', 'beben']","['zehenspitzen', 'virtuelle', 'abgrund', 'springe', 'schleicht']",5
+811,"['nov', 'frollein', 'gruß', 'lieben', 'gedankenbild', 'frauu']","['lylo', 'dir', 'liebe', 'morgana']","['gerne', 'müller', 'el', 'geliebt']",6
+813,"['november', 'hände', 'sommerlachen', 'nähren', 'ernteduft']","['lyric', 'lylo', 'love', 'abgelegt', 'dein']","['netzen', 'klamm', 'kalter', 'steif', 'erstickt']",5
+814,"['herz', 'deine', 'wärmten', 'lodernde', 'herbstlicher', 'eispanzer']","['nov', 'eiszapfen', 'liebe', 'mein']","['langsam', 'wie', 'hohl', 'durchdringen']",6
+816,"['bitter', 'samtherz', 'eitlen']","['lyric', 'dich', 'lylo', 'sehnsuchtsvollen', 'herzschmerz', 'pirouetten', 'abendstern']","['winters', 'pfützen', 'knarrend', 'klirrt', 'gefrorenen', 'ergießt', 'asphalt']",3
+817,"['verschließen', 'aufgetan', 'lücken', 'nov', 'erwacht', 'die']","['lylo', 'bitter', 'gast', 'lyric']","['neu', 'sich', 'nach', 'sterne']",6
+819,"['unaufhaltsam', 'rosenumrankten', 'liebesbrunnen', 'trunk', 'räkelt']","['lyric', 'lylo', 'love', 'abgelegt', 'deiner']","['sammelt', 'brunnen', 'straßen', 'dessen', 'durst']",5
+822,"['erntedank', 'reift', 'morgennebeln', 'herzreben', 'herb']","['lyric', 'lylo', 'love', 'abgelegt', 'blutrot']","['winkt', 'werfen', 'stroh', 'müde', 'schälen']",5
+823,"['ringelnatz', 'wieviel', 'fragst', 'dir', 'du', 'dich']","['okt', 'herbste', 'joachim', 'weichgestänge']","['was', 'de', 'lang', 'von']",6
+825,"['herbst', 'üppigem', 'wehmütiges', 'rotgoldenen', 'pinselstrichen', 'oktobersonne', 'altweibersommerfäden']","['lyric', 'lylo', 'love']","['silbrig', 'spinnt', 'festen']",7
+828,"['september', 'rebstöcken', 'raschelt', 'gaukeln', 'astern']","['lyric', 'lylo', 'love', 'abgelegt', 'trauben']","['schimmert', 'golden', 'zweigen', 'silbern', 'laub']",5
+829,"['gesehen', 'habe', 'ursa', 'seelenfeuer', 'gruß', 'lieben', 'entführen']","['lylo', 'hols', 'herbstzeitloses']","['september', 'gerne', 'ich']",7
+832,"['geduld', 'schauen', 'dich']","['musenlosigkeit', 'sehnsucht', 'lylo', 'umzieht', 'aug', 'geografie', 'hüpf']","['alles', 'diese', 'nicht', 'sie', 'vielleicht', 'aus', 'und']",3
+834,"['verströmt', 'morgenblühen', 'erkennens', 'knospet', 'bettet']","['lyric', 'lylo', 'love', 'abgelegt', 'erwachens']","['lichts', 'wiederfinden', 'herz', 'schwingen', 'tönen']",5
+835,"['freuend', 'ergänze', 'laß', 'aug', 'erblühen', 'herz']","['grüße', 'lyric', 'morgenblühen', 'knospet']","['ein', 'lassen', 'mich', 'verströmt']",6
+837,"['beiträge', 'wegbereiter', 'erfüllung', 'neuere', 'aug', 'love']","['lyric', 'lylo', 'abgelegt', 'lyriclove']","['sind', 'ältere', 'nächte', 'anmelden']",6
+838,"['wahnsinnsgefühl', 'partikel', 'emotionen', 'einzutauchen', 'wegbereiter']","['lyric', 'lylo', 'love', 'abgelegt', 'dir']","['gefehlt', 'vertraut', 'es', 'sind', 'buchstaben']",5
+839,"['wegbereiter', 'love', 'tag', 'erfüllung', 'nacht', 'aug']","['lyric', 'lylo', 'abgelegt', 'lyriclove']","['sind', 'nächte', 'anmelden', 'anlegen']",6
+840,"['zuckerstangen', 'pralinen', 'formt', 'herzförmige', 'schmilzt', 'jul']","['lyric', 'lylo', 'love', 'abgelegt']","['schokolade', 'heiße', 'meiner', 'süße']",6
+841,"['pralinen', 'mengen', 'jul', 'knuddler', 'knuddel', 'schenkst', 'salz', 'schicke']","['caliente_in_berlin', 'mmmmmhhmmmm']","['würden', 'immer']",8
+843,"['rose', 'blütenfingern', 'aufsaugen']","['lyric', 'lylo', 'love', 'schenktest', 'abgelegt', 'pflücke', 'welken']","['letzte', 'werde', 'einmal', 'mitzunehmen', 'hundertsten', 'pressen', 'genüsslich']",3
+844,"['hundertsten', 'heulen', 'herzgehend', 'jul', 'ich', 'rose']","['lylo', 'dich', 'deinem', 'gruß']","['grad', 'werde', 'sitzen', 'letzte']",6
+846,"['beiträge', 'rücken', 'strande', 'ruhen', 'herzensstrand', 'geschmiegt', 'erblicken']","['lyriclove', 'neuere', 'herzens']","['dicht', 'aneinander', 'horizont']",7
+847,"['kurzgedichten', 'kathrin', 'wortbrocken', 'vereinzelten', 'langatmig', 'hingeworfen', 'füllwörter']","['herzens', 'strande', 'lg']","['sätze', 'überlassen', 'vieles']",7
+848,"['herzensstrand', 'rücken', 'strande', 'ruhen', 'geschmiegt', 'erblicken', 'aneinander']","['lyriclove', 'herzens', 'anmelden']","['dicht', 'horizont', 'suchen']",7
+849,"['wortverliebt', 'verlieben', 'worte', 'deiner', 'love', 'liebe', 'lyric']","['lylo', 'abgelegt', 'in']","['suche', 'jul', 'worten']",7
+850,"['karlheinz', 'worte', 'währen', 'wonnigliches', 'wirre', 'widerworte', 'wähnen', 'jul']","['lylo', 'wortverliebt']","['wiedersehen', 'wünschen']",8
+852,"['beute', 'wunden', 'träges', 'pfotest', 'lockenden', 'gelbgestreifter']","['lyric', 'beutesicher', 'lylo', 'abgelegt']","['wälze', 'weibchen', 'schläfrig', 'blinzelt']",6
+853,"['bevor', 'jul', 'weibchen', 'katze', 'luna', 'doch', 'zuzukneifen']","['volution', 'tatzenstreich', 'reh']","['wundere', 'verschieden', 'verabschiedet']",7
+855,"['one', 'two', 'umschmecken', 'sonnengolden', 'näselnd', 'männerbrust']","['deines', 'lyric', 'lylo', 'froschkönig']","['die', 'wahnsinns', 'schlingen', 'quakt']",6
+861,"['hand', 'südliche', 'sehnsuchtsweiter', 'olivenbaums', 'liede', 'entgegenströmt', 'bräunt']","['beschwingten', 'lockend', 'zikaden']","['stamm', 'flimmern', 'düften']",7
+862,"['süchtig', 'verbundenheit', 'schokoladengrüße', 'jun', 'süßem', 'seid', 'süß', 'sillerbetrachter']","['lylo', 'sehnsucht']","['bedeutet', 'hand']",8
+864,"['farbenmeer', 'blütendolden', 'blumenbeete', 'deine', 'sehnsucht', 'ästen', 'wurzeln', 'tauchen', 'blüht']",['regenbogen'],['sind'],9
+865,"['farbenmeer', 'blütendolden', 'blumenbeete', 'beete', 'deine', 'stolpere', 'sehnsucht', 'ästen']","['volution', 'reh']","['ums', 'sind']",8
+867,"['stille', 'letter', 'sinkenden', 'schluchten', 'verhallen', 'verglühen']","['lyric', 'lylo', 'abgelegt', 'flutet']","['schweigt', 'echo', 'abendsonne', 'gipfel']",6
+870,"['keine', 'dunkelgrün', 'dschungel', 'schläft', 'heut', 'jun']","['lylo', 'abgelegt', 'by', 'in']","['kein', 'die', 'und', 'wildbahn']",6
+871,"['kathrin', 'warmgeliebten', 'haselnüssen', 'augensee', 'lyrikerin', 'lyricloverin', 'haselnüsse']","['jun', 'bade', 'süßen']","['nickt', 'baden', 'bzw']",7
+872,"['schwimmen', 'warmgeliebter', 'tränenglücks', 'schilfe', 'gelöstem', 'haselnüsse']","['lyric', 'lylo', 'love', 'abgelegt']","['will', 'liegend', 'schaukeln', 'augenblicken']",6
+873,"['sehnsucht', 'hilft', 'kathrin', 'verbündete', 'sonntagsgruß', 'bezeugt', 'beschwören']","['anschreiben', 'verbundenheit', 'wunderbarer']","['keine', 'gegen', 'neue']",7
+874,"['keine', 'kein', 'meinen', 'neonlettern', 'pinseln', 'bougainvillea']","['sehnsucht', 'seufzern', 'siesta', 'sternschnuppe']","['kommt', 'jalousien', 'die', 'und']",6
+877,"['zeigtest', 'tränenschlangen', 'schmecktest', 'lüstet', 'grüngolden', 'erbebt', 'apfelbaumblattwerk']","['lyric', 'lylo', 'love']","['violett', 'paradiese', 'nachmittagssonne']",7
+878,"['herzensdank', 'zeigtest', 'tränenschlangen', 'schmecktest', 'lüstet', 'grüngolden', 'erbebt']","['apfelbaumblattwerk', 'liebestraum', 'paradiesischer']","['violett', 'paradiese', 'nachmittagssonne']",7
+880,"['auge', 'wittert', 'unbeugsam', 'steppenalltag']","['hocherhobenem', 'haarbrand', 'lustvoller', 'keuchendes', 'bleckt', 'tigers']","['er', 'unbeweglich', 'steppe', 'starrt', 'regungslos', 'lauert']",4
+881,"['bekomm', 'tiger', 'vernachlässige']","['jun', 'hierlasse', 'steppenalltag', 'hocherhobenem', 'haarbrand', 'unbeugsam', 'lylo']","['lage', 'wohl', 'egal', 'auge', 'er', 'dieser', 'schonmal']",3
+883,"['tröstet', 'kleid', 'ungeküssten', 'tröpfelt', 'sternenlose', 'herzgewebtes', 'bisslosen']","['tröstend', 'hauchen', 'umfängt']","['zerren', 'bitterkeit', 'vernunft']",7
+886,"['offenbar', 'bitter', 'strahlendweiß', 'sternt', 'blütet', 'meinen', 'grünt']","['lyric', 'lylo', 'abgelegt']","['blinden', 'von', 'beschwingt']",7
+887,"['verstand', 'auch', 'wollen', 'blinden', 'wohl', 'lieber', 'zeitweise']","['pippo', 'ggg', 'träumen']","['es', 'etwas', 'irritiert']",7
+889,"['komm', 'verklingen', 'sachten', 'herzensbettchen', 'gestreichelt', 'abschiedszigarettchen', 'hast', 'leis']","['umschmeichelt', 'stummen']","['zurück', 'zimmer']",8
+890,"['zurück', 'lylostil', 'kreuzberg', 'kaffeepause', 'sonnige', 'frauu']","['lylo', 'jun', 'grüße', 'herzensbettchen']","['mag', 'komm', 'schönen', 'aus']",6
+892,"['den', 'nächten', 'verblüht', 'decken', 'greift', 'wühlen', 'geschenkt', 'kissen']","['duften', 'laken']","['vertrauen', 'vergangenheit']",8
+893,"['eigen', 'nenn', 'den', 'nächten', 'verblüht', 'solverat', 'mein', 'wühlen']","['duften', 'laken']","['decken', 'greift']",8
+895,"['brille', 'bitter', 'rosaroten', 'nachtkästchen', 'ließest']","['lyric', 'lylo', 'erfriert', 'abgelegt', 'nordens']","['können', 'lärm', 'hüpfe', 'nordpol', 'geruch']",5
+896,"['nordpol', 'erfriert', 'brille', 'knudderl', 'bitter', 'nachtkästchen']","['jun', 'lyric', 'lylo', 'ließest']","['können', 'rosaroten', 'lärm', 'hüpfe']",6
+898,"['der', 'hitze', 'bitter', 'weggeworfener', 'abschiedsworte']","['lyric', 'lylo', 'hämischem', 'abgelegt', 'trommelt']","['weiden', 'friedhof', 'brüllen', 'winden', 'schlaflosigkeit']",5
+899,"['friedhof', 'weggeworfenen', 'holprig', 'ich', 'überdenken', 'ausspruch']","['lylo', 'jun', 'hitze', 'schwüle']","['unterbringen', 'der', 'riecht', 'blumen']",6
+901,"['traumentleerte', 'rotgesüßten', 'morgenblüten', 'lechzend', 'gedankenblüten', 'tagesanbruch']","['lyric', 'lylo', 'love', 'abgelegt']","['schüttet', 'unschuldig', 'mündern', 'bedecken']",6
+904,"['lässt', 'liebesmut', 'mich', 'beklommen', 'verschwommen']","['lyric', 'lylo', 'love', 'abgelegt', 'schwüle']","['nach', 'gehen', 'sehen', 'gibt', 'sie']",5
+905,"['liebesmut', 'lässt', 'zb', 'muhtiger', 'muh', 'beschäftigen', 'animalische', 'mich', 'tiger']",['jun'],['machst'],9
+907,"['sommernächte', 'räkle', 'krault', 'herrchen', 'geleckten', 'gebettelt']","['ausgebettelt', 'blütenweißen', 'deinen', 'liebevollen']","['zuneigung', 'wartete', 'sauber', 'hündchen']",6
+910,"['ansehen', 'rot', 'trinke', 'nah', 'lust', 'hochkriechen']","['entgegenglühen', 'lyric', 'dich', 'lylo']","['lassen', 'um', 'schenkeln', 'flammend']",6
+913,"['jugend', 'meine', 'deine', 'tanzboden', 'sonnentäler']","['lylo', 'lyric', 'wüstenwind', 'errötend', 'wärmend']","['dem', 'mai', 'der', 'wirbelnd', 'rosig']",5
+914,"['wüstenwind', 'weißt', 'bild', 'lieblingsinsel', 'allerliebste', 'heiß', 'sehen', 'du', 'solch']",['mehrmals'],['ist'],9
+915,"['wüstenwind', 'sonnentäler', 'entrückt', 'wärmend', 'glühend']","['lyric', 'lylo', 'abgelegt', 'lust', 'deine']","['fährt', 'entzückt', 'beglückt', 'seen', 'abends']",5
+916,"['jugend', 'ewige', 'wirbelnd', 'tanzboden', 'errötend']","['lyric', 'lylo', 'love', 'abgelegt', 'schenkst']","['dem', 'beneidenswert', 'rosig', 'mein', 'streift']",5
+917,"['jugend', 'ewige', 'wirbelnd', 'tanzboden', 'errötend']","['lyric', 'lylo', 'love', 'abgelegt', 'schenkst']","['dem', 'rosig', 'mein', 'streift', 'wehe']",5
+918,"['verreist', 'beiträge', 'sehnsuchtsblüten', 'leuchtendsten', 'fülle', 'neuere', 'antlitz', 'erwachen']","['lyriclove', 'anmelden']","['inneren', 'ältere']",8
+919,"['verreist', 'verbalssen', 'unverblümt', 'nachsicht', 'grauwaschgang', 'gemischt', 'darfs', 'sehnsuchtsblüten', 'entführen']",['lylo'],['strahlen'],9
+920,"['verreist', 'sehnsuchtsblüten', 'leuchtendsten', 'fülle', 'antlitz', 'erwachen', 'anmelden', 'anlegen']","['lyriclove', 'küssen']","['inneren', 'frühling']",8
+921,"['warm', 'überglänzen', 'sternenstrand', 'atemlosen', 'sternennacht', 'strände']","['lyric', 'lylo', 'love', 'abgelegt']","['hand', 'auszuruhen', 'uns', 'sternschnuppe']",6
+922,"['wälzen', 'auch', 'und', 'die', 'sand', 'mai', 'liebe']","['schattenseiten', 'lylo', 'ewigkeit']","['das', 'leid', 'schwindelig']",7
+924,"['mich', 'deiner', 'dankbar', 'nimm']","['lylo', 'lyric', 'liebeshänden', 'love', 'schmiege', 'in']","['zum', 'aller', 'den', 'zur', 'glück', 'macht']",4
+925,"['liebe', 'und', 'dich', 'dir', 'ich', 'die', 'danke']","['du', 'berührende', 'mai']","['was', 'zu', 'ohne']",7
+926,"['dankbar', 'glück', 'morgen', 'geburtstagsglück', 'liebeshänden', 'weckt']","['lyric', 'lylo', 'love', 'abgelegt']","['mich', 'spiegelt', 'seit', 'für']",6
+927,"['aller', 'weiber', 'zum', 'deiner', 'mich', 'nimm']","['lyric', 'lylo', 'love', 'schmiege']","['frau', 'zur', 'macht', 'tanzenden']",6
+929,"['nein', 'erst', 'jetzt', 'zerschmettere', 'atem']","['lyric', 'lylo', 'deinen', 'hauche', 'abgelegt']","['nicht', 'dann', 'speer', 'schraube', 'feind']",5
+932,"['nächte', 'mit', 'träume', 'blüten', 'dir', 'traumbrand', 'sehnsuchtsmund']","['löschende', 'aufschwellen', 'hitzen']","['sind', 'es', 'denen']",7
+934,"['schlafwarmer', 'ohrs', 'nackheit', 'behüten', 'atemgesänge', 'haucht']","['lyric', 'lylo', 'love', 'abgelegt']","['weg', 'ruht', 'öffnet', 'wach']",6
+936,"['zuckt', 'bänder', 'rubine', 'rosaroter', 'verglüht']","['lyric', 'lylo', 'krönen', 'abgelegt', 'deiner']","['umspielt', 'sprudelt', 'entblößt', 'blöße', 'hand']",5
+939,"['streicheleinheiten', 'schickst', 'herzkästchen', 'herzförmiges', 'herausholen', 'verteile']","['lyric', 'lylo', 'love', 'abgelegt']","['dort', 'kästchen', 'dreifach', 'wo']",6
+942,"['schwelle', 'morgenglück', 'schält', 'sanften', 'träumen', 'love', 'händen']","['lyric', 'lylo', 'abgelegt']","['morgens', 'trägt', 'glück']",7
+945,"['vibrieren', 'himmelsblau', 'gedankenwölkchen', 'herzförmige', 'gaukelt']","['lyric', 'lylo', 'love', 'abgelegt', 'apfelbaum']","['über', 'sitze', 'senkt', 'blaue', 'streut']",5
+948,"['suchen', 'finden', 'sammlung', 'mühelos', 'torkeln', 'könnt', 'wunderbare']","['deinen', 'gast', 'sehnsuchtsworte']","['folgen', 'so', 'leicht']",7
+950,"['seil', 'heimat', 'zerschellen', 'zeitraums', 'traurigkeits', 'spannte']","['heimatlosigkeit', 'deine', 'genügte', 'gefahrlos']","['um', 'zu', 'vorgestern', 'reiste']",6
+951,"['kathrin', 'seil', 'heimat', 'mitsehnen', 'mitfühlen', 'zerschellen', 'zeitraums']","['grüße', 'traurigkeits', 'heimatlosigkeit']","['um', 'zu', 'vorgestern']",7
+953,"['nach', 'ist', 'mir', 'heut', 'melancholie', 'rühr', 'rundherum', 'liebespfand']","['kuscheltier', 'blümchen']","['hand', 'einem']",8
+954,"['nach', 'ist', 'mir', 'heut', 'melancholie', 'wienerwald', 'beschauliches']","['liebespfand', 'donnavivace', 'kuscheltier']","['hand', 'einem', 'rühr']",7
+956,"['welkes', 'amsel', 'stummer', 'bist', 'laub', 'wiesen', 'kehle', 'hüpfen', 'tropft']",['sternen'],['graue'],9
+957,"['ich', 'du', 'sherdil', 'und', 'dylan']","['lieben', 'lylo', 'ungelöschten', 'porzellanblauen', 'mozdev']","['rss', 'nicht', 'auch', 'so', 'das']",5
+959,"['sehnsuchtsnah', 'dich', 'sonnengeflecht', 'nähre', 'liebesnah', 'führe', 'fingerspitzenwegen', 'labe', 'bette', 'busen']",[],[],10
+962,"['zuzubewegen', 'lichtgrüße', 'leuchtfeuers', 'ich', 'leuchtfeuer', 'freue']","['volution', 'reh', 'mai', 'spiegeln']","['rad', 'richtig', 'sie', 'stellen']",6
+963,"['leuchtfeuer', 'spiegeln', 'sonnenloser', 'entdeckst', 'augenseen']","['lyric', 'lylo', 'love', 'deinen', 'abgelegt']","['streichhölzer', 'entzünden', 'reibe', 'pracht', 'üppigkeit']",5
+965,"['steffen', 'emma', 'würmchen', 'ich', 'superlustigen']","['lindholzbalkon', 'heinig', 'pausenzeit', 'lylo', 'apr']","['bilder', 'die', 'wackelt', 'spärlichen', 'pointe']",5
+967,"['lautlos', 'seufze', 'bitter', 'stopfe', 'blendet', 'meine']","['lyric', 'lylo', 'abgelegt', 'in']","['schlage', 'dröhnt', 'schrei', 'stille']",6
+969,"['treppe', 'steinkraut', 'steinhaus', 'glyzinie', 'azalee', 'zikaden', 'kleinen']","['bitter', 'moospölsterchen', 'duft']","['rief', 'der', 'schatten']",7
+972,"['wo', 'umschwirrten', 'nachtsamtaugen', 'lippenfrüchte']","['lyric', 'liebesweizen', 'brustknospen', 'blütenhain', 'liebesworte', 'lylo']","['land', 'komm', 'und', 'der', 'sternenlicht', 'platzen']",4
+973,"['wo', 'apr', 'mimi', 'wolf', 'vivacetochter', 'schmatzer', 'schlaraffenland', 'lg']","['schattenwolf', 'lylo']","['und', 'genuß']",8
+975,"['lebenshilfe', 'urlaub', 'ich', 'sehne', 'schnüff', 'regenbogenmenschen', 'enke']","['dir', 'deine', 'du']","['sie', 'vier', 'aber']",7
+976,"['sehne', 'du', 'senkst', 'rauchst', 'näherbringt', 'körperstellen']","['deine', 'dir', 'sehnsucht', 'berührst']","['ja', 'nach', 'mich', 'ich']",6
+977,"['weißt', 'wie', 'du', 'bitter', 'zaungäste']","['lyric', 'glasherz', 'lylo', 'dressierter', 'abgelegt']","['ist', 'weggeworfen', 'schmutzig', 'nasses', 'käfig']",5
+978,"['weißt', 'egoismus', 'sonniger', 'wie', 'apr']","['bitter', 'gruß', 'du', 'lyric', 'zaungäste']","['früher', 'berlin', 'ist', 'zu', 'vergessenheit']",5
+980,"['tänzelnden', 'schritten', 'letter', 'watest', 'vertrocknenden', 'herzblutes', 'bluttänze']","['lyric', 'lylo', 'abgelegt']","['verachtung', 'strömte', 'rascheln']",7
+982,"['tango', 'du', 'bitter', 'staccatoschritt', 'schleppst', 'abgewandtem']","['lyric', 'lylo', 'abgelegt', 'stolpere']","['parkett', 'starr', 'schaust', 'brutal']",6
+983,"['ich', 'es', 'aber', 'die']","['apr', 'dir', 'bussi', 'du', 'eitelkeit', 'in']","['nicht', 'nur', 'geht', 'der', 'sind', 'und']",4
+985,"['zuzuwenden', 'verkrüppeln', 'spottlieder', 'seelengrau', 'pamphleten', 'blütenkelche', 'bitter']","['lyric', 'lylo', 'höhnt']","['zeit', 'spuckt', 'ast']",7
+987,"['geh', 'willst', 'beiträge', 'du', 'neuere', 'love']","['lyric', 'lylo', 'abgelegt', 'lyriclove']","['gehen', 'wohin', 'doch', 'ältere']",6
+988,"['geh', 'apr', 'pffff', 'irland']","['du', 'lybste', 'lylofee', 'intakt', 'weils', 'schreist']","['nicht', 'ist', 'trip', 'männern', 'kraut', 'gewachsen']",4
+989,"['geh', 'willst', 'gehen', 'doch', 'love', 'du']","['lyric', 'lylo', 'abgelegt', 'lyriclove']","['wohin', 'kannst', 'anmelden', 'anlegen']",6
+990,"['erinnerung', 'meiner', 'die', 'mir', 'saiten', 'apr', 'du']","['lylo', 'sehnsucht', 'in']","['der', 'lieb', 'hand']",7
+991,"['saiten', 'letter', 'zupfst', 'sirenengleich', 'lyra']","['lyric', 'entlockst', 'brausende', 'lylo', 'apollon']","['zweit', 'zirpen', 'unhörbar', 'schallen', 'melodien']",5
+993,"['bist', 'erinnerung', 'du', 'umflutet', 'lichterschein', 'hellem', 'dunklem', 'diamanten']","['versüßt', 'streut']","['krone', 'mit']",8
+995,"['lieb', 'erinnerung', 'wächst', 'tulpenmund']","['in', 'lyric', 'morgensonnenröte', 'eisesblässe', 'lylo', 'love']","['mir', 'wie', 'gesicht', 'hand', 'rotem', 'pflückt']",4
+997,"['reiß', 'damit', 'wütens', 'gerissene', 'mir', 'pulsschlag']","['lyric', 'lylo', 'love', 'abgelegt']","['missverständnis', 'hirn', 'wehen', 'schlägt']",6
+1000,"['erkenne', 'deiner', 'wiedererkennen', 'pinselführung', 'abendwehen']","['lyric', 'lylo', 'love', 'abgelegt', 'in']","['strömung', 'sachte', 'wispern', 'stirne', 'erhellen']",5
+1002,"['auferstehung', 'vollgeküsst', 'sonnenküsse', 'rotblühenden', 'rekeln', 'lindgrün']","['lyric', 'flaume', 'lylo', 'freigelegten']","['springen', 'schmetterlings', 'schickt', 'quellen']",6
+1003,"['auferstehung', 'heiße', 'frühling', 'apr', 'vollgeküsst']","['lylo', 'lyric', 'sonnenküsse', 'rotblühenden', 'rekeln']","['woche', 'sprießen', 'spargel', 'obschon', 'juni']",5
+1005,"['wange', 'leg', 'haar', 'nippe', 'geschlossnen', 'deine']","['lyric', 'lylo', 'love', 'abgelegt']","['glückes', 'mein', 'stummen', 'seufzer']",6
+1007,"['esse', 'und', 'ich', 'hals', 'deinen', 'purpurrot']","['lyric', 'dich', 'dir', 'lylo']","['zuckend', 'rase', 'empor', 'brennenden']",6
+1008,"['esse', 'apr', 'zugetanes', 'notbehelf', 'dalasse']","['deinen', 'abendgruß', 'lylo', 'auspackt', 'donnavivace']","['braucht', 'und', 'würze', 'vielfalt', 'extreme']",5
+1010,"['rosenküsse', 'morgenbades', 'hauchend', 'halbschlafs']","['lyric', 'fingerspitzenworte', 'atemwinde', 'lylo', 'love', 'in']","['den', 'sträuchern', 'sprechend', 'raunend', 'höfen', 'gassen']",4
+1011,"['wochenende', 'schönes', 'verschlafen', 'allerseits', 'wünsche', 'gassen', 'atemwinde', 'kuscheln']","['bissl', 'schenkel']","['mal', 'aufwachen']",8
+1013,"['göttlicher', 'du', 'meinem', 'wolkenhände', 'reichst', 'götterfrucht']","['lyric', 'lylo', 'love', 'abgelegt']","['göttliche', 'offenen', 'ernte', 'sammle']",6
+1014,"['göttlicher', 'nennen', 'du', 'tu', 'apr', 'wolkenhände']","['lyric', 'götterfrucht', 'lylo', 'love']","['gern', 'meinem', 'doch', 'reichst']",6
+1016,"['apr', 'frühling', 'koseworte']","['lylo', 'lyric', 'in', 'abgelegt', 'by', 'farbenbad', 'lauschens']","['hand', 'süßesten', 'zögert', 'winternächten', 'wiese', 'weiher', 'vorsichtig']",3
+1017,"['apr', 'zitter', 'ex', 'frühling', 'und', 'wonnemonat']","['caliente_in_berlin', 'lylo', 'donnavivace', 'bussi']","['woche', 'sonne', 'verführung', 'freund']",6
+1018,"['frühling', 'winternächten', 'farbenbad', 'blumenwiese', 'zartem']","['lyric', 'lylo', 'love', 'abgelegt', 'wogt']","['wieder', 'hand', 'weiher', 'verliebt', 'kätzchen']",5
+1019,"['kisses', 'denke', 'süßesten', 'koseworte', 'leckt', 'beben']","['lyric', 'lylo', 'abgelegt', 'dich']","['an', 'strömen', 'munde', 'wenn']",6
+1021,"['lager', 'tröpfchen', 'dornbusch', 'balsams', 'stimme', 'sanftes', 'sanft', 'wunde']","['letter', 'deines']","['als', 'jene']",8
+1022,"['stimme', 'letter', 'lauschens', 'entledigt', 'trippelt', 'bettet']","['lyric', 'lylo', 'abgelegt', 'deine']","['zögert', 'wiese', 'vorsichtig', 'lager']",6
+1023,"['apr', 'meinem', 'dein']","['lylo', 'abgelegt', 'by', 'lyric', 'morgenseide', 'hautserviette', 'fingerknistern']","['schritt', 'gesicht', 'wenn', 'auf', 'streichst', 'stiefmütterchen', 'servieren']",3
+1024,"['gesicht', 'dein', 'letter', 'streichst', 'hellt', 'verschmiert']","['lyric', 'lylo', 'liebe', 'abgelegt']","['wenn', 'butter', 'auftaucht', 'brot']",6
+1026,"['kisses', 'stiefmütterchen', 'schmiegst', 'morgenseide', 'hautserviette', 'fingerknistern', 'croissant']","['lyric', 'lylo', 'abgelegt']","['balkon', 'servieren', 'milchkaffee']",7
+1028,"['woche', 'frauunvernunft', 'lg', 'ich', 'vorallem', 'unvernünftig', 'lieben']","['lylo', 'dir', 'deine']","['und', 'von', 'eine']",7
+1029,"['schritt', 'schlaflos', 'steigen', 'fuß', 'mondlicht', 'bauen', 'sternen', 'regenbogen']","['kuss', 'lylo']","['schlafen', 'warten']",8
+1030,"['deiner', 'wellengeleckt', 'traumstrand', 'schnuppen', 'ohrgemuschel', 'augensterne', 'mondlichts']","['lyric', 'lylo', 'love']","['gestickt', 'brandung', 'lachens']",7
+1031,"['apr', 'wellengeleckt', 'doll', 'wolf', 'regnet', 'schönen', 'donnavivace']","['lylo', 'deiner', 'lg']","['einen', 'hoffe', 'tag']",7
+1033,"['nachtkuss', 'wehrlos', 'wehren', 'pusteblume', 'genießt', 'atemlos', 'weicher']","['lylo', 'kisses', 'deinen']","['wozu', 'streift', 'nackt']",7
+1035,"['ich', 'du', 'kleinen']","['deine', 'lyric', 'nachzujagen', 'lichtkleidern', 'goldtöne', 'feenwald', 'einzuschänken']","['und', 'weißt', 'wolken', 'mir', 'immer', 'möchte', 'aus']",3
+1036,"['unvernunft', 'apr', 'frauunvernunft', 'wolf']","['lylo', 'du', 'lg', 'dir', 'knuddel', 'zahnschmerzwolf']","['vielleicht', 'einen', 'frau', 'zahn', 'und', 'schönes']",4
+1038,"['samen', 'strömt', 'zärtlichkeit', 'deiner', 'unversiegbar', 'trunke', 'milchigweißen']","['lyric', 'aussprengst', 'lylo']","['aus', 'sickert', 'landschaften']",7
+1039,"['zauberblickhafte', 'wandelst', 'musenblütenbäumen', 'sichtweisen', 'samen', 'strömt', 'zärtlichkeit']","['apr', 'deiner', 'in']","['park', 'voller', 'aus']",7
+1041,"['echt', 'nah', 'zwangspausen', 'sprungfeder', 'nasenverstopfungen', 'lichterfeld', 'du']","['in', 'lyric', 'lylo']","['fühlst', 'aufhältst', 'erlebtem']",7
+1042,"['nah', 'erlebtem', 'abziehbild', 'bist', 'schnuppere']","['lyric', 'lylo', 'love', 'in', 'abgelegt']","['abendluft', 'atme', 'lache', 'hör', 'rauch']",5
+1043,"['bin', 'wimpernschlag', 'schart', 'altem', 'glückes', 'erblüht']","['lyric', 'lylo', 'love', 'abgelegt']","['heim', 'der', 'wiederkommen', 'das']",6
+1045,"['eifersucht', 'werde', 'du', 'letter', 'dein']","['lyric', 'verirrst', 'gaukelst', 'lylo', 'liebe']","['der', 'angst', 'den', 'lässt', 'werdens']",5
+1046,"['und', 'privatstrand', 'lovelyric']","['lg', 'mrz', 'buchfinder', 'ausdrucksstärker', 'abgleitet', 'liebesworte', 'lylo']","['hell', 'der', 'die', 'weshalb', 'ungestört', 'säumen', 'rankt']",3
+1048,"['ich', 'wäre', 'nur', 'schlüge', 'mein', 'unterlass']","['lyric', 'lylo', 'love', 'abgelegt']","['allem', 'küsste', 'immerzu', 'unaufhörlich']",6
+1049,"['wäre', 'ich', 'nur', 'passenden', 'mrz', 'genossen', 'auszudrücken']","['lylo', 'lach', 'freu']","['begeisterung', 'wunder', 'hör']",7
+1051,"['morgenerwachen', 'winke', 'wärme', 'sonnenblicken', 'schneehelle', 'hauchtest']","['augenfenster', 'lyric', 'blütenküsse', 'lylo']","['winter', 'decke', 'strahlte', 'glitzernder']",6
+1054,"['frau', 'nicht', 'sein', 'sklavin', 'mannsein']","['lyric', 'erliebt', 'lylo', 'love', 'ebnet']","['will', 'alles', 'und', 'schürt', 'nachbarin']",5
+1055,"['nicht', 'frau', 'vortragen', 'ankommt', 'ich', 'lyrikabend']","['lylo', 'duhu', 'bazi', 'mrz']","['sein', 'gespannt', 'recht', 'vorträgt']",6
+1057,"['verschwenderisch', 'wortlos', 'träume', 'verschwenden', 'umgehen', 'verschwendet', 'dich', 'ich', 'mich']",['lieblingsfehler'],['gedanke'],9
+1058,"['halte', 'nähe', 'dich', 'träume', 'traumstille', 'traumlose', 'gedankentiefe']","['lyric', 'lylo', 'love']","['traumlos', 'wortlos', 'erwächst']",7
+1059,"['kommt', 'wieder', 'erfließen', 'reif', 'krustet', 'ausschau', 'nacht', 'rändern']","['küsst', 'sternen']","['see', 'die']",8
+1060,"['kommt', 'wieder', 'erfließen', 'reif', 'krustet', 'ausschau', 'nacht', 'rändern']","['küsst', 'sternen']","['see', 'die']",8
+1062,"['dich', 'nur', 'weltall', 'pulsschlag', 'lüste']","['lyric', 'lylo', 'love', 'abgelegt', 'dir']","['es', 'murmelt', 'für', 'im', 'tanzt']",5
+1063,"['dich', 'nur', 'mrz', 'pulsschlag']","['lyric', 'lylo', 'love', 'lüste', 'abgelegt', 'zauberblicke']","['es', 'weltall', 'murmelt', 'für', 'im', 'muß']",4
+1065,"['spinnenweben', 'herzhaft', 'gelacht', 'spinnen', 'sooo', 'poetisch']","['mrz', 'lyric', 'lylo', 'love']","['allerdings', 'darüber', 'dafür', 'habe']",6
+1066,"['seidene', 'leitern', 'einstieg', 'lehnen', 'berührungen', 'love']","['lyric', 'lylo', 'abgelegt', 'mrz']","['steigen', 'spinnen', 'ihnen', 'körper']",6
+1067,"['schlange', 'die', 'mrz', 'erkenntnis', 'opa']","['caliente_in_berlin', 'wahrschein', 'überalterten', 'lylo', 'treibhauseffekt']","['unschuldig', 'noch', 'ist', 'deshalb', 'an']",5
+1069,"['kinderfantasie', 'fantasie', 'kindern', 'lust', 'finger', 'kleines']","['lyric', 'lylo', 'abgelegt', 'mrz']","['spielen', 'kind', 'sei', 'allem']",6
+1071,"['bist', 'bitter', 'frühlingshauch']","['lyric', 'lylo', 'entschwebt', 'traumtänzer', 'pirouetten', 'abgelegt', 'gaukelt']","['lässt', 'tonlos', 'doch', 'wirbeln', 'tönt', 'lädt', 'leiser']",3
+1073,"['stille', 'aufzusaugen', 'erwecken', 'blattlos', 'haupt', 'flüstert', 'neigt']","['lenden', 'nacktheit', 'dir']","['ferne', 'nahe', 'zu']",7
+1074,"['wunderbare', 'liebe', 'respektvoller', 'knuddlknuddl']","['dir', 'achtungsvoller', 'gedankenbild', 'knuddel', 'bewußter', 'schattenwolf']","['eine', 'mischung', 'lilly', 'intensiver', 'grüsse', 'einzigartig']",4
+1076,"['sickern', 'liebesteppich', 'breitest']","['lyric', 'lylo', 'love', 'abgelegt', 'dich', 'küsst', 'mrz']","['roter', 'breite', 'teppich', 'anblick', 'schritt', 'gefühle', 'boden']",3
+1077,"['ganzem', 'herzen', 'badabumm', 'sickern', 'liebesteppich', 'breitest']","['lyric', 'lylo', 'love', 'danke']","['größtes', 'roter', 'alles', 'breite']",6
+1079,"['bist', 'du', 'heimat', 'meines', 'herzens']","['flattre', 'lyric', 'lylo', 'love', 'wehst']","['weitet', 'tuche', 'trenn', 'näh', 'hymne']",5
+1082,"['still', 'kisses', 'glanz', 'nah', 'dir']","['lyric', 'lylo', 'abgelegt', 'mrz', 'in']","['legen', 'sein', 'dunkel', 'stille', 'licht']",5
+1084,"['warte', 'ich', 'loch', 'dich', 'wolke', 'mrz']","['lylo', 'sehnsucht', 'liebe', 'abgelegt']","['bis', 'stehen', 'auf', 'jeder']",6
+1085,"['mrz', 'bitter', 'versprachst', 'himmlisch', 'grölt']","['lyric', 'lylo', 'abgelegt', 'zauberblicke', 'netzt']","['fein', 'himmel', 'realität', 'donner', 'vorgestellt']",5
+1086,"['bitter', 'himmel', 'versprachst', 'himmlisch', 'grölt', 'sagtest', 'netzt']","['lyric', 'lylo', 'abgelegt']","['donner', 'vorgestellt', 'wolke']",7
+1087,"['warte', 'ich', 'bis', 'dich', 'auf', 'zuwendest', 'entlädt', 'erkennst']","['sehnsucht', 'antlitz']","['dorthin', 'erhebt']",8
+1089,"['liebe', 'die', 'ist', 'sie', 'und', 'wenn']","['hoshi', 'betonieren', 'ich', 'verletzbar']","['man', 'ihr', 'es', 'töten']",6
+1090,"['loch', 'bitter', 'schützende', 'aufzuspannen', 'aufzukrempeln']","['lyric', 'lylo', 'abgelegt', 'lindern', 'stummheit']","['jeder', 'versteckt', 'schirme', 'fieber', 'fassungslos']",5
+1091,"['allein', 'sonnenaufgang', 'stern', 'leuchtet', 'schmiegt', 'love']","['lyric', 'lylo', 'abgelegt', 'mrz']","['beide', 'geh', 'für', 'nicht']",6
+1093,"['erspürst', 'wünsch', 'mrz', 'dein', 'meines']","['lylo', 'in', 'abgelegt', 'by', 'lyric']","['im', 'die', 'ich', 'dass', 'der']",5
+1094,"['bitter', 'erloschenen', 'weine', 'funken', 'funkenflug', 'löschen']","['lyric', 'lylo', 'abgelegt', 'mrz']","['oder', 'trocken', 'leer', 'freundin']",6
+1096,"['wünsch', 'erspürst', 'im', 'ungesagten', 'erbeben']","['erspüre', 'abendstern', 'netzt', 'in', 'dein']","['mir', 'ich', 'reckt', 'blinkt', 'sanfter']",5
+1098,"['ernährung', 'ausgewogene', 'schmecken', 'dickes', 'bussi', 'gier']","['lylo', 'mrz', 'meines', 'sinnengepfeffert']","['hunger', 'wochenende', 'wichtig', 'ein']",6
+1099,"['meines', 'lebensmahl', 'schweißes', 'schoßes']","['lyric', 'lylo', 'lüste', 'abgelegt', 'lust', 'dein']","['mahl', 'gib', 'sprudeln', 'pfeffer', 'holt', 'schlagen']",4
+1100,"['sieh', 'frühling', 'winterkleid', 'tulpenbeet', 'sommerglücks', 'herzenswiese', 'apfelbaume']","['lyric', 'lylo', 'love']","['streif', 'lade', 'krokus']",7
+1101,"['mo', 'zart', 'vermumpelt', 'quetschen', 'postings', 'naturverwandte', 'meckermotz', 'grundton', 'getrübterem']",['beidem'],['kühe'],9
+1103,"['schmetterlinge', 'schlafen', 'erahnt', 'atemküsse', 'gleitet', 'schmetterling']","['lyric', 'lylo', 'love', 'abgelegt']","['berührung', 'zittern', 'stark', 'bunt']",6
+1105,"['opa', 'wohlgefällig', 'südosten', 'elbzeilen', 'schrittspuren', 'autorin', 'lyrische', 'blickt', 'drücke']",['lylo'],['sehr'],9
+1106,"['trostbrücke', 'spüle', 'spiegle', 'schrittspuren', 'klettere', 'hafenkräne', 'elbe']","['streue', 'streife', 'deine']","['vorstelle', 'holen', 'wo']",7
+1107,"['mrz', 'denkst', 'du', 'deine']","['lylo', 'lyric', 'abgelegt', 'by', 'in', 'bitter']","['nichts', 'weiße', 'am', 'warmen', 'mein', 'ich']",4
+1108,"['sehnsuchtsengel', 'streifend', 'sehnsuchtswehen', 'opal', 'knisternd']","['lyric', 'lylo', 'love', 'abgelegt', 'erglühen']","['eng', 'wie', 'schimmernd', 'versprechen', 'hülle']",5
+1110,"['der', 'letter', 'turtelnde', 'traumlosigkeit']","['lyric', 'einherreitet', 'lylo', 'herunterzureißen', 'gebäre', 'alphabete']","['um', 'verlernen', 'wortes', 'tosende', 'schlacht', 'rüstung']",4
+1111,"['verletzte', 'der', 'wieviele', 'schlacht', 'nächten', 'letter']","['lyric', 'traumlosigkeit', 'einherreitet', 'sehnsucht']","['gegeben', 'um', 'mag', 'haben']",6
+1113,"['ich', 'tee', 'resa', 'nicht', 'du', 'und', 'enkelin', 'club']","['hobo', 'gitana']","['ist', 'bin']",8
+1114,"['letter', 'silberstreifen', 'immerjungen', 'schläfen', 'poliere', 'familiensilber', 'hauche']","['lyric', 'lylo', 'abgelegt']","['sorgfalt', 'gegenüber', 'glänzend']",7
+1115,"['tears', 'violetten', 'verschwimmt', 'ricks', 'flugschein', 'casablanca', 'abendrot']","['lyric', 'lylo', 'abgelegt']","['fremder', 'reicht', 'bar']",7
+1116,"['bar', 'tränen', 'tränenverschwommen', 'textchen', 'lichtpunkt']","['gomera', 'ricks', 'flugschein', 'casablanca', 'kopfkino']","['ein', 'die', 'wonach', 'unruhigen', 'schlieren']",5
+1118,"['euch', 'bin', 'hungrig', 'gerührt']","['knuddler', 'feb', 'durstig', 'lyriclove', 'dich', 'ich']","['aber', 'waschen', 'echte', 'sehr', 'gehören', 'eile']",4
+1119,"['hungrig', 'eile', 'durstig', 'bitter', 'wortwein', 'wortsuppe', 'worthunger']","['lyric', 'lylo', 'abgelegt']","['wenn', 'restaurant', 'koche']",7
+1122,"['stern', 'sehe', 'blicke', 'schlafenden', 'ausschütten', 'augen', 'ersticken', 'küsse', 'hüpfen']",['nacht'],['augenblicke'],9
+1126,"['sorglos', 'netz', 'tanze', 'letters', 'seiltanz', 'tanztest']","['lylo', 'love', 'auffängt', 'abgelegt']","['für', 'salto', 'gelingen', 'freihändig']",6
+1128,"['kein', 'rettendes', 'flügelschlag', 'versinkt', 'tränen', 'ufer', 'tears']","['lyric', 'lylo', 'nachtgedanken']","['kenne', 'gefühl', 'hören']",7
+1130,"['er', 'ich', 'jaaa', 'und', 'heiß']","['lyric', 'lylo', 'love', 'winterspaziergang', 'schlittschuh']","['ihn', 'sah', 'ging', 'sagte', 'hin']",5
+1131,"['er', 'ich', 'jaaa', 'ihn', 'und', 'heiß']","['winterspaziergang', 'schlittschuh', 'aaah', 'zungenspitze']","['sah', 'ging', 'sagte', 'hin']",6
+1133,"['wütend', 'relation', 'kusslos', 'kreiste', 'geier', 'bitter']","['lyric', 'lylo', 'abgelegt', 'beute']","['fremden', 'anruf', 'war', 'gewesen']",6
+1135,"['kisses', 'weckerküsse', 'wecken', 'klingelt', 'einpacken', 'beeilen']","['lyric', 'lylo', 'abgelegt', 'feb']","['rechtzeitig', 'wach', 'schicken', 'sie']",6
+1137,"['zärtlich', 'lidern', 'nacht', 'love']","['lyric', 'lylo', 'abgelegt', 'dir', 'küsst', 'feb']","['von', 'mir', 'lächelt', 'wächst', 'traum', 'sanft']",4
+1141,"['traumpflückerin', 'kußwilligen', 'vision', 'feb', 'erfreue']","['lylo', 'volution', 'reh', 'prinzessin', 'lg']","['such', 'helfen', 'hilfe', 'verwenden', 'titel']",5
+1143,"['verwandelst', 'manchmal', 'kaninchen', 'die', 'du', 'zauberer']","['in', 'letter', 'zähmst', 'strandhöhlen']","['den', 'warm', 'unter', 'der']",6
+1145,"['bahnhof', 'kann', 'ich', 'bahnhöfe']","['dir', 'feb', 'lylo', 'lg', 'schattenwolf', 'liebe']","['aber', 'und', 'die', 'zug', 'ein', 'schutz']",4
+1146,"['die', 'dich', 'händen', 'liebeszug', 'schlenkern']","['lyric', 'lylo', 'love', 'festkleben', 'bereithielt']","['der', 'wenn', 'weil', 'wertlos', 'versagt']",5
+1147,"['tipp', 'liebesträume', 'entschädigt', 'wünsch', 'feb', 'liebes']","['lylo', 'kisses', 'dir', 'lg']","['einschlafen', 'gibts', 'ich', 'wolf']",6
+1148,"['kisses', 'traumtanz', 'trommle', 'traumtänzen', 'klopft', 'herzschlag']","['lyric', 'lylo', 'abgelegt', 'feb']","['seiner', 'rhythmus', 'ohr', 'lege']",6
+1149,"['tropenregen', 'rankst', 'klematis', 'feuerlilien', 'blühst']","['lyric', 'lylo', 'love', 'schmückst', 'haselnüsse']","['wilder', 'seerose', 'liebliches', 'hältst', 'ginster']",5
+1150,"['vlg', 'bussi', 'schön', 'lesen', 'deiner', 'tropenregen']","['lyric', 'rankst', 'klematis', 'blühst']","['und', 'treibe', 'entspannt', 'wilder']",6
+1152,"['kisses', 'schokoraspel', 'sahnewölkchen', 'herzbelebt', 'gedankenspiegelndem', 'feinherb']","['bauchgewärmt', 'lyric', 'lylo', 'schmelzend']","['zartbitter', 'umflort', 'nachmittagskaffee', 'gesüßt']",6
+1155,"['fehlst', 'morgenküsse', 'greife', 'verstecken', 'hämischem', 'gelächter', 'enden', 'ecken', 'buchstaben']",['tanzt'],['leere'],9
+1156,"['wolf', 'kathrin', 'tanzt', 'geraumer', 'aufmunterung', 'lg']","['feb', 'schattenwolf', 'fehlst', 'valentinstag']","['helfen', 'bißchen', 'versuche', 'blauer']",6
+1158,"['rosenblüte', 'entblättert', 'valentinstag', 'dornen', 'vertrautheit', 'duftet']","['lyric', 'lylo', 'love', 'abgelegt']","['rose', 'als', 'breitet', 'alltags']",6
+1159,"['glückwünsche', 'wolf', 'lg', 'wünsche', 'rosenblüte', 'entblättert', 'feb']","['lylo', 'lyric', 'love']","['schönen', 'valentinstag', 'dornen']",7
+1161,"['ich', 'gesichert', 'und', 'mein', 'sehnen', 'jan']","['lylo', 'du', 'abgelegt', 'in']","['nicht', 'unsere', 'sowas', 'wenn']",6
+1164,"['sehnen', 'brennt', 'inspired', 'leib', 'glut', 'luisa', 'famos']","['lyric', 'sehnsucht', 'lylo']","['unsere', 'bangen', 'gehören']",7
+1166,"['gesichert', 'sowas', 'ich', 'verrutscht', 'schwörs', 'schluchz', 'geschmolzen']","['hobo', 'augenlicht', 'rutsch']","['nicht', 'offline', 'fängt']",7
+1168,"['tanzte', 'strand', 'erlösung', 'ich']","['lylo', 'jan', 'lyric', 'abgelegt', 'by', 'in']","['riss', 'versprochen', 'haare', 'die', 'ganze', 'mir']",4
+1169,"['erlösung', 'lust', 'schreibens', 'geilheit', 'gedankenleib', 'erzittern']","['lyric', 'lylo', 'deinen', 'abgelegt']","['springt', 'schlafe', 'ohnmacht', 'versinken']",6
+1171,"['bezaubernder', 'zauberstab', 'morgenglut', 'drängst', 'verwandelst']","['lyric', 'lylo', 'abgelegt', 'lust', 'erwachens']","['zauberer', 'stolpere', 'warmer', 'prinzessin', 'kühle']",5
+1173,"['tanzte', 'strand', 'riss', 'versprochen', 'entlang', 'kleider']","['bitter', 'lyric', 'lylo', 'alleinseins']","['haare', 'ganze', 'allein', 'ich']",6
+1174,"['tanzte', 'strand', 'riss', 'versprochen', 'entlang', 'kleider']","['bitter', 'lyric', 'lylo', 'alleinseins']","['haare', 'ganze', 'allein', 'ich']",6
+1175,"['soll', 'gefallen', 'mann', 'brennen', 'schmerz', 'liebe', 'wssen', 'lylosichamkopfkratzt']","['meine', 'herzen']","['als', 'bereitet']",8
+1177,"['zaubertest', 'undurchdringlich', 'schaukelte', 'meeresspiegel', 'liebtest']","['bitter', 'lyric', 'lylo', 'abgelegt', 'abendrot']","['woche', 'eine', 'ziehe', 'sog', 'ebbe']",5
+1179,"['sagtest', 'wusste', 'ich', 'du', 'komm', 'bitter']","['lyric', 'dich', 'dir', 'lylo']","['tanzen', 'müssen', 'würde', 'lippenbekenntnisse']",6
+1182,"['ertrinken', 'fehlst', 'will', 'ansehen', 'ich', 'inspired', 'dich']","['missbrauche', 'erseh', 'lyric']","['versäumen', 'vergewaltige', 'verdurste']",7
+1184,"['ufer', 'plätschernd', 'kräuselst', 'kostest', 'flusse', 'erschmeckst']","['bitter', 'du', 'lyric', 'lylo']","['überbrückt', 'winkst', 'verbleib', 'bedrohlich']",6
+1186,"['durch', 'sehnsucht', 'teig', 'klebrig', 'damm', 'reinigen']","['seufzern', 'wälzt', 'wälzen', 'meine']","['stöhnen', 'formt', 'fließt', 'zäh']",6
+1189,"['zähen', 'zahnloses', 'wassersüppchen', 'verkrieche', 'rosenbett', 'glutrest', 'fleischfasern', 'vertrockneten', 'aschenhaufen']",['lüste'],['dornen'],9
+1192,"['deine', 'spüren', 'blicke', 'dich', 'haut', 'worte', 'love']","['lyric', 'lylo', 'abgelegt']","['will', 'denken', 'an']",7
+1194,"['unsere', 'rollt', 'die', 'und', 'vollende']","['lylo', 'jan', 'lyric', 'love', 'gereichten']","['her', 'zwischen', 'hin', 'welt', 'sehen']",5
+1195,"['ameisenliebe', 'vollende', 'emsigen', 'dienerin', 'ameisenhaufen', 'zielgerichtet']","['lyric', 'lylo', 'love', 'abgelegt']","['thron', 'mittelpunkt', 'königin', 'kribbelt']",6
+1197,"['welt', 'die', 'meckern', 'auswärts', 'führten', 'gackern', 'und', 'unsere', 'rollt']",['dir'],['trifft'],9
+1198,"['die', 'unsere', 'rollt', 'welt', 'und', 'gereichten']","['lyric', 'lylo', 'love', 'abgelegt']","['her', 'zwischen', 'hin', 'sehen']",6
+1199,"['jan', 'geschenk', 'erwachen', 'letter']","['lylo', 'lyric', 'in', 'abgelegt', 'by', 'sehnsuchtsbogen']","['und', 'fallen', 'beim', 'vibrierend', 'vertraue', 'verpackst']",4
+1200,"['letter', 'lippenpups', 'sternenküsse', 'jan', 'nachthimmels', 'mattglänzendem', 'kussregen', 'himbeermund']","['lyric', 'lylo']","['zelt', 'samtige']",8
+1201,"['letter', 'samtige', 'nachthimmels', 'mattglänzendem', 'kussregen', 'himbeermund', 'umspülen', 'feuchtem']","['lyric', 'lylo']","['zelt', 'male']",8
+1202,"['jugendmorgen', 'vibrierend', 'sehnsuchtsbogen', 'schlafschweren', 'liebesgöttin']","['lyric', 'lylo', 'love', 'frühlingswind', 'abgelegt']","['und', 'vertraue', 'straff', 'harfe', 'gesichts']",5
+1204,"['geschenk', 'letter', 'morgen', 'verpackst', 'einschlafen', 'schönste']","['lyric', 'lylo', 'abgelegt', 'erwachen']","['am', 'bereit', 'gott', 'selber']",6
+1206,"['machst', 'du', 'schön', 'vanilleatem', 'pfirsichfarbenem', 'morsen']","['lyric', 'färbst', 'feuchtglänzende', 'erdbeerspalten']","['einer', 'äderchen', 'verräterische', 'schreite']",6
+1207,"['machst', 'tgl', 'strahlt', 'höhepunkt', 'schön', 'antje', 'du']","['lylo', 'liebe', 'gruß']","['außen', 'besuch', 'seite']",7
+1209,"['strahlend', 'jung', 'jugendliebe', 'verteilen', 'strumpfband', 'wiege']","['lyric', 'lylo', 'love', 'abgelegt']","['geöffnet', 'sollen', 'fangen', 'betten']",6
+1210,"['strahlend', 'jung', 'jugendliebe', 'geöffnet', 'verteilen', 'fangen', 'strumpfband', 'betten', 'wiege']",['küsse'],['sollen'],9
+1212,"['schlaf', 'letter', 'liebesstille', 'rieseln', 'knistern', 'seide', 'fingerspitzen']","['lyric', 'lylo', 'abgelegt']","['stirn', 'lass', 'träume']",7
+1214,"['nein', 'und', 'rosen', 'letters']","['schlagobersgarnitur', 'satinstrapse', 'pfirsichhaut', 'lederdessous', 'apfelgrünen', 'lylo']","['ihre', 'hängen', 'sich', 'den', 'rote', 'haar']",4
+1217,"['schenkte', 'freu', 'ich', 'die', 'herz', 'danke', 'familienerweiterung']","['lylo', 'cousinen', 'caliente_in_berlin']","['machen', 'vergessen', 'verlorene']",7
+1218,"['ich', 'wach', 'du']","['holtest', 'mondlichts', 'überschüttet', 'schenktest', 'schnuppere', 'nachtwache', 'streue']","['bett', 'gehe', 'nein', 'die', 'heute', 'mich', 'mir']",3
+1219,"['herzen', 'galoppieren', 'funkensprühend', 'nächtlicher']","['lylo', 'lyric', 'dir', 'love', 'danke', 'abgelegt']","['weisst', 'vom', 'wovon', 'satten', 'ritt', 'sehr']",4
+1220,"['satten', 'galoppieren', 'funkensprühend', 'nächtlicher', 'sattel', 'love', 'glücks']","['lyric', 'lylo', 'abgelegt']","['ritt', 'seufzer', 'schwingen']",7
+1221,"['abendkleid', 'schwarz', 'feucht', 'schmiegt', 'lenden', 'mein', 'lust', 'spitzenmuster']","['lyric', 'lylo']","['schlängelt', 'rock']",8
+1224,"['lass', 'deinem', 'rasen', 'glühen', 'trinken', 'verströmend', 'pulsierend', 'luststrom']","['erhitzend', 'pulsieren']","['mich', 'raserei']",8
+1225,"['lass', 'deinem', 'rasen', 'glühen', 'verströmend', 'pulsierend', 'luststrom']","['lyric', 'erhitzend', 'lylo']","['trinken', 'mich', 'raserei']",7
+1226,"['deine', 'wühle', 'unerschöpflichen', 'nachthaut']","['lyric', 'lylo', 'abgelegt', 'füttere', 'haut', 'lust']","['straßenbahn', 'notiere', 'mittagessen', 'klienten', 'happen', 'nackte']",4
+1232,"['verschmelzend', 'seelenmauer', 'lippenrand', 'liebesregen', 'hitzeschauer', 'herzensbrand', 'funkentanz']","['lyric', 'fingerspitzenhaut', 'entzündend']","['tanzend', 'pupille', 'fordernd']",7
+1233,"['tiefgeifend', 'hutschelchen', 'verschmelzend', 'seelenmauer']","['lippenrand', 'liebesregen', 'hitzeschauer', 'herzensbrand', 'funkentanz', 'fingerspitzenhaut']","['übe', 'tiefgreifende', 'hintergrundbilder', 'beneide', 'tanzend', 'pupille']",4
+1235,"['wortblick', 'perle', 'muschel', 'blicke', 'meine', 'honigsee', 'hautbeben']","['deine', 'lyric', 'lylo']","['als', 'verstummt', 'zitternd']",7
+1238,"['moosgebettet', 'aufwind', 'blickes', 'trägst', 'love', 'dez']","['lyric', 'lylo', 'abgelegt', 'küsse']","['getragen', 'armen', 'unser', 'deines']",6
+1239,"['jubeltag', 'nächsten', 'danke', 'dez']","['lylo', 'lg', 'hochzeitsspruch', 'grüße', 'lyric', 'zauberbaum']","['und', 'gefällt', 'freue', 'kommentar', 'fällt', 'nu']",4
+1241,"['traumweichen', 'formst', 'drückst', 'auffängst', 'traumhaft', 'herz']","['lyric', 'lylo', 'love', 'abgelegt']","['fliegenden', 'rast', 'erwache', 'wahr']",6
+1244,"['überlebenswillens', 'troffst', 'ritztest', 'brandmal', 'ausgebrannt', 'bitter']","['lyric', 'lylo', 'herzförmige', 'abgelegt']","['fackel', 'brannte', 'küsste', 'hohn']",6
+1247,"['stürmen', 'sterbender', 'schwanensee', 'schwan', 'salziges', 'grausamkeit', 'gepeitscht', 'branden']","['gefieder', 'barfuß']","['träumt', 'felsen']",8
+1250,"['winterpracht', 'vogelspur', 'frostbeet']","['lyric', 'lylo', 'love', 'abgelegt', 'wintersonne', 'eisblumen', 'erwärmt']","['klirren', 'einsame', 'blasse', 'pracht', 'schneeflocken', 'weiten', 'verliert']",3
+1251,"['möchte', 'nachempfinden', 'hinwerfen', 'ich', 'überlassen', 'interpretiert']","['lyric', 'winterpracht', 'vogelspur', 'frostbeet']","['zeigen', 'leser', 'er', 'daraus']",6
+1253,"['lust', 'augen', 'wortgemächt', 'herzkleid', 'herauskocht', 'berstend']","['lyric', 'lylo', 'in', 'abgelegt']","['verklebt', 'nägeln', 'fetzen', 'berührend']",6
+1254,"['augen', 'wortgemächt', 'herzkleid', 'herauskocht', 'berstend', 'nägeln', 'berührend']","['haut', 'lust', 'in']","['verklebt', 'fetzen', 'sie']",7
+1256,"['er', 'blut', 'wässrigkeit', 'prankt', 'federndem']","['lyric', 'lylo', 'love', 'in', 'meinen']","['fraß', 'pulst', 'gierig', 'geleckt', 'gelben']",5
+1259,"['zeichne', 'winterglück', 'gefallenen', 'pinsel', 'freudentränen']","['lyric', 'lylo', 'love', 'abgelegt', 'deiner']","['linien', 'schneeflocken', 'senkt', 'netze', 'lausche']",5
+1260,"['zeichne', 'winterglück', 'gefallenen', 'pinsel', 'schneeflocken', 'freudentränen', 'senkt', 'netze']","['deiner', 'glücks']","['linien', 'lausche']",8
+1262,"['träume', 'nachtgedicht', 'blütenblättern', 'begebe', 'bedeckst', 'atems']","['lyric', 'lylo', 'love', 'abgelegt']","['wache', 'schlafend', 'kissen', 'kleines']",6
+1264,"['still', 'glück', 'das', 'du', 'bist', 'dich', 'dez']","['lylo', 'in', 'lyric']","['wie', 'ist', 'die']",7
+1265,"['lach', 'verdamme', 'sinke', 'trinke', 'inspired', 'leuchtest']","['du', 'lyric', 'lylo', 'spiralt']","['laut', 'gott', 'ich', 'schramme']",6
+1267,"['schlüpfst', 'kriechst', 'jubelschrei', 'feuchtest']","['in', 'lyric', 'dich', 'lylo', 'tropfst', 'zeichnest']","['wort', 'stürze', 'breit', 'beißt', 'dunkelrot', 'bebt']",4
+1269,"['still', 'glück', 'das', 'du', 'schwenkst']","['lyric', 'gehauchte', 'azurnem', 'lylo', 'love']","['wie', 'ist', 'verschneiter', 'sande', 'richtest']",5
+1271,"['letter', 'beiträge', 'nächstes', 'dez', 'rutsch', 'neujahr']","['lyric', 'abgelegt', 'lylo', 'lyriclove']","['kommentar', 'verfassen', 'neuere', 'ältere']",6
+1272,"['antje', 'letter', 'lg', 'rutsch', 'neujahr', 'morgana', 'fata']","['lyric', 'lylo', 'abgelegt']","['jahr', 'gern', 'guten']",7
+1273,"['neujahr', 'letter', 'nächstes', 'rutsch', 'anmelden', 'anlegen']","['lyric', 'abgelegt', 'lyriclove', 'dez']","['guten', 'jahr', 'allen', 'euch']",6
+1274,"['simsalabim', 'zauberte', 'sprach', 'letter', 'schillerten', 'mitternachtszauber']","['kaleidoskopten', 'lyric', 'dir', 'lylo']","['schmiegte', 'schlaflied', 'schickte', 'sang']",6
+1279,"['vergisst', 'beiträge', 'löschblatt', 'blutenden', 'wunde', 'saugt', 'wortlosigkeit', 'du', 'neuere']",['lyriclove'],['geschlagen'],9
+1280,"['beschriebener', 'wenigen', 'beschreibst', 'vergisst', 'berührt', 'schmerz', 'du']","['zauberbaum', 'löschblatt', 'worten']","['mitten', 'gefühl', 'noch']",7
+1281,"['vergisst', 'wenn', 'du', 'löschblatt', 'blutenden', 'wunde', 'saugt', 'wortlosigkeit', 'mich']",['lyriclove'],['geschlagen'],9
+1282,"['hölle', 'tränenblinde', 'spitzenhöschen', 'wischt', 'wolltest', 'schweiß']","['du', 'glut', 'himmel', 'hinab']","['schützt', 'blind', 'brille', 'wut']",6
+1285,"['wölkchen', 'singe', 'sehnsuchtstöne', 'hauchen', 'warme', 'deinem', 'strapsen']","['kristallisieren', 'herzkruste', 'nachtgesang']","['kleine', 'die', 'überstreifen']",7
+1288,"['muss', 'rasend', 'sie', 'liebe', 'die', 'dir', 'atem']","['lyric', 'lylo', 'love']","['sein', 'still', 'schnüren']",7
+1289,"['anja', 'muss', 'liebe', 'sie', 'rasend', 'die', 'wunderschön', 'nov']","['dir', 'lyric']","['sein', 'still']",8
+1291,"['frei', 'ich', 'nachwinktest', 'monogramm']","['abendstille', 'lyric', 'berausche', 'lylo', 'love', 'flattere']","['bin', 'vollmond', 'umdrehte', 'taschentuch', 'stickt', 'jungem']",4
+1294,"['deinen', 'öffentlichkeit', 'umkreisen', 'lidvorhänge', 'ausschluss', 'augenküsse', 'küsse', 'verteilen', 'purzeln']",['gleiten'],['schließe'],9
+1296,"['zwecklose', 'schimmerten', 'fandest', 'stumme', 'fülltest']","['lyric', 'lylo', 'love', 'abgelegt', 'herzblut']","['als', 'wuchsen', 'tropfte', 'roter', 'perlen']",5
+1299,"['schneeflocken', 'ungesehen', 'sternenzelt', 'presst', 'komet', 'spinnt', 'herzenswärme', 'glutroter', 'verglüht']",['leibes'],['dampf'],9
+1302,"['schneit', 'weiße', 'zuckergespinst', 'winterliebe', 'schneeball']","['lyric', 'lylo', 'glitzerst', 'love', 'frischgefallener']","['lachen', 'verpackt', 'steckst', 'schein', 'kristalle']",5
+1303,"['schnee', 'kinder', 'schneien', 'frischgefallener', 'wochende', 'runtergefallen', 'nachlaufen', 'leuchtenten']","['geschrienben', 'gefiehlen']","['wirkung', 'schneeflocke']",8
+1305,"['wärm', 'achte', 'wälzt', 'schnee', 'inspired']","['lyric', 'lylo', 'erfriert', 'deinem', 'allyklein']","['boden', 'auf', 'andere', 'vergräbt', 'sperma']",5
+1309,"['herbst', 'wiederkommst', 'schmetterling', 'freuen', 'warst']","['lylo', 'lg', 'quichi', 'lyric', 'vertöntes']","['auch', 'darüber', 'gefällt', 'sicher', 'deshalb']",5
+1311,"['zimmerbrand', 'warfst', 'spinnwebdünnem', 'speisezimmer']","['liebestür', 'liebesräume', 'kerzenlichtdinner', 'lyric', 'hauskleidung', 'halsschlagadern']","['schatten', 'einen', 'und', 'verschmilzt', 'tapezieren', 'nachtisch']",4
+1313,"['nichts', 'seine', 'kümmerte', 'meinen', 'leckte']","['lyric', 'lylo', 'love', 'abgelegt', 'kopfüber']","['er', 'etwas', 'stürzte', 'drängte', 'war']",5
+1315,"['dich', 'nicht', 'erspüren', 'mir', 'bist']","['lylo', 'okt', 'in', 'du', 'sehnsuchtshungrigkeit']","['sich', 'nur', 'ziehen', 'denken', 'so']",5
+1316,"['dich', 'nicht', 'erspüren', 'bist', 'nur', 'mir', 'du']","['lyric', 'lylo', 'love']","['wie', 'denken', 'so']",7
+1318,"['verlust', 'sich', 'staubkörner', 'sehnsuchtshungrigkeit', 'schlüpfrigen']","['geschüttelten', 'dir', 'fensteraugen', 'knieen', 'teiche']","['wühlt', 'wagte', 'unberührten', 'trostlosen', 'schamlos']",5
+1320,"['weggeschoben', 'vermoderte', 'erhellen', 'wärmen']","['lyric', 'lylo', 'love', 'abgelegt', 'meine', 'dich']","['stein', 'ewig', 'dunkler', 'höhle', 'welcher', 'dankbar']",4
+1322,"['welt', 'war', 'wunderbar', 'ist', 'bitter', 'ängstlich']","['lyric', 'lylo', 'abgelegt', 'hilflos']","['erkenne', 'nicht', 'sie', 'sein']",6
+1327,"['den', 'zauberworte', 'verweilten', 'herbstgenüsse', 'meiner']","['lyric', 'lylo', 'love', 'abgelegt', 'küss']","['oftmals', 'iss', 'baumes', 'von', 'mitnehmen']",5
+1330,"['weiß', 'ich', 'du', 'kannte', 'bist']","['lyric', 'dir', 'lylo', 'tratest', 'love']","['dass', 'anders', 'vorbeigehen', 'kamst', 'herausfinden']",5
+1331,"['weiß', 'ich', 'glücklicher', 'solche', 'du', 'geschenkt', 'welch']","['bist', 'lyric', 'dir']","['bekommt', 'kannte', 'dass']",7
+1333,"['er', 'die', 'okt', 'zärtelt', 'raschelnd']","['lylo', 'laubhaar', 'abgelegt', 'by', 'fahle']","['hat', 'seine', 'verschlungen', 'gewöhnt', 'strahlenden']",5
+1334,"['winterdepressiv', 'herbstgebettet', 'zärtelt', 'raschelnd', 'laubhaar', 'fahle', 'hach', 'streichelt']","['trauben', 'feuchte']","['liege', 'hängen']",8
+1335,"['herbstgebettet', 'zärtelt', 'raschelnd', 'laubhaar', 'fahle', 'streichelt', 'bunte']","['trauben', 'feuchte', 'zeichnet']","['liege', 'hängen', 'blätter']",7
+1336,"['er', 'hat', 'seine', 'bitter', 'verschlungen', 'strahlenden', 'steh']","['lyric', 'lylo', 'abgelegt']","['gewöhnt', 'gegeben', 'gebracht']",7
+1338,"['er', 'schreiender', 'schachbrett', 'peitschende', 'geknebelt', 'bepillter']","['bitter', 'lyric', 'lylo', 'allyklein']","['sm', 'nannten', 'gefesselt', 'ahnt']",6
+1340,"['abendstimmung', 'pinsel', 'sehnsucht', 'verbundenheit', 'glanz', 'zeichnet']","['lyriclove', 'anmelden', 'anlegen', 'horizont']","['wirft', 'nehme', 'mitte', 'male']",6
+1342,"['wortschatz', 'weben', 'umschlinge', 'schatzkästlein', 'liebesflüstern', 'stilles']","['lyric', 'lylo', 'love', 'abgelegt']","['mitnehmen', 'betrachte', 'geschenkt', 'band']",6
+1343,"['wortschatz', 'weben', 'umschlinge', 'schatzkästlein', 'mitnehmen', 'liebesflüstern', 'stilles']","['seufzen', 'zärtlich', 'ich']","['betrachte', 'geschenkt', 'band']",7
+1345,"['begierde', 'lust', 'unbeschreibbar', 'tiefverneig', 'seelenluft', 'notration']","['heizu', 'lustgelähmt', 'wolllust', 'meine']","['und', 'vergraben', 'trübe', 'teilhaben']",6
+1346,"['begierde', 'wolllust', 'lustgelähmt', 'meine', 'vergesse', 'lust', 'haut', 'wolllustgelähmt']","['in', 'lyric']","['zetteln', 'zettel']",8
+1347,"['merci', 'ich', 'hast', 'versuchs']","['umarmdich', 'traumgedicht', 'bierzeltlyrik', 'ally', 'du', 'schreibblockade']","['sachen', 'gleich', 'leere', 'die', 'natürlich', 'eine']",4
+1348,"['gibt', 'die', 'wortzeichnungen', 'wolkenvorhang']","['lyric', 'mitternachtsblauer', 'auseinanderleckt', 'anfertigt', 'lylo', 'love']","['lassen', 'weil', 'um', 'hoffnung', 'sie', 'es']",4
+1349,"['flügel', 'engel', 'mich', 'zurückschicken', 'schnuppernd', 'dürste', 'bewachte', 'abschnalle']","['erahne', 'beflügelt']","['lüften', 'ich']",8
+1352,"['zerfloss', 'verwartet', 'verhöhnend', 'seidenfäden', 'feenhaar']","['bitter', 'lyric', 'sravana', 'lylo', 'augenseen']","['zaubergarten', 'verbrachte', 'tropften', 'herantrat', 'blühend']",5
+1354,"['überlebensration', 'rucksackliebe', 'gipfelkreuz', 'beschwerlichen', 'lieblosigkeit']","['lyric', 'lylo', 'love', 'abgelegt', 'deiner']","['weg', 'rucksack', 'packe', 'berg', 'angelangt']",5
+1355,"['nicht', 'platz', 'ich', 'liebe', 'sie', 'auch', 'kann']","['du', 'die', 'verdichten']","['aber', 'ist', 'von']",7
+1357,"['trag', 'jung', 'ich', 'verkrümm']","['lyric', 'gepeitschter', 'dich', 'lylo', 'liebe', 'love']","['doch', 'sie', 'bin', 'hab', 'zeit', 'missbraucht']",4
+1358,"['ich', 'mail', 'verdichten', 'auch', 'hab', 'peng', 'trag', 'doch']","['dich', 'du']","['richtig', 'jung']",8
+1360,"['wolltest', 'vorbeischaun', 'öfter', 'werd', 'okt', 'karink', 'bitter']","['lyric', 'liebesklage', 'lylo']","['texte', 'schöne', 'keine']",7
+1361,"['wolltest', 'bitter', 'liebesklage', 'lieben', 'anklagen', 'du']","['lyric', 'lylo', 'abgelegt', 'liebe']","['keine', 'gott', 'nicht', 'lassen']",6
+1362,"['okt', 'ich', 'rinne', 'aufgesogener']","['lylo', 'deinen', 'abgelegt', 'by', 'sammle', 'becken']","['sei', 'es', 'nicht', 'steinen', 'kleben', 'glatten']",4
+1363,"['rinne', 'aufgesogener', 'steinen', 'glatten', 'becken', 'sammle', 'dunst']","['deinen', 'moos', 'rändern']","['falle', 'kalten', 'nieder']",7
+1365,"['sei', 'es', 'zutrauen', 'würds', 'unfrei', 'kleben', 'lösen']","['dir', 'bitter', 'lyric']","['verdammt', 'nicht', 'was']",7
+1366,"['sei', 'es', 'bitter', 'unfrei', 'kleben']","['lyric', 'lylo', 'abgelegt', 'dir', 'okt']","['nicht', 'lösen', 'was', 'gewesen', 'freiheit']",5
+1367,"['zieren', 'stillt', 'reinigt', 'bitter', 'herzenswärme', 'sravana']","['lyric', 'lylo', 'abgelegt', 'verschwommen']","['tags', 'lücke', 'hinterließ', 'gewissheit']",6
+1370,"['nähe', 'nicht', 'zu', 'schick', 'ich']","['dich', 'bitter', 'lyric', 'lylo', 'verlier']","['wo', 'bringt', 'doch', 'allein', 'all']",5
+1373,"['abonniert', 'österreich', 'du', 'schreist']","['dich', 'abspeichern', 'abonnements', 'abos', 'bussi', 'eingetragen']","['bei', 'sagt', 'und', 'normalerweise', 'mitglied', 'jungfrau']",4
+1374,"['schreist', 'du', 'bitter', 'liebesschrei', 'überbrüllen', 'versicherst', 'schwörst']","['lyric', 'sehnsucht', 'lylo']","['augenblick', 'diesem', 'anschreit']",7
+1375,"['lässt', 'mut', 'mich', 'gehen', 'gewitter', 'beklommen', 'verschwommen']","['schwüle', 'nacht', 'dich']","['sehen', 'gibt', 'september']",7
+1377,"['worten', 'meinen', 'mit', 'dich', 'liebe', 'love']","['lyric', 'lylo', 'abgelegt', 'augen']","['nicht', 'schreit', 'ich', 'streicheln']",6
+1380,"['vielleicht', 'zu', 'dich', 'lieben', 'sep', 'weggang']","['lylo', 'auslöstest', 'in', 'abgelegt']","['es', 'war', 'für', 'gibt']",6
+1381,"['neue', 'gibt', 'geholt', 'hervor', 'liebe', 'sep', 'love']","['lyric', 'lylo', 'abgelegt']","['wolken', 'neuen', 'hinter']",7
+1383,"['vielleicht', 'zu', 'dich', 'lieben', 'sicher', 'weggang', 'benützt']","['auslöstest', 'du', 'konntest']","['war', 'für', 'liebte']",7
+1385,"['nacktheit', 'meiner', 'opfere', 'aufhört', 'regengott', 'sehnsucht', 'trommelt']","['deine', 'meine', 'strömt']","['regnet', 'melodie', 'regnen']",7
+1386,"['nacktheit', 'versautes', 'bell', 'meiner', 'opfere', 'regengott']","['sehnsucht', 'trommelt', 'deine', 'meine']","['anna', 'aufhört', 'regnet', 'melodie']",6
+1388,"['nimms', 'ich', 'tragisch', 'so', 'und']","['abändern', 'worts', 'deinen', 'feilen', 'gästebuch']","['sehr', 'wir', 'gerade', 'ja', 'nicht']",5
